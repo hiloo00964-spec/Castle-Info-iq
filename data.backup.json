@@ -3,13 +3,15 @@
     "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
     "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
     "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
-    "https://www.sciencedaily.com/releases/2026/07/260724061444.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+    "https://www.worldhistory.org/Andrew_Johnson/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
     "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
     "Dogs can tell fear from sadness — and scientists saw it in their brains",
-    "The Universe can outrun light without breaking Einstein’s rules"
+    "The Universe can outrun light without breaking Einstein’s rules",
+    "Andrew Johnson: The First US President to be Impeached"
   ],
   "last_posts": [
     {
@@ -42,6 +44,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-14T20:46:54.610456+03:00",
+      "title": "Andrew Johnson: The First US President to be Impeached",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Andrew_Johnson/",
       "image": true
     }
   ],

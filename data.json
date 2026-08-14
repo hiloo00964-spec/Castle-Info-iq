@@ -4,14 +4,16 @@
     "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
     "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
     "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-    "https://www.worldhistory.org/Andrew_Johnson/"
+    "https://www.worldhistory.org/Andrew_Johnson/",
+    "https://www.worldhistory.org/article/2960/the-history-of-the-inquisition/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
     "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
     "Dogs can tell fear from sadness — and scientists saw it in their brains",
     "The Universe can outrun light without breaking Einstein’s rules",
-    "Andrew Johnson: The First US President to be Impeached"
+    "Andrew Johnson: The First US President to be Impeached",
+    "The History of the Inquisition: The Catholic Church's Battle Against Deviance"
   ],
   "last_posts": [
     {
@@ -52,6 +54,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Andrew_Johnson/",
+      "image": true
+    },
+    {
+      "time": "2026-08-14T22:43:17.619793+03:00",
+      "title": "The History of the Inquisition: The Catholic Church's Battle Against Deviance",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/2960/the-history-of-the-inquisition/",
       "image": true
     }
   ],
