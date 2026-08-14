@@ -376,15 +376,47 @@ def telegram(caption,img=None):
     p=download(img) if img else None
     try:
         with Client("castle_info_bot",api_id=API_ID,api_hash=API_HASH,bot_token=BOT_TOKEN,in_memory=True) as app:
+            # Resolve the channel first because GitHub Actions starts with a fresh
+            # Pyrogram storage on every run and the peer may not be cached.
+            chat = app.get_chat(TELEGRAM_CHANNEL_ID)
+            chat_id = chat.id
+
+            logging.info(
+                "Telegram channel resolved: title=%s id=%s",
+                getattr(chat, "title", ""),
+                chat_id
+            )
+
             if p and p.exists():
                 try:
-                    app.send_photo(TELEGRAM_CHANNEL_ID,str(p),caption=caption,parse_mode=enums.ParseMode.HTML); return
-                except Exception as e: logging.warning("photo failed: %s",e)
-            app.send_message(TELEGRAM_CHANNEL_ID,caption,parse_mode=enums.ParseMode.HTML,disable_web_page_preview=True)
+                    app.send_photo(
+                        chat_id,
+                        str(p),
+                        caption=caption,
+                        parse_mode=enums.ParseMode.HTML
+                    )
+                    logging.info("Posted photo to Telegram successfully")
+                    return
+                except Exception as e:
+                    logging.warning(
+                        "Photo publish failed, falling back to text: %s",
+                        e
+                    )
+
+            app.send_message(
+                chat_id,
+                caption,
+                parse_mode=enums.ParseMode.HTML,
+                disable_web_page_preview=True
+            )
+            logging.info("Posted text to Telegram successfully")
+
     finally:
         if p:
-            try: p.unlink(missing_ok=True)
-            except: pass
+            try:
+                p.unlink(missing_ok=True)
+            except:
+                pass
 
 def remember(d,a,caption):
     d.setdefault("posted_links",[]).append(a.get("link",""))
@@ -398,17 +430,10 @@ def run():
     d=load()
     try:
         a=candidate(d)
-        if a:
-            text=generate_with_auto_model(
-                article_prompt(a),
-                d
-            )[0]
+        if a: text=ai(article_prompt(a),d)
         else:
             t=random.choice([x for x in FALLBACK if x not in set(d.get("posted_titles",[]))] or FALLBACK)
-            text=generate_with_auto_model(
-                fallback_prompt(t),
-                d
-            )[0]
+            text=ai(fallback_prompt(t),d)
             a={"mode":"fallback","source":"Gemini","category":"معلومات عامة","title":t,"link":"fallback:"+t,"image_url":None}
         if leak(text): raise RuntimeError("Gemini returned instruction/prompt text")
         caption=build(text); telegram(caption,a.get("image_url")); remember(d,a,caption)
