@@ -2,6 +2,6 @@
   "posted_links": [],
   "posted_titles": [],
   "last_posts": [],
-  "last_error": "2026-08-14T11:56:23.800174 | name 'ai' is not defined",
+  "last_error": "2026-08-14T12:00:57.867419 | Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it ",
   "active_gemini_model": "gemini-3.5-flash-lite"
 }
