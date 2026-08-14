@@ -2,6 +2,6 @@
   "posted_links": [],
   "posted_titles": [],
   "last_posts": [],
-  "last_error": "",
+  "last_error": "2026-08-14T11:39:24.182055 | name 'ai' is not defined",
   "active_gemini_model": ""
 }
