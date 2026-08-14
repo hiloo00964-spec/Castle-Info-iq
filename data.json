@@ -1,7 +1,20 @@
 {
-  "posted_links": [],
-  "posted_titles": [],
-  "last_posts": [],
-  "last_error": "2026-08-14T12:12:56.039030 | Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it ",
+  "posted_links": [
+    "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/"
+  ],
+  "posted_titles": [
+    "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too"
+  ],
+  "last_posts": [
+    {
+      "time": "2026-08-14T16:01:53.447441+03:00",
+      "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
+      "image": true
+    }
+  ],
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite"
 }
