@@ -2,6 +2,6 @@
   "posted_links": [],
   "posted_titles": [],
   "last_posts": [],
-  "last_error": "2026-08-14T11:52:36.922575 | name 'ai' is not defined",
-  "active_gemini_model": ""
+  "last_error": "2026-08-14T11:56:23.800174 | name 'ai' is not defined",
+  "active_gemini_model": "gemini-3.5-flash-lite"
 }
