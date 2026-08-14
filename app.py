@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime
 from typing import Optional,Any,Dict,List,Tuple
 import pytz,requests,feedparser
-import google.generativeai as genai
+from google import genai
 from bs4 import BeautifulSoup
 from PIL import Image
 from pyrogram import Client,enums
@@ -117,27 +117,199 @@ def candidate(d):
                     "title":title,"link":link,"text":text,"image_url":image_of(e,link)}
     return None
 
-def models():
-    out=[]
-    try:
-        for m in genai.list_models():
-            n=getattr(m,"name","").replace("models/","")
-            if "generateContent" in list(getattr(m,"supported_generation_methods",[]) or []) and "embedding" not in n.lower(): out.append(n)
-    except: pass
-    base=[PREFERRED,"gemini-2.5-flash","gemini-2.5-flash-lite","gemini-2.0-flash","gemini-2.0-flash-lite","gemini-1.5-flash"]
-    return list(dict.fromkeys([x for x in base+out if x]))
 
-def ai(prompt,d):
-    genai.configure(api_key=GOOGLE_API_KEY)
-    last=None
-    for n in models():
+def _model_name(model: Any) -> str:
+    return (getattr(model, "name", "") or "").removeprefix("models/")
+
+
+def _model_supports_text_generation(model: Any) -> bool:
+    """
+    Accept models that the current Gemini API reports as supporting
+    generateContent. Exclude model families intended for non-text tasks.
+    """
+    actions = getattr(model, "supported_actions", None)
+    if actions is None:
+        actions = getattr(model, "supported_generation_methods", None)
+
+    if actions:
+        normalized = {str(action).lower() for action in actions}
+        if "generatecontent" not in normalized:
+            return False
+
+    name = _model_name(model).lower()
+    blocked = (
+        "embedding",
+        "embed",
+        "tts",
+        "audio",
+        "live",
+        "veo",
+        "imagen",
+        "image",
+        "robotics",
+    )
+    if any(token in name for token in blocked):
+        return False
+
+    return True
+
+
+def _model_rank(name: str) -> tuple:
+    """
+    Prefer stable text/Flash models but never require a hard-coded model ID.
+    If Google adds a newer model, it is discovered automatically.
+    """
+    n = name.lower()
+
+    preview_penalty = 20 if "preview" in n else 0
+    flash_penalty = 0 if "flash" in n else 8
+    lite_penalty = 0 if "lite" in n else 2
+    experimental_penalty = 10 if any(
+        token in n for token in ("experimental", "-exp", "_exp")
+    ) else 0
+
+    version_matches = re.findall(
+        r"(?<!\d)(\d+(?:\.\d+)+)(?!\d)",
+        n
+    )
+    if version_matches:
+        version = tuple(
+            -int(part)
+            for part in version_matches[-1].split(".")
+        )
+    else:
+        version = (0,)
+
+    return (
+        preview_penalty,
+        flash_penalty,
+        lite_penalty,
+        experimental_penalty,
+        version,
+        n,
+    )
+
+
+def discover_text_models(client: genai.Client) -> List[str]:
+    """
+    Ask Google's live model catalog on every run.
+
+    No fixed Gemini model list is required. The API decides what models are
+    currently available to this API key; the bot filters for text generation.
+    """
+    discovered = []
+
+    try:
+        for model in client.models.list():
+            if not _model_supports_text_generation(model):
+                continue
+
+            name = _model_name(model)
+            if name:
+                discovered.append(name)
+
+    except Exception as exc:
+        raise RuntimeError(
+            f"Gemini model discovery failed: {exc}"
+        ) from exc
+
+    discovered = list(dict.fromkeys(discovered))
+
+    if PREFERRED:
+        preferred = PREFERRED.removeprefix("models/")
+        if preferred in discovered:
+            discovered.remove(preferred)
+            discovered.insert(0, preferred)
+        else:
+            logging.warning(
+                "GEMINI_MODEL=%s is not currently available for text generation; ignoring it.",
+                preferred,
+            )
+
+    discovered.sort(key=_model_rank)
+
+    logging.info(
+        "Gemini text models discovered dynamically: %s",
+        discovered,
+    )
+
+    if not discovered:
+        raise RuntimeError(
+            "No currently available Gemini text-generation model was found."
+        )
+
+    return discovered
+
+
+def generate_with_auto_model(
+    prompt: str,
+    data: Dict[str, Any]
+) -> Tuple[str, str]:
+    """
+    Discover and try current text-capable Gemini models at runtime.
+
+    If one model is unavailable, deprecated, quota-limited, or otherwise
+    fails, automatically falls back to another currently listed model.
+    """
+    client = genai.Client(api_key=GOOGLE_API_KEY)
+
+    candidates = discover_text_models(client)
+    last_error = None
+
+    for name in candidates:
         try:
-            r=genai.GenerativeModel(n).generate_content(prompt)
-            text=re.sub(r"\n{3,}","\n\n",(getattr(r,"text","") or "").replace("**","").strip())
-            if len(text)<80: raise RuntimeError("short response")
-            d["active_gemini_model"]=n; save(d); return text
-        except Exception as e: last=e; logging.warning("Gemini %s: %s",n,e); time.sleep(1)
-    raise RuntimeError(f"Gemini failed: {last}")
+            logging.info(
+                "Trying dynamically discovered Gemini model: %s",
+                name,
+            )
+
+            response = client.models.generate_content(
+                model=name,
+                contents=prompt,
+            )
+
+            result = (
+                getattr(response, "text", "") or ""
+            ).strip()
+
+            result = re.sub(
+                r"\n{3,}",
+                "\n\n",
+                result,
+            ).replace("**", "").strip()
+
+            if len(result) < 80:
+                raise RuntimeError(
+                    f"Gemini response too short from {name}"
+                )
+
+            data["active_gemini_model"] = name
+            save(data)
+
+            logging.info(
+                "Gemini model success: %s",
+                name,
+            )
+
+            return result, name
+
+        except Exception as exc:
+            last_error = exc
+
+            logging.warning(
+                "Gemini model failed: %s | %s",
+                name,
+                exc,
+            )
+
+            # Give the next currently available model a chance.
+            time.sleep(2)
+
+    raise RuntimeError(
+        "All currently discovered Gemini text models failed. "
+        f"Last error: {last_error}"
+    )
+
 
 def article_prompt(a):
     return f"""أنت محرر قناة تيليجرام عربية اسمها قلعة المعلومات العامة.
