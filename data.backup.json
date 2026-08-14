@@ -1,9 +1,11 @@
 {
   "posted_links": [
-    "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/"
+    "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
+    "https://www.sciencedaily.com/releases/2026/08/260812015212.htm"
   ],
   "posted_titles": [
-    "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too"
+    "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
+    "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere"
   ],
   "last_posts": [
     {
@@ -12,6 +14,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
+      "image": true
+    },
+    {
+      "time": "2026-08-14T16:08:56.842091+03:00",
+      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
       "image": true
     }
   ],
