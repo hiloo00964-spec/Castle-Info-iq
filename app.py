@@ -430,10 +430,11 @@ def run():
     d=load()
     try:
         a=candidate(d)
-        if a: text=ai(article_prompt(a),d)
+        if a:
+            text=generate_with_auto_model(article_prompt(a), d)[0]
         else:
             t=random.choice([x for x in FALLBACK if x not in set(d.get("posted_titles",[]))] or FALLBACK)
-            text=ai(fallback_prompt(t),d)
+            text=generate_with_auto_model(fallback_prompt(t), d)[0]
             a={"mode":"fallback","source":"Gemini","category":"معلومات عامة","title":t,"link":"fallback:"+t,"image_url":None}
         if leak(text): raise RuntimeError("Gemini returned instruction/prompt text")
         caption=build(text); telegram(caption,a.get("image_url")); remember(d,a,caption)
