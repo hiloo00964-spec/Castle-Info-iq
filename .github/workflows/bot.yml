@@ -68,10 +68,12 @@ jobs:
 
           git add data.json data.backup.json 2>/dev/null || true
 
-          git add last_news_id.txt \
-                  last_instagram_id.txt \
-                  last_threads_id.txt \
-                  .news_history_reset 2>/dev/null || true
+          git add \
+            last_news_id.txt \
+            last_instagram_id.txt \
+            last_threads_id.txt \
+            .news_history_reset \
+            2>/dev/null || true
 
           git diff --cached --quiet || git commit -m "chore: update bot data and histories"
 
