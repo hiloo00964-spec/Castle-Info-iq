@@ -9,7 +9,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
     "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
     "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260804034628.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
+    "https://www.worldhistory.org/collection/324/history-by-the-numbers/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -21,7 +22,8 @@
     "Strange gamma rays could reveal how stars forge heavy elements",
     "Black holes may spit out nearly as much matter as they swallow",
     "Frequent cannabis users wake up with their “stress hormone” already elevated",
-    "A solar eclipse and the Perseid meteor shower arrive on the same day"
+    "A solar eclipse and the Perseid meteor shower arrive on the same day",
+    "History by the Numbers: 12 Visual Stories of Power, Conflict, Discovery & Change"
   ],
   "last_posts": [
     {
@@ -102,6 +104,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-15T20:12:40.169141+03:00",
+      "title": "History by the Numbers: 12 Visual Stories of Power, Conflict, Discovery & Change",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/collection/324/history-by-the-numbers/",
       "image": true
     }
   ],
