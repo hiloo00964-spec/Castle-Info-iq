@@ -1,51 +1,49 @@
-name: Castle Info Bot
+name: News Bot V3
 
 on:
+  schedule:
+    # تشغيل البوت كل ساعتين.
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
-  schedule:
-    - cron: "0 0,9,11,13,15,17,19,21,23 * * *"
-      timezone: "Asia/Baghdad"
-
+# السماح لـ GitHub Actions بحفظ سجل الأخبار بعد كل تشغيل.
 permissions:
   contents: write
 
+# منع تشغيل نسختين من البوت في الوقت نفسه.
 concurrency:
-  group: castle-info-bot
+  group: castle-news-facebook-publisher
   cancel-in-progress: false
 
 jobs:
-  run:
+  run-bot:
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-          cache: pip
+          python-version: '3.9'
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+      - name: Install Dependencies
+        run: pip install requests
 
-      - name: Run bot
+      - name: Run News Bot
         env:
-          # Telegram / AI
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
-          API_ID: ${{ secrets.API_ID }}
-          API_HASH: ${{ secrets.API_HASH }}
-          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          GMY: ${{ secrets.GMY }}
+          NEWS_CHANNEL: ${{ secrets.NEWS_CHANNEL }}
 
           # Facebook
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_TOKEN: ${{ secrets.FB_TOKEN }}
+
+          # Channel
+          MY_CHANNEL_LINK: ${{ secrets.MY_CHANNEL_LINK }}
 
           # Instagram
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
@@ -55,26 +53,25 @@ jobs:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
 
-          # Timezone
-          TIMEZONE: Asia/Baghdad
+          # التشغيل اليدوي يتجاوز ساعات العمل.
+          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
 
-        run: python app.py
+        run: python script.py
 
-      - name: Save database and histories
-        if: always()
+      - name: Save History
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
 
-          git add data.json data.backup.json 2>/dev/null || true
+          git add last_news_id.txt .news_history_reset
 
-          git add \
-            last_news_id.txt \
-            last_instagram_id.txt \
-            last_threads_id.txt \
-            .news_history_reset \
-            2>/dev/null || true
+          if [ -f last_instagram_id.txt ]; then
+            git add last_instagram_id.txt
+          fi
 
-          git diff --cached --quiet || git commit -m "chore: update bot data and histories"
+          if [ -f last_threads_id.txt ]; then
+            git add last_threads_id.txt
+          fi
 
-          git push || true
+          git diff --cached --quiet || git commit -m "Update news history"
+          git push
