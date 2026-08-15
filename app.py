@@ -1,7 +1,6 @@
 import os
 import re
 import html
-import json
 import requests
 import time
 from datetime import datetime
@@ -27,14 +26,14 @@ RESET_FILE = ".news_history_reset"
 
 SOURCE_CHANNEL = "Castlenewsiq"
 
-# الحد الأقصى 10 منشورات في كل تشغيل
-MAX_POSTS_PER_RUN = 10
+# الحد الأقصى 5 منشورات في كل تشغيل
+MAX_POSTS_PER_RUN = 5
 
 # 10 ثوانٍ بين المنشورات
 POST_DELAY_SECONDS = 10
 
-# تصفير السجل كل 7 أيام
-HISTORY_RESET_SECONDS = 7 * 24 * 60 * 60
+# تصفير السجل كل 48 ساعة
+HISTORY_RESET_SECONDS = 48 * 60 * 60
 
 TEMP_MEDIA_DIR = "tmp_media"
 
@@ -60,7 +59,7 @@ def is_work_time():
         return True
 
     current_hour = (datetime.utcnow().hour + 3) % 24
-    return 9 <= current_hour <= 23 or current_hour == 0
+    return 9 <= current_hour <= 23
 
 
 # =========================================================
@@ -69,7 +68,7 @@ def is_work_time():
 
 def reset_history_if_needed():
     """
-    تصفير سجلات Facebook وInstagram وThreads كل 7 أيام.
+    تصفير سجلات Facebook وInstagram وThreads كل 48 ساعة.
     """
     now = time.time()
 
@@ -259,167 +258,38 @@ def fetch_latest_posts(limit=MAX_POSTS_PER_RUN):
 # تحليل المنشور
 # =========================================================
 
-def _extract_caption(item):
+def parse_post(msg_id, item):
+    """
+    فقط:
+    - صورة منفردة
+    - فيديو منفرد
+
+    يتم تجاهل:
+    - النصوص فقط
+    - Albums
+    - الأنواع غير المدعومة
+    """
+
+    if re.search(
+        r"tgme_widget_message_grouped|data-album=",
+        item,
+        flags=re.IGNORECASE,
+    ):
+        return None
+
     msg_match = re.search(
         r'class="tgme_widget_message_text[^>]*>(.*?)</div>',
         item,
         re.DOTALL | re.IGNORECASE,
     )
+
     raw_text = msg_match.group(1) if msg_match else ""
-    return clean_news_text(raw_text)
-
-
-def _extract_grouped_html(item):
-    """
-    Telegram public pages render albums inside tgme_widget_message_grouped_wrap.
-    We isolate the grouped block before the caption so nested media can be parsed
-    without treating the album as multiple Telegram posts.
-    """
-    start = item.lower().find("tgme_widget_message_grouped_wrap")
-    if start < 0:
-        return None
-
-    end = item.lower().find("tgme_widget_message_text", start)
-    if end < 0:
-        end = len(item)
-
-    grouped = item[start:end]
-    return grouped if grouped.strip() else None
-
-
-def _extract_grouped_media(grouped_html):
-    """
-    Extract grouped media in the exact DOM order shown by Telegram.
-
-    For each media tile we need a directly usable public URL:
-    - photo: background-image URL
-    - video: video/data-video/source URL when Telegram exposes it
-
-    If a grouped tile exists but no usable media URL can be extracted,
-    return None so the album is treated as an invalid/incomplete extraction
-    and is NOT marked as processed.
-    """
-    anchors = re.findall(
-        r'<a\b[^>]*class="[^"]*grouped_media_wrap[^"]*"[^>]*>.*?</a>',
-        grouped_html,
-        flags=re.DOTALL | re.IGNORECASE,
-    )
-
-    if not anchors:
-        # Fallback for variants where grouped_media_wrap is absent.
-        anchors = re.findall(
-            r'<a\b[^>]*class="[^"]*grouped_media[^"]*"[^>]*>.*?</a>',
-            grouped_html,
-            flags=re.DOTALL | re.IGNORECASE,
-        )
-
-    if not anchors:
-        return None
-
-    media = []
-
-    for index, anchor in enumerate(anchors, 1):
-        lower = anchor.lower()
-
-        # Video variants: prefer a real video URL if Telegram exposes one.
-        video_match = re.search(
-            r'<video[^>]+(?:src|data-src)="([^"]+)"',
-            anchor,
-            re.IGNORECASE,
-        )
-        if not video_match:
-            video_match = re.search(
-                r'<source[^>]+src="([^"]+)"',
-                anchor,
-                re.IGNORECASE,
-            )
-        if not video_match:
-            video_match = re.search(
-                r'data-video="([^"]+)"',
-                anchor,
-                re.IGNORECASE,
-            )
-
-        if video_match or "widget_message_video" in lower or "message_video" in lower:
-            if not video_match:
-                return None
-
-            media.append(
-                {
-                    "type": "video",
-                    "url": html.unescape(video_match.group(1)),
-                    "index": index,
-                }
-            )
-            continue
-
-        # Photo tile: Telegram public HTML exposes a CDN URL in background-image.
-        photo_match = re.search(
-            r'background-image:url\([\'"]?([^\'")]+)',
-            anchor,
-            re.IGNORECASE,
-        )
-
-        if photo_match:
-            media.append(
-                {
-                    "type": "photo",
-                    "url": html.unescape(photo_match.group(1)),
-                    "index": index,
-                }
-            )
-            continue
-
-        # If the tile exists but no usable URL was found, album extraction is incomplete.
-        return None
-
-    return media if media else None
-
-
-def parse_post(msg_id, item):
-    """
-    Parse one Telegram post.
-
-    Supported:
-    - photo
-    - video
-    - album (grouped media)
-
-    Ignored:
-    - text-only posts
-    - unsupported media
-
-    An invalid/incompletely extracted album returns type='invalid_album'
-    so it is retried later instead of being marked as processed.
-    """
-    caption = _extract_caption(item)
-
-    # -----------------------------------------------------
-    # Album / grouped media
-    # -----------------------------------------------------
-    grouped_html = _extract_grouped_html(item)
-    if grouped_html is not None:
-        media = _extract_grouped_media(grouped_html)
-
-        if not media:
-            return {
-                "id": str(msg_id),
-                "type": "invalid_album",
-                "caption": caption,
-                "items": [],
-            }
-
-        return {
-            "id": str(msg_id),
-            "type": "album",
-            "caption": caption,
-            # Keep original Telegram order.
-            "items": media,
-        }
+    caption = clean_news_text(raw_text)
 
     # -----------------------------------------------------
     # صورة منفردة
     # -----------------------------------------------------
+
     photo_match = re.search(
         r'tgme_widget_message_photo_wrap[^>]*style="[^"]*background-image:url\([\'"]?([^\'")]+)',
         item,
@@ -444,6 +314,7 @@ def parse_post(msg_id, item):
             item,
             re.IGNORECASE,
         )
+
         if img_match:
             return {
                 "id": str(msg_id),
@@ -455,17 +326,20 @@ def parse_post(msg_id, item):
     # -----------------------------------------------------
     # فيديو منفرد
     # -----------------------------------------------------
+
     video_match = re.search(
         r'<video[^>]+(?:src|data-src)="([^"]+)"',
         item,
         re.IGNORECASE,
     )
+
     if not video_match:
         video_match = re.search(
             r'<source[^>]+src="([^"]+)"',
             item,
             re.IGNORECASE,
         )
+
     if not video_match:
         video_match = re.search(
             r'tgme_widget_message_video[^>]+[^>]*data-video="([^"]+)"',
@@ -482,6 +356,7 @@ def parse_post(msg_id, item):
         }
 
     return None
+
 
 # =========================================================
 # تنزيل الوسائط
@@ -1254,629 +1129,6 @@ def post_to_threads(
 
 
 # =========================================================
-# Album helpers
-# =========================================================
-
-MAX_ALBUM_ITEMS = 20
-
-
-def select_album_items(post):
-    """
-    Use at most the first 20 media items, preserving Telegram order.
-    The album itself still counts as one Telegram post.
-    """
-    items = post.get("items") or []
-    return items[:MAX_ALBUM_ITEMS]
-
-
-def download_album_media(items, msg_id):
-    """
-    Download selected album media once, in Telegram order.
-    Returns a list of local file paths and the matching media metadata.
-    """
-    downloaded = []
-
-    for index, media in enumerate(items, 1):
-        path = download_media(
-            media["url"],
-            media["type"],
-            f"{msg_id}_album_{index:02d}",
-        )
-        downloaded.append(
-            {
-                "type": media["type"],
-                "url": media["url"],
-                "path": path,
-                "index": index,
-            }
-        )
-
-    return downloaded
-
-
-def post_album_to_facebook(
-    media_files,
-    message="",
-):
-    """
-    Publish a photo album as one Facebook Page post.
-
-    Facebook's Page /feed + attached_media flow is photo-oriented.
-    For a mixed/video album we fail safely for Facebook only so Instagram
-    and Threads can still proceed independently.
-    """
-    if not FB_PAGE_ID or not FB_PAGE_TOKEN:
-        print(
-            "⚠️ Facebook: FB_PAGE_ID أو FB_TOKEN غير موجود."
-        )
-        return False
-
-    if not media_files:
-        return False
-
-    if any(
-        media["type"] != "photo"
-        for media in media_files
-    ):
-        print(
-            "⚠️ Facebook: Album يحتوي فيديو/نوع مختلط، "
-            "ولا يمكن نشره كـPage photo album بهذا المسار. "
-            "سيتم تخطي Facebook فقط."
-        )
-        return False
-
-    uploaded_ids = []
-
-    try:
-        # Upload each photo as unpublished media and collect its Facebook ID.
-        for media in media_files:
-            url = (
-                f"https://graph.facebook.com/v19.0/"
-                f"{FB_PAGE_ID}/photos"
-            )
-
-            payload = {
-                "published": "false",
-                "access_token": FB_PAGE_TOKEN,
-            }
-
-            with open(
-                media["path"],
-                "rb",
-            ) as media_file:
-                r = requests.post(
-                    url,
-                    data=payload,
-                    files={"source": media_file},
-                    timeout=120,
-                )
-
-            if r.status_code != 200:
-                print(
-                    "❌ Facebook Album Photo Upload Error: "
-                    f"{r.status_code} - {r.text[:1000]}"
-                )
-                return False
-
-            try:
-                photo_id = r.json().get("id")
-            except Exception:
-                photo_id = None
-
-            if not photo_id:
-                print(
-                    "❌ Facebook: لم يتم استلام Photo ID للـAlbum."
-                )
-                return False
-
-            uploaded_ids.append(str(photo_id))
-
-        # Create one Page post that attaches all uploaded photo IDs.
-        feed_url = (
-            f"https://graph.facebook.com/v19.0/"
-            f"{FB_PAGE_ID}/feed"
-        )
-
-        payload = {
-            "message": message,
-            "access_token": FB_PAGE_TOKEN,
-        }
-
-        for index, photo_id in enumerate(uploaded_ids):
-            payload[f"attached_media[{index}]"] = json.dumps(
-                {"media_fbid": photo_id},
-                ensure_ascii=False,
-            )
-
-        r = requests.post(
-            feed_url,
-            data=payload,
-            timeout=120,
-        )
-
-        if r.status_code == 200:
-            print(
-                f"✅ Facebook: تم نشر Album يحتوي "
-                f"{len(uploaded_ids)} صورة بنجاح"
-            )
-            return True
-
-        print(
-            "❌ Facebook Album Publish Error: "
-            f"{r.status_code} - {r.text[:1000]}"
-        )
-        return False
-
-    except Exception as e:
-        print(
-            f"⚠️ Facebook Album Connection Error: {e}"
-        )
-        return False
-
-
-def _instagram_wait_for_containers(
-    creation_ids,
-    media_types,
-):
-    """
-    Wait until all carousel child containers are ready.
-
-    Photos often return without a processing status; in that case they are
-    treated as ready. Videos are waited on until FINISHED/ERROR/EXPIRED.
-    """
-    if not creation_ids:
-        return False
-
-    max_checks = (
-        60
-        if any(media_type == "video" for media_type in media_types)
-        else 20
-    )
-
-    pending = set(range(len(creation_ids)))
-
-    for attempt in range(max_checks):
-        time.sleep(5)
-
-        next_pending = set()
-
-        for index in pending:
-            status = instagram_request(
-                "GET",
-                creation_ids[index],
-                params={"fields": "status_code,status"},
-            )
-
-            if status is None:
-                next_pending.add(index)
-                continue
-
-            if status.status_code != 200:
-                print(
-                    "⚠️ Instagram Carousel Status Error: "
-                    f"{status.status_code} - {status.text[:500]}"
-                )
-                next_pending.add(index)
-                continue
-
-            try:
-                data = status.json()
-            except Exception:
-                data = {}
-
-            status_code = str(
-                data.get("status_code", "")
-            ).upper()
-
-            if status_code == "FINISHED":
-                continue
-
-            if status_code in {"ERROR", "EXPIRED"}:
-                print(
-                    "❌ Instagram Carousel child failed: "
-                    f"{data}"
-                )
-                return False
-
-            # For image children some API responses omit status.
-            if (
-                media_types[index] == "photo"
-                and not status_code
-            ):
-                continue
-
-            next_pending.add(index)
-
-        if not next_pending:
-            print(
-                "✅ Instagram: تم تجهيز جميع عناصر الـAlbum."
-            )
-            return True
-
-        pending = next_pending
-
-        print(
-            "⏳ Instagram: انتظار تجهيز عناصر الـAlbum "
-            f"({attempt + 1}/{max_checks}) - "
-            f"المتبقي {len(pending)}"
-        )
-
-    print(
-        "❌ Instagram: انتهت مهلة تجهيز الـAlbum."
-    )
-    return False
-
-
-def post_album_to_instagram(
-    media_items,
-    caption="",
-):
-    """
-    Publish up to 20 images/videos as one Instagram carousel.
-    """
-    if not IG_USER_ID or not IG_ACCESS_TOKEN:
-        return False
-
-    if len(media_items) < 2:
-        return False
-
-    media_items = media_items[:MAX_ALBUM_ITEMS]
-    caption = (caption or "")[:2200]
-
-    creation_ids = []
-    media_types = []
-
-    try:
-        # Create one child container for each item in original order.
-        for media in media_items:
-            if media["type"] == "photo":
-                payload = {
-                    "image_url": media["url"],
-                    "is_carousel_item": "true",
-                }
-            elif media["type"] == "video":
-                payload = {
-                    "media_type": "REELS",
-                    "video_url": media["url"],
-                    "is_carousel_item": "true",
-                }
-            else:
-                print(
-                    "❌ Instagram: نوع غير مدعوم داخل الـAlbum."
-                )
-                return False
-
-            r = instagram_request(
-                "POST",
-                f"{IG_USER_ID}/media",
-                data=payload,
-            )
-
-            if r is None or r.status_code != 200:
-                print(
-                    "❌ Instagram Album Child Error: "
-                    f"{r.status_code if r is not None else 'NO_RESPONSE'} - "
-                    f"{r.text[:1000] if r is not None else ''}"
-                )
-                return False
-
-            try:
-                creation_id = r.json().get("id")
-            except Exception:
-                creation_id = None
-
-            if not creation_id:
-                print(
-                    "❌ Instagram: لم يتم استلام Child Container ID."
-                )
-                return False
-
-            creation_ids.append(str(creation_id))
-            media_types.append(media["type"])
-
-        if not _instagram_wait_for_containers(
-            creation_ids,
-            media_types,
-        ):
-            return False
-
-        # Create carousel in exactly the same order.
-        carousel = instagram_request(
-            "POST",
-            f"{IG_USER_ID}/media",
-            data={
-                "media_type": "CAROUSEL",
-                "children": ",".join(creation_ids),
-                "caption": caption,
-            },
-        )
-
-        if carousel is None or carousel.status_code != 200:
-            print(
-                "❌ Instagram Carousel Container Error: "
-                f"{carousel.status_code if carousel is not None else 'NO_RESPONSE'} - "
-                f"{carousel.text[:1000] if carousel is not None else ''}"
-            )
-            return False
-
-        try:
-            carousel_id = carousel.json().get("id")
-        except Exception:
-            carousel_id = None
-
-        if not carousel_id:
-            print(
-                "❌ Instagram: لم يتم استلام Carousel Container ID."
-            )
-            return False
-
-        print(
-            f"🆔 Instagram Carousel Container: {carousel_id}"
-        )
-
-        publish = instagram_request(
-            "POST",
-            f"{IG_USER_ID}/media_publish",
-            data={"creation_id": carousel_id},
-        )
-
-        if publish is not None and publish.status_code == 200:
-            print(
-                f"✅ Instagram: تم نشر Album يحتوي "
-                f"{len(media_items)} عنصر بنجاح"
-            )
-            return True
-
-        print(
-            "❌ Instagram Carousel Publish Error: "
-            f"{publish.status_code if publish is not None else 'NO_RESPONSE'} - "
-            f"{publish.text[:1000] if publish is not None else ''}"
-        )
-        return False
-
-    except Exception as e:
-        print(
-            f"⚠️ Instagram Album Connection Error: {e}"
-        )
-        return False
-
-
-def _threads_wait_for_containers(
-    creation_ids,
-    media_types,
-):
-    """
-    Wait until all Threads carousel child containers are ready.
-    """
-    if not creation_ids:
-        return False
-
-    max_checks = (
-        60
-        if any(media_type == "video" for media_type in media_types)
-        else 20
-    )
-
-    pending = set(range(len(creation_ids)))
-
-    for attempt in range(max_checks):
-        time.sleep(5)
-
-        next_pending = set()
-
-        for index in pending:
-            status = threads_request(
-                "GET",
-                creation_ids[index],
-                params={
-                    "fields": "status,error_message"
-                },
-            )
-
-            if status is None:
-                next_pending.add(index)
-                continue
-
-            if status.status_code != 200:
-                print(
-                    "⚠️ Threads Carousel Status Error: "
-                    f"{status.status_code} - {status.text[:500]}"
-                )
-                next_pending.add(index)
-                continue
-
-            try:
-                data = status.json()
-            except Exception:
-                data = {}
-
-            status_value = str(
-                data.get("status", "")
-            ).upper()
-
-            if status_value in {
-                "FINISHED",
-                "PUBLISHED",
-            }:
-                continue
-
-            if status_value in {
-                "ERROR",
-                "EXPIRED",
-            }:
-                print(
-                    "❌ Threads Carousel child failed: "
-                    f"{data}"
-                )
-                return False
-
-            # Photos may come back with no status field.
-            if (
-                media_types[index] == "photo"
-                and not status_value
-            ):
-                continue
-
-            next_pending.add(index)
-
-        if not next_pending:
-            print(
-                "✅ Threads: تم تجهيز جميع عناصر الـAlbum."
-            )
-            return True
-
-        pending = next_pending
-
-        print(
-            "⏳ Threads: انتظار تجهيز عناصر الـAlbum "
-            f"({attempt + 1}/{max_checks}) - "
-            f"المتبقي {len(pending)}"
-        )
-
-    print(
-        "❌ Threads: انتهت مهلة تجهيز الـAlbum."
-    )
-    return False
-
-
-def post_album_to_threads(
-    media_items,
-    caption="",
-):
-    """
-    Publish up to 20 images/videos as one Threads carousel.
-    """
-    if not THREADS_USER_ID or not THREADS_ACCESS_TOKEN:
-        return False
-
-    if len(media_items) < 2:
-        return False
-
-    media_items = media_items[:MAX_ALBUM_ITEMS]
-    caption = (caption or "")[:500]
-
-    creation_ids = []
-    media_types = []
-
-    try:
-        # Create child containers in original order.
-        for media in media_items:
-            if media["type"] == "photo":
-                payload = {
-                    "text": "",
-                    "media_type": "IMAGE",
-                    "image_url": media["url"],
-                    "is_carousel_item": "true",
-                }
-            elif media["type"] == "video":
-                payload = {
-                    "text": "",
-                    "media_type": "VIDEO",
-                    "video_url": media["url"],
-                    "is_carousel_item": "true",
-                }
-            else:
-                print(
-                    "❌ Threads: نوع غير مدعوم داخل الـAlbum."
-                )
-                return False
-
-            r = threads_request(
-                "POST",
-                "me/threads",
-                data=payload,
-            )
-
-            if r is None or r.status_code != 200:
-                print(
-                    "❌ Threads Album Child Error: "
-                    f"{r.status_code if r is not None else 'NO_RESPONSE'} - "
-                    f"{r.text[:1000] if r is not None else ''}"
-                )
-                return False
-
-            try:
-                creation_id = r.json().get("id")
-            except Exception:
-                creation_id = None
-
-            if not creation_id:
-                print(
-                    "❌ Threads: لم يتم استلام Child Container ID."
-                )
-                return False
-
-            creation_ids.append(str(creation_id))
-            media_types.append(media["type"])
-
-        if not _threads_wait_for_containers(
-            creation_ids,
-            media_types,
-        ):
-            return False
-
-        # Create carousel in original order.
-        carousel = threads_request(
-            "POST",
-            "me/threads",
-            data={
-                "media_type": "CAROUSEL",
-                "children": ",".join(creation_ids),
-                "text": caption,
-            },
-        )
-
-        if carousel is None or carousel.status_code != 200:
-            print(
-                "❌ Threads Carousel Container Error: "
-                f"{carousel.status_code if carousel is not None else 'NO_RESPONSE'} - "
-                f"{carousel.text[:1000] if carousel is not None else ''}"
-            )
-            return False
-
-        try:
-            carousel_id = carousel.json().get("id")
-        except Exception:
-            carousel_id = None
-
-        if not carousel_id:
-            print(
-                "❌ Threads: لم يتم استلام Carousel Container ID."
-            )
-            return False
-
-        print(
-            f"🆔 Threads Carousel Container: {carousel_id}"
-        )
-
-        publish = threads_request(
-            "POST",
-            "me/threads_publish",
-            data={"creation_id": carousel_id},
-        )
-
-        if publish is not None and publish.status_code == 200:
-            print(
-                f"✅ Threads: تم نشر Album يحتوي "
-                f"{len(media_items)} عنصر بنجاح"
-            )
-            return True
-
-        print(
-            "❌ Threads Carousel Publish Error: "
-            f"{publish.status_code if publish is not None else 'NO_RESPONSE'} - "
-            f"{publish.text[:1000] if publish is not None else ''}"
-        )
-        return False
-
-    except Exception as e:
-        print(
-            f"⚠️ Threads Album Connection Error: {e}"
-        )
-        return False
-
-
-# =========================================================
 # حذف الملفات المؤقتة
 # =========================================================
 
@@ -1997,8 +1249,7 @@ def main():
             )
             return
 
-        # الأقدم أولًا ضمن آخر 10 منشورات Telegram.
-        # الـAlbum الكامل = منشور Telegram واحد.
+        # الأقدم أولًا ضمن آخر 5
         for msg_id, item in items:
             sig = msg_id.strip()
 
@@ -2021,16 +1272,16 @@ def main():
             )
 
             # -------------------------------------------------
-            # نص فقط أو نوع غير مدعوم
+            # تجاهل النصوص وAlbums
             # -------------------------------------------------
 
             if not post:
                 print(
                     f"⏭️ تجاهل المنشور "
-                    f"{sig}: نص فقط أو نوع غير مدعوم."
+                    f"{sig}: نص فقط أو "
+                    f"Album/نوع غير مدعوم."
                 )
 
-                # تسجيل النصوص/الأنواع غير المدعومة مرة واحدة.
                 if sig not in fb_history:
                     save_history(sig)
                     fb_history.add(sig)
@@ -2045,117 +1296,30 @@ def main():
 
                 continue
 
-            # -------------------------------------------------
-            # Album فشل استخراجه بشكل كامل
-            # -------------------------------------------------
-
-            if post.get("type") == "invalid_album":
-                print(
-                    f"⚠️ تخطي المنشور {sig}: "
-                    "تم اكتشاف Album لكن استخراج عناصره غير مكتمل. "
-                    "لن يتم حفظه في السجلات لإعادة المحاولة لاحقًا."
-                )
-                time.sleep(POST_DELAY_SECONDS)
-                continue
-
-            temp_paths = []
+            temp_path = None
 
             try:
-                # =================================================
-                # تحديد العناصر
-                # =================================================
-
-                is_album = post["type"] == "album"
-
-                if is_album:
-                    selected_items = select_album_items(post)
-
-                    if len(selected_items) < 2:
-                        print(
-                            f"⚠️ Album المنشور {sig} يحتوي "
-                            f"{len(selected_items)} عنصر فقط بعد الاستخراج؛ "
-                            "سيتم التعامل معه كمنشور منفرد."
-                        )
-
-                        if len(selected_items) == 1:
-                            single = selected_items[0]
-                            post = {
-                                "id": sig,
-                                "type": single["type"],
-                                "url": single["url"],
-                                "caption": post.get("caption", ""),
-                            }
-                            is_album = False
-                        else:
-                            print(
-                                f"⏭️ تجاهل Album المنشور {sig}: "
-                                "لا توجد وسائط صالحة."
-                            )
-                            continue
-
-                    if is_album:
-                        print(
-                            f"🖼️ Album: تم اكتشاف {len(post['items'])} عنصر، "
-                            f"سيتم استخدام أول {len(selected_items)}."
-                        )
-
-                # =================================================
+                # =============================================
                 # Facebook
-                # =================================================
+                # =============================================
 
                 if sig not in fb_history:
-                    if is_album:
-                        print(
-                            f"📘 Facebook: معالجة Album "
-                            f"({len(selected_items)} عنصر)..."
-                        )
+                    print(
+                        f"📘 Facebook: معالجة "
+                        f"{post['type']}..."
+                    )
 
-                        # Facebook Page album posting through /feed + attached_media
-                        # is photo-oriented. Check first so unsupported mixed/video
-                        # albums do not trigger unnecessary downloads.
-                        if any(
-                            media["type"] != "photo"
-                            for media in selected_items
-                        ):
-                            print(
-                                "⚠️ Facebook: Album يحتوي فيديو/نوع مختلط؛ "
-                                "سيتم تخطي Facebook لهذا المنشور بدون تنزيل الوسائط."
-                            )
-                            fb_success = False
-                        else:
-                            # Download album media once, locally.
-                            downloaded = download_album_media(
-                                selected_items,
-                                sig,
-                            )
-                            temp_paths = [
-                                media["path"]
-                                for media in downloaded
-                            ]
+                    temp_path = download_media(
+                        post["url"],
+                        post["type"],
+                        sig,
+                    )
 
-                            fb_success = post_album_to_facebook(
-                                downloaded,
-                                post["caption"],
-                            )
-
-                    else:
-                        print(
-                            f"📘 Facebook: معالجة "
-                            f"{post['type']}..."
-                        )
-
-                        temp_path = download_media(
-                            post["url"],
-                            post["type"],
-                            sig,
-                        )
-                        temp_paths.append(temp_path)
-
-                        fb_success = post_to_facebook(
-                            temp_path,
-                            post["type"],
-                            post["caption"],
-                        )
+                    fb_success = post_to_facebook(
+                        temp_path,
+                        post["type"],
+                        post["caption"],
+                    )
 
                     if fb_success:
                         save_history(sig)
@@ -2171,35 +1335,29 @@ def main():
                             "لكن سيستمر Instagram وThreads."
                         )
 
-                # =================================================
+                    remove_temp_file(
+                        temp_path
+                    )
+                    temp_path = None
+
+                # =============================================
                 # Instagram
-                # =================================================
+                # =============================================
 
                 if (
                     instagram_ready
                     and sig not in ig_history
                 ):
-                    if is_album:
-                        print(
-                            f"📸 Instagram: معالجة Album "
-                            f"({len(selected_items)} عنصر)..."
-                        )
+                    print(
+                        f"📸 Instagram: معالجة "
+                        f"{post['type']}..."
+                    )
 
-                        ig_success = post_album_to_instagram(
-                            selected_items,
-                            post["caption"],
-                        )
-                    else:
-                        print(
-                            f"📸 Instagram: معالجة "
-                            f"{post['type']}..."
-                        )
-
-                        ig_success = post_to_instagram(
-                            post["url"],
-                            post["type"],
-                            post["caption"],
-                        )
+                    ig_success = post_to_instagram(
+                        post["url"],
+                        post["type"],
+                        post["caption"],
+                    )
 
                     if ig_success:
                         save_instagram_history(sig)
@@ -2221,35 +1379,24 @@ def main():
                         "تم تخطيه بسبب فشل المصادقة."
                     )
 
-                # =================================================
+                # =============================================
                 # Threads
-                # =================================================
+                # =============================================
 
                 if (
                     threads_ready
                     and sig not in threads_history
                 ):
-                    if is_album:
-                        print(
-                            f"🧵 Threads: معالجة Album "
-                            f"({len(selected_items)} عنصر)..."
-                        )
+                    print(
+                        f"🧵 Threads: معالجة "
+                        f"{post['type']}..."
+                    )
 
-                        threads_success = post_album_to_threads(
-                            selected_items,
-                            post["caption"],
-                        )
-                    else:
-                        print(
-                            f"🧵 Threads: معالجة "
-                            f"{post['type']}..."
-                        )
-
-                        threads_success = post_to_threads(
-                            post["url"],
-                            post["type"],
-                            post["caption"],
-                        )
+                    threads_success = post_to_threads(
+                        post["url"],
+                        post["type"],
+                        post["caption"],
+                    )
 
                     if threads_success:
                         save_threads_history(sig)
@@ -2278,12 +1425,11 @@ def main():
                 )
 
             finally:
-                # Delete every temporary file regardless of success/failure
-                # on any platform.
-                for path in temp_paths:
-                    remove_temp_file(path)
+                remove_temp_file(
+                    temp_path
+                )
 
-            # 10 ثوانٍ بين منشورات Telegram.
+            # 10 ثوانٍ بين المنشورات
             time.sleep(
                 POST_DELAY_SECONDS
             )
