@@ -8,7 +8,8 @@
     "https://www.worldhistory.org/article/2960/the-history-of-the-inquisition/",
     "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
     "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260808234953.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260804034628.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -19,7 +20,8 @@
     "The History of the Inquisition: The Catholic Church's Battle Against Deviance",
     "Strange gamma rays could reveal how stars forge heavy elements",
     "Black holes may spit out nearly as much matter as they swallow",
-    "Frequent cannabis users wake up with their “stress hormone” already elevated"
+    "Frequent cannabis users wake up with their “stress hormone” already elevated",
+    "A solar eclipse and the Perseid meteor shower arrive on the same day"
   ],
   "last_posts": [
     {
@@ -92,6 +94,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-15T18:11:56.082690+03:00",
+      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
       "image": true
     }
   ],

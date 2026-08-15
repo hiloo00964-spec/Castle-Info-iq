@@ -7,7 +7,8 @@
     "https://www.worldhistory.org/Andrew_Johnson/",
     "https://www.worldhistory.org/article/2960/the-history-of-the-inquisition/",
     "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
-    "https://www.sciencedaily.com/releases/2026/07/260731034127.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260808234953.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -17,7 +18,8 @@
     "Andrew Johnson: The First US President to be Impeached",
     "The History of the Inquisition: The Catholic Church's Battle Against Deviance",
     "Strange gamma rays could reveal how stars forge heavy elements",
-    "Black holes may spit out nearly as much matter as they swallow"
+    "Black holes may spit out nearly as much matter as they swallow",
+    "Frequent cannabis users wake up with their “stress hormone” already elevated"
   ],
   "last_posts": [
     {
@@ -82,6 +84,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-15T16:22:49.422254+03:00",
+      "title": "Frequent cannabis users wake up with their “stress hormone” already elevated",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
       "image": true
     }
   ],
