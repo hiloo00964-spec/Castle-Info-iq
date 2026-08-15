@@ -6,7 +6,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
     "https://www.worldhistory.org/Andrew_Johnson/",
     "https://www.worldhistory.org/article/2960/the-history-of-the-inquisition/",
-    "https://www.sciencedaily.com/releases/2026/07/260727214623.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
+    "https://www.sciencedaily.com/releases/2026/07/260731034127.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -15,7 +16,8 @@
     "The Universe can outrun light without breaking Einstein’s rules",
     "Andrew Johnson: The First US President to be Impeached",
     "The History of the Inquisition: The Catholic Church's Battle Against Deviance",
-    "Strange gamma rays could reveal how stars forge heavy elements"
+    "Strange gamma rays could reveal how stars forge heavy elements",
+    "Black holes may spit out nearly as much matter as they swallow"
   ],
   "last_posts": [
     {
@@ -72,6 +74,14 @@
       "source": "ScienceDaily Matter",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-15T14:11:17.777825+03:00",
+      "title": "Black holes may spit out nearly as much matter as they swallow",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034127.htm",
       "image": true
     }
   ],
