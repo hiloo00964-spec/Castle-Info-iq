@@ -15,7 +15,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
     "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
     "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
-    "https://www.sciencedaily.com/releases/2026/07/260727214609.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-27-aug-2026/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -33,7 +34,8 @@
     "Strange quantum experiment shows “negative time” is more than an illusion",
     "Astronomers find the first atmosphere on a rocky world in the habitable zone",
     "Scientists reveal the hidden force driving the universe’s hottest fluid",
-    "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star"
+    "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
+    "DGCE SIG Seminar, 27 Aug 2026"
   ],
   "last_posts": [
     {
@@ -162,6 +164,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-16T18:11:47.970450+03:00",
+      "title": "DGCE SIG Seminar, 27 Aug 2026",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-27-aug-2026/",
       "image": true
     }
   ],

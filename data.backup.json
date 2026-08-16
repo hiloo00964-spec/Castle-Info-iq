@@ -14,7 +14,8 @@
     "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
     "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
     "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260802223422.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
+    "https://www.sciencedaily.com/releases/2026/07/260727214609.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -31,7 +32,8 @@
     "APOD: 2026 August 15 – Bright Perseids from Sweden",
     "Strange quantum experiment shows “negative time” is more than an illusion",
     "Astronomers find the first atmosphere on a rocky world in the habitable zone",
-    "Scientists reveal the hidden force driving the universe’s hottest fluid"
+    "Scientists reveal the hidden force driving the universe’s hottest fluid",
+    "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star"
   ],
   "last_posts": [
     {
@@ -152,6 +154,14 @@
       "source": "ScienceDaily Matter",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-16T16:24:24.352406+03:00",
+      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
       "image": true
     }
   ],
