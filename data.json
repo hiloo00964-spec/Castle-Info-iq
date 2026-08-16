@@ -11,7 +11,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260808234953.htm",
     "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
     "https://www.worldhistory.org/collection/324/history-by-the-numbers/",
-    "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/"
+    "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
+    "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -25,7 +26,8 @@
     "Frequent cannabis users wake up with their “stress hormone” already elevated",
     "A solar eclipse and the Perseid meteor shower arrive on the same day",
     "History by the Numbers: 12 Visual Stories of Power, Conflict, Discovery & Change",
-    "APOD: 2026 August 15 – Bright Perseids from Sweden"
+    "APOD: 2026 August 15 – Bright Perseids from Sweden",
+    "Strange quantum experiment shows “negative time” is more than an illusion"
   ],
   "last_posts": [
     {
@@ -122,6 +124,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
+      "image": true
+    },
+    {
+      "time": "2026-08-16T10:23:18.689787+03:00",
+      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
       "image": true
     }
   ],
