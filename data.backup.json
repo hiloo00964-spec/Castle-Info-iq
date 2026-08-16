@@ -12,7 +12,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
     "https://www.worldhistory.org/collection/324/history-by-the-numbers/",
     "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/",
-    "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+    "https://www.sciencedaily.com/releases/2026/07/260721000825.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -27,7 +28,8 @@
     "A solar eclipse and the Perseid meteor shower arrive on the same day",
     "History by the Numbers: 12 Visual Stories of Power, Conflict, Discovery & Change",
     "APOD: 2026 August 15 – Bright Perseids from Sweden",
-    "Strange quantum experiment shows “negative time” is more than an illusion"
+    "Strange quantum experiment shows “negative time” is more than an illusion",
+    "Astronomers find the first atmosphere on a rocky world in the habitable zone"
   ],
   "last_posts": [
     {
@@ -132,6 +134,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-16T12:18:13.438581+03:00",
+      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
       "image": true
     }
   ],
