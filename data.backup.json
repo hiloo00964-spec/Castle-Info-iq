@@ -18,7 +18,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/dgce-sig-seminar-27-aug-2026/",
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xr-sig-seminar-21-aug-2026/",
-    "https://www.sciencedaily.com/releases/2026/07/260713084858.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+    "https://www.sciencedaily.com/releases/2026/07/260724061434.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -39,7 +40,8 @@
     "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
     "DGCE SIG Seminar, 27 Aug 2026",
     "XR SIG Seminar, 21 Aug 2026",
-    "NASA's Perseverance just completed a marathon on Mars"
+    "NASA's Perseverance just completed a marathon on Mars",
+    "Venus may be tearing itself apart from within"
   ],
   "last_posts": [
     {
@@ -192,6 +194,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-17T10:43:38.812024+03:00",
+      "title": "Venus may be tearing itself apart from within",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
       "image": true
     }
   ],
