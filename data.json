@@ -22,7 +22,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-18-aug-2026/",
     "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
-    "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/"
+    "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
+    "https://www.sciencedaily.com/releases/2026/07/260709160651.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -47,7 +48,8 @@
     "Venus may be tearing itself apart from within",
     "AGN SIG Spotlight Series, 18 Aug 2026",
     "APOD: 2026 August 16 – Milky Way over Yellowstone",
-    "Total Solar Eclipse in Sunflower Field"
+    "Total Solar Eclipse in Sunflower Field",
+    "This electric field trick boosted heat flow by nearly 300%"
   ],
   "last_posts": [
     {
@@ -233,6 +235,14 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
       "image": true
+    },
+    {
+      "time": "2026-08-17T18:17:35.311102+03:00",
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "source": "ScienceDaily Matter",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "image": false
     }
   ],
   "last_error": "",
