@@ -23,7 +23,8 @@
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-18-aug-2026/",
     "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
     "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
-    "https://www.sciencedaily.com/releases/2026/07/260709160651.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+    "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -49,7 +50,8 @@
     "AGN SIG Spotlight Series, 18 Aug 2026",
     "APOD: 2026 August 16 – Milky Way over Yellowstone",
     "Total Solar Eclipse in Sunflower Field",
-    "This electric field trick boosted heat flow by nearly 300%"
+    "This electric field trick boosted heat flow by nearly 300%",
+    "Chasing Fire Clouds in Utah"
   ],
   "last_posts": [
     {
@@ -243,6 +245,14 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
       "image": false
+    },
+    {
+      "time": "2026-08-17T20:17:53.064616+03:00",
+      "title": "Chasing Fire Clouds in Utah",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
+      "image": true
     }
   ],
   "last_error": "",
