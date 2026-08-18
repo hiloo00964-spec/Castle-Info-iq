@@ -26,7 +26,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
     "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
     "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
-    "https://www.sciencedaily.com/releases/2026/07/260727214557.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260814235845.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -55,7 +56,8 @@
     "This electric field trick boosted heat flow by nearly 300%",
     "Chasing Fire Clouds in Utah",
     "Colorful Collage of Tarantula Nebula",
-    "Twisted laser light can tell mirror-image molecules apart"
+    "Twisted laser light can tell mirror-image molecules apart",
+    "Scientists detect a surprising shift in human blood as atmospheric CO2 rises"
   ],
   "last_posts": [
     {
@@ -272,6 +274,14 @@
       "source": "ScienceDaily Matter",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-18T12:22:34.057497+03:00",
+      "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
       "image": true
     }
   ],
