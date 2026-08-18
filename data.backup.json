@@ -27,7 +27,8 @@
     "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
     "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
     "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260814235845.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260811011146.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -57,7 +58,8 @@
     "Chasing Fire Clouds in Utah",
     "Colorful Collage of Tarantula Nebula",
     "Twisted laser light can tell mirror-image molecules apart",
-    "Scientists detect a surprising shift in human blood as atmospheric CO2 rises"
+    "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
+    "Black holes older than the Big Bang could explain dark matter"
   ],
   "last_posts": [
     {
@@ -282,6 +284,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-18T14:16:08.719199+03:00",
+      "title": "Black holes older than the Big Bang could explain dark matter",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
       "image": true
     }
   ],
