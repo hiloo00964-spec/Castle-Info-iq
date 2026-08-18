@@ -29,7 +29,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
     "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
     "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260813045545.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260815065007.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -61,7 +62,8 @@
     "Twisted laser light can tell mirror-image molecules apart",
     "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
     "Black holes older than the Big Bang could explain dark matter",
-    "Neptune’s tiny moons may be the wreckage of shattered ancient worlds"
+    "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+    "Scientists may have finally proved that “empty” space isn’t really empty"
   ],
   "last_posts": [
     {
@@ -302,6 +304,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-18T18:22:20.896397+03:00",
+      "title": "Scientists may have finally proved that “empty” space isn’t really empty",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
       "image": true
     }
   ],

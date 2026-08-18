@@ -28,7 +28,8 @@
     "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
     "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
     "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260811011146.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260813045545.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -59,7 +60,8 @@
     "Colorful Collage of Tarantula Nebula",
     "Twisted laser light can tell mirror-image molecules apart",
     "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
-    "Black holes older than the Big Bang could explain dark matter"
+    "Black holes older than the Big Bang could explain dark matter",
+    "Neptune’s tiny moons may be the wreckage of shattered ancient worlds"
   ],
   "last_posts": [
     {
@@ -292,6 +294,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-18T16:35:33.929489+03:00",
+      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
       "image": true
     }
   ],
