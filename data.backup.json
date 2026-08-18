@@ -24,7 +24,8 @@
     "https://science.nasa.gov/image-article/apod/apod-2026-august-16-milky-way-over-yellowstone/",
     "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
     "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
-    "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/"
+    "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
+    "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -51,7 +52,8 @@
     "APOD: 2026 August 16 – Milky Way over Yellowstone",
     "Total Solar Eclipse in Sunflower Field",
     "This electric field trick boosted heat flow by nearly 300%",
-    "Chasing Fire Clouds in Utah"
+    "Chasing Fire Clouds in Utah",
+    "Colorful Collage of Tarantula Nebula"
   ],
   "last_posts": [
     {
@@ -252,6 +254,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
+      "image": true
+    },
+    {
+      "time": "2026-08-17T22:21:18.395010+03:00",
+      "title": "Colorful Collage of Tarantula Nebula",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/image-article/colorful-collage-of-tarantula-nebula/",
       "image": true
     }
   ],
