@@ -31,7 +31,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
     "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
     "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260816044835.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -65,7 +66,8 @@
     "Black holes older than the Big Bang could explain dark matter",
     "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
     "Scientists may have finally proved that “empty” space isn’t really empty",
-    "Einstein’s biggest “mistake” came back — and changed cosmology forever"
+    "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+    "Community Science (Ad ASTRA) Workshop, Sept 2026"
   ],
   "last_posts": [
     {
@@ -322,6 +324,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-18T22:21:21.009945+03:00",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
       "image": true
     }
   ],

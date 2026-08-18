@@ -30,7 +30,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
     "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
     "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260815065007.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260816044835.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -63,7 +64,8 @@
     "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
     "Black holes older than the Big Bang could explain dark matter",
     "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-    "Scientists may have finally proved that “empty” space isn’t really empty"
+    "Scientists may have finally proved that “empty” space isn’t really empty",
+    "Einstein’s biggest “mistake” came back — and changed cosmology forever"
   ],
   "last_posts": [
     {
@@ -312,6 +314,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-18T20:19:14.584382+03:00",
+      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
       "image": true
     }
   ],
