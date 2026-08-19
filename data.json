@@ -35,7 +35,8 @@
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
     "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
     "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
-    "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/"
+    "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/nasa-irtf-semester-2027a-call-for-proposals/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -73,7 +74,8 @@
     "Community Science (Ad ASTRA) Workshop, Sept 2026",
     "NASA Selects Companies to Provide Payload Processing Services",
     "MIT neuroscientists discover the brain can reason without words",
-    "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor"
+    "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
+    "NASA IRTF Semester 2027A Call for Proposals"
   ],
   "last_posts": [
     {
@@ -362,6 +364,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
+      "image": true
+    },
+    {
+      "time": "2026-08-19T16:37:00.306251+03:00",
+      "title": "NASA IRTF Semester 2027A Call for Proposals",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/nasa-irtf-semester-2027a-call-for-proposals/",
       "image": true
     }
   ],

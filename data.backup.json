@@ -34,7 +34,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
     "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
-    "https://www.sciencedaily.com/releases/2026/08/260811011140.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
+    "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -71,7 +72,8 @@
     "Einstein’s biggest “mistake” came back — and changed cosmology forever",
     "Community Science (Ad ASTRA) Workshop, Sept 2026",
     "NASA Selects Companies to Provide Payload Processing Services",
-    "MIT neuroscientists discover the brain can reason without words"
+    "MIT neuroscientists discover the brain can reason without words",
+    "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor"
   ],
   "last_posts": [
     {
@@ -352,6 +354,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-19T14:17:02.660302+03:00",
+      "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
       "image": true
     }
   ],
