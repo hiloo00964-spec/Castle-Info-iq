@@ -32,7 +32,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
     "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
     "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
-    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/"
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+    "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -67,7 +68,8 @@
     "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
     "Scientists may have finally proved that “empty” space isn’t really empty",
     "Einstein’s biggest “mistake” came back — and changed cosmology forever",
-    "Community Science (Ad ASTRA) Workshop, Sept 2026"
+    "Community Science (Ad ASTRA) Workshop, Sept 2026",
+    "NASA Selects Companies to Provide Payload Processing Services"
   ],
   "last_posts": [
     {
@@ -332,6 +334,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "image": true
+    },
+    {
+      "time": "2026-08-19T10:30:48.057515+03:00",
+      "title": "NASA Selects Companies to Provide Payload Processing Services",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-selects-companies-to-provide-payload-processing-services/",
       "image": true
     }
   ],
