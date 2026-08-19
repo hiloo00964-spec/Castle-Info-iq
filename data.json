@@ -37,7 +37,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260811011140.htm",
     "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/nasa-irtf-semester-2027a-call-for-proposals/",
-    "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/"
+    "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
+    "https://www.sciencedaily.com/releases/2026/07/260715083535.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -77,7 +78,8 @@
     "MIT neuroscientists discover the brain can reason without words",
     "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
     "NASA IRTF Semester 2027A Call for Proposals",
-    "Career Spotlight: Mechanic (Ages 14-18)"
+    "Career Spotlight: Mechanic (Ages 14-18)",
+    "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery"
   ],
   "last_posts": [
     {
@@ -382,6 +384,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
+      "image": true
+    },
+    {
+      "time": "2026-08-19T20:18:36.879273+03:00",
+      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
+      "source": "ScienceDaily Matter",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
       "image": true
     }
   ],
