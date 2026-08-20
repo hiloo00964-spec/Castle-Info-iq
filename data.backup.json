@@ -40,7 +40,8 @@
     "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
     "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
     "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
-    "https://science.nasa.gov/learn/heat/resource/activity-watercolor-aurora-sky/"
+    "https://science.nasa.gov/learn/heat/resource/activity-watercolor-aurora-sky/",
+    "https://www.sciencedaily.com/releases/2026/08/260812015218.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -83,17 +84,10 @@
     "Career Spotlight: Mechanic (Ages 14-18)",
     "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
     "Giant waves are sweeping Mars’ atmosphere into space",
-    "Activity: Watercolor Aurora Sky"
+    "Activity: Watercolor Aurora Sky",
+    "Why your brain keeps making the same decisions – even when better options exist"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-14T16:08:56.842091+03:00",
-      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm",
-      "image": true
-    },
     {
       "time": "2026-08-14T17:11:43.784548+03:00",
       "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
@@ -404,6 +398,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/learn/heat/resource/activity-watercolor-aurora-sky/",
+      "image": true
+    },
+    {
+      "time": "2026-08-20T12:24:34.477768+03:00",
+      "title": "Why your brain keeps making the same decisions – even when better options exist",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
       "image": true
     }
   ],
