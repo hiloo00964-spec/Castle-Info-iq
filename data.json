@@ -44,7 +44,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
     "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/",
-    "https://www.sciencedaily.com/releases/2026/08/260820002424.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
+    "https://www.sciencedaily.com/releases/2026/07/260727012131.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -91,17 +92,10 @@
     "Why your brain keeps making the same decisions – even when better options exist",
     "NASA TechLeap Prize: Orbital Clarity Challenge",
     "Weather Climate Poster",
-    "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery"
+    "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
+    "After 241 days in orbit this NASA astronaut is finally home"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-14T22:43:17.619793+03:00",
-      "title": "The History of the Inquisition: The Catholic Church's Battle Against Deviance",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/2960/the-history-of-the-inquisition/",
-      "image": true
-    },
     {
       "time": "2026-08-15T13:05:36.216977+03:00",
       "title": "Strange gamma rays could reveal how stars forge heavy elements",
@@ -412,6 +406,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-20T20:20:32.890376+03:00",
+      "title": "After 241 days in orbit this NASA astronaut is finally home",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
       "image": true
     }
   ],
