@@ -45,7 +45,8 @@
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
     "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/",
     "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
-    "https://www.sciencedaily.com/releases/2026/07/260727012131.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
+    "https://www.worldhistory.org/Evliya_Celebi/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -93,17 +94,10 @@
     "NASA TechLeap Prize: Orbital Clarity Challenge",
     "Weather Climate Poster",
     "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
-    "After 241 days in orbit this NASA astronaut is finally home"
+    "After 241 days in orbit this NASA astronaut is finally home",
+    "Evliya Çelebi: The Most Famous Ottoman Traveler"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-15T13:05:36.216977+03:00",
-      "title": "Strange gamma rays could reveal how stars forge heavy elements",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214623.htm",
-      "image": true
-    },
     {
       "time": "2026-08-15T14:11:17.777825+03:00",
       "title": "Black holes may spit out nearly as much matter as they swallow",
@@ -414,6 +408,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-20T22:23:40.426442+03:00",
+      "title": "Evliya Çelebi: The Most Famous Ottoman Traveler",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Evliya_Celebi/",
       "image": true
     }
   ],
