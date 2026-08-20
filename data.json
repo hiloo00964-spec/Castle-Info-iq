@@ -43,7 +43,8 @@
     "https://science.nasa.gov/learn/heat/resource/activity-watercolor-aurora-sky/",
     "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
-    "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/"
+    "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/",
+    "https://www.sciencedaily.com/releases/2026/08/260820002424.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -89,17 +90,10 @@
     "Activity: Watercolor Aurora Sky",
     "Why your brain keeps making the same decisions – even when better options exist",
     "NASA TechLeap Prize: Orbital Clarity Challenge",
-    "Weather Climate Poster"
+    "Weather Climate Poster",
+    "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-14T20:46:54.610456+03:00",
-      "title": "Andrew Johnson: The First US President to be Impeached",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Andrew_Johnson/",
-      "image": true
-    },
     {
       "time": "2026-08-14T22:43:17.619793+03:00",
       "title": "The History of the Inquisition: The Catholic Church's Battle Against Deviance",
@@ -410,6 +404,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/",
+      "image": true
+    },
+    {
+      "time": "2026-08-20T18:25:03.088172+03:00",
+      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
       "image": true
     }
   ],
