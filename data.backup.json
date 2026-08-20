@@ -41,7 +41,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
     "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
     "https://science.nasa.gov/learn/heat/resource/activity-watercolor-aurora-sky/",
-    "https://www.sciencedaily.com/releases/2026/08/260812015218.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
+    "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -85,17 +86,10 @@
     "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
     "Giant waves are sweeping Mars’ atmosphere into space",
     "Activity: Watercolor Aurora Sky",
-    "Why your brain keeps making the same decisions – even when better options exist"
+    "Why your brain keeps making the same decisions – even when better options exist",
+    "NASA TechLeap Prize: Orbital Clarity Challenge"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-14T17:11:43.784548+03:00",
-      "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
-      "image": true
-    },
     {
       "time": "2026-08-14T18:44:19.447409+03:00",
       "title": "The Universe can outrun light without breaking Einstein’s rules",
@@ -406,6 +400,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-20T14:18:23.001229+03:00",
+      "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
       "image": true
     }
   ],

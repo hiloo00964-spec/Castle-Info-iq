@@ -42,7 +42,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
     "https://science.nasa.gov/learn/heat/resource/activity-watercolor-aurora-sky/",
     "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
-    "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/"
+    "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
+    "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -87,17 +88,10 @@
     "Giant waves are sweeping Mars’ atmosphere into space",
     "Activity: Watercolor Aurora Sky",
     "Why your brain keeps making the same decisions – even when better options exist",
-    "NASA TechLeap Prize: Orbital Clarity Challenge"
+    "NASA TechLeap Prize: Orbital Clarity Challenge",
+    "Weather Climate Poster"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-14T18:44:19.447409+03:00",
-      "title": "The Universe can outrun light without breaking Einstein’s rules",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-      "image": true
-    },
     {
       "time": "2026-08-14T20:46:54.610456+03:00",
       "title": "Andrew Johnson: The First US President to be Impeached",
@@ -408,6 +402,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
+      "image": true
+    },
+    {
+      "time": "2026-08-20T16:38:45.116927+03:00",
+      "title": "Weather Climate Poster",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/",
       "image": true
     }
   ],
