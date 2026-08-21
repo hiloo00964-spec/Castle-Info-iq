@@ -48,7 +48,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260727012131.htm",
     "https://www.worldhistory.org/Evliya_Celebi/",
     "https://science.nasa.gov/earth/europes-scorching-summer/",
-    "https://www.worldhistory.org/Gettysburg_Address/"
+    "https://www.worldhistory.org/Gettysburg_Address/",
+    "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-mauricio-peredo/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -99,17 +100,10 @@
     "After 241 days in orbit this NASA astronaut is finally home",
     "Evliya Çelebi: The Most Famous Ottoman Traveler",
     "Europe’s Scorching Summer",
-    "Gettysburg Address: Lincoln's Most Important Speech"
+    "Gettysburg Address: Lincoln's Most Important Speech",
+    "Space Weather Living History: Dr. Mauricio Peredo"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-15T18:11:56.082690+03:00",
-      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm",
-      "image": true
-    },
     {
       "time": "2026-08-15T20:12:40.169141+03:00",
       "title": "History by the Numbers: 12 Visual Stories of Power, Conflict, Discovery & Change",
@@ -420,6 +414,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Gettysburg_Address/",
+      "image": true
+    },
+    {
+      "time": "2026-08-21T14:17:29.468733+03:00",
+      "title": "Space Weather Living History: Dr. Mauricio Peredo",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-mauricio-peredo/",
       "image": true
     }
   ],
