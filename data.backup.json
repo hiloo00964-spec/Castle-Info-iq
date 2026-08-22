@@ -53,7 +53,8 @@
     "https://www.worldhistory.org/First_Battle_of_Bull_Run_(First_Manassas)/",
     "https://www.worldhistory.org/article/2959/panic-at-bull-run/",
     "https://www.sciencedaily.com/releases/2026/08/260810015703.htm",
-    "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/"
+    "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+    "https://www.sciencedaily.com/releases/2026/08/260814235839.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -109,17 +110,10 @@
     "First Battle of Bull Run (First Manassas): The Wake-Up Call for Both Sides in the American Civil War",
     "Panic at Bull Run: Russell's Account of the Union Retreat",
     "Voyager 2 was running out of power. NASA just bought it more time",
-    "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus"
+    "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
+    "A little movement in midlife could pay off for your brain years later"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-16T14:11:38.676828+03:00",
-      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm",
-      "image": true
-    },
     {
       "time": "2026-08-16T16:24:24.352406+03:00",
       "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
@@ -430,6 +424,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
+      "image": true
+    },
+    {
+      "time": "2026-08-22T10:23:53.986015+03:00",
+      "title": "A little movement in midlife could pay off for your brain years later",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
       "image": true
     }
   ],
