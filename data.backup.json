@@ -58,7 +58,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
     "https://www.nasa.gov/lunar-orbit-and-surface-imm-runs/",
     "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
-    "https://www.sciencedaily.com/releases/2026/08/260816044844.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260816044844.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260801094053.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -119,17 +120,10 @@
     "“Cannot be explained” – New super steel stuns scientists",
     "Lunar Orbit and Surface IMM Runs",
     "APOD: 2026 August 22 – Mostly Perseids",
-    "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes"
+    "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes",
+    "Scientists just 3D printed one of the hardest metals on Earth"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-17T10:43:38.812024+03:00",
-      "title": "Venus may be tearing itself apart from within",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
-      "image": true
-    },
     {
       "time": "2026-08-17T12:31:27.708356+03:00",
       "title": "AGN SIG Spotlight Series, 18 Aug 2026",
@@ -440,6 +434,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260816044844.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-22T20:12:17.622553+03:00",
+      "title": "Scientists just 3D printed one of the hardest metals on Earth",
+      "source": "ScienceDaily Matter",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
       "image": true
     }
   ],
