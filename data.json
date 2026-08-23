@@ -61,7 +61,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260816044844.htm",
     "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
     "https://www.nasa.gov/image-article/artemis-mission-patches/",
-    "https://www.nasa.gov/blogs/wallops/2026/08/22/nasa-launches-first-scientific-balloon-of-fort-sumner-campaign/"
+    "https://www.nasa.gov/blogs/wallops/2026/08/22/nasa-launches-first-scientific-balloon-of-fort-sumner-campaign/",
+    "https://www.sciencedaily.com/releases/2026/07/260715083538.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -125,17 +126,10 @@
     "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes",
     "Scientists just 3D printed one of the hardest metals on Earth",
     "Artemis Mission Patches",
-    "NASA Launches First Scientific Balloon of Fort Sumner Campaign"
+    "NASA Launches First Scientific Balloon of Fort Sumner Campaign",
+    "Sun-like star caught after eating one of its own planets"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-17T16:32:48.589937+03:00",
-      "title": "Total Solar Eclipse in Sunflower Field",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
-      "image": true
-    },
     {
       "time": "2026-08-17T18:17:35.311102+03:00",
       "title": "This electric field trick boosted heat flow by nearly 300%",
@@ -446,6 +440,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/wallops/2026/08/22/nasa-launches-first-scientific-balloon-of-fort-sumner-campaign/",
+      "image": true
+    },
+    {
+      "time": "2026-08-23T12:18:40.539907+03:00",
+      "title": "Sun-like star caught after eating one of its own planets",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
       "image": true
     }
   ],
