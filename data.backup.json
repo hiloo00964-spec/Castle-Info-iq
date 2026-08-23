@@ -62,7 +62,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
     "https://www.nasa.gov/image-article/artemis-mission-patches/",
     "https://www.nasa.gov/blogs/wallops/2026/08/22/nasa-launches-first-scientific-balloon-of-fort-sumner-campaign/",
-    "https://www.sciencedaily.com/releases/2026/07/260715083538.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+    "https://www.sciencedaily.com/releases/2026/07/260722032130.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -127,17 +128,10 @@
     "Scientists just 3D printed one of the hardest metals on Earth",
     "Artemis Mission Patches",
     "NASA Launches First Scientific Balloon of Fort Sumner Campaign",
-    "Sun-like star caught after eating one of its own planets"
+    "Sun-like star caught after eating one of its own planets",
+    "A strange quantum effect dramatically boosts energy transfer"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-17T18:17:35.311102+03:00",
-      "title": "This electric field trick boosted heat flow by nearly 300%",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
-      "image": false
-    },
     {
       "time": "2026-08-17T20:17:53.064616+03:00",
       "title": "Chasing Fire Clouds in Utah",
@@ -448,6 +442,14 @@
       "source": "ScienceDaily Space",
       "category": "فضاء",
       "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-23T14:12:45.580777+03:00",
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "source": "ScienceDaily Matter",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
       "image": true
     }
   ],

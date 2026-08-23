@@ -63,7 +63,8 @@
     "https://www.nasa.gov/image-article/artemis-mission-patches/",
     "https://www.nasa.gov/blogs/wallops/2026/08/22/nasa-launches-first-scientific-balloon-of-fort-sumner-campaign/",
     "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
-    "https://www.sciencedaily.com/releases/2026/07/260722032130.htm"
+    "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+    "https://www.sciencedaily.com/releases/2026/07/260719035942.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -129,17 +130,10 @@
     "Artemis Mission Patches",
     "NASA Launches First Scientific Balloon of Fort Sumner Campaign",
     "Sun-like star caught after eating one of its own planets",
-    "A strange quantum effect dramatically boosts energy transfer"
+    "A strange quantum effect dramatically boosts energy transfer",
+    "Dying Sun-like stars may kick themselves through space"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-17T20:17:53.064616+03:00",
-      "title": "Chasing Fire Clouds in Utah",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
-      "image": true
-    },
     {
       "time": "2026-08-17T22:21:18.395010+03:00",
       "title": "Colorful Collage of Tarantula Nebula",
@@ -450,6 +444,14 @@
       "source": "ScienceDaily Matter",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-23T16:25:40.540668+03:00",
+      "title": "Dying Sun-like stars may kick themselves through space",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
       "image": true
     }
   ],
