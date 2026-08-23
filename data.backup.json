@@ -65,7 +65,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
     "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
     "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
-    "https://www.worldhistory.org/article/2961/viennas-legacy-the-habsburg-empire-on-the-intellec/"
+    "https://www.worldhistory.org/article/2961/viennas-legacy-the-habsburg-empire-on-the-intellec/",
+    "https://www.nasa.gov/common_research_model/crm-hl/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -133,17 +134,10 @@
     "Sun-like star caught after eating one of its own planets",
     "A strange quantum effect dramatically boosts energy transfer",
     "Dying Sun-like stars may kick themselves through space",
-    "Vienna’s Legacy: The Habsburg Empire on the Intellectual Map"
+    "Vienna’s Legacy: The Habsburg Empire on the Intellectual Map",
+    "CRM-HL"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-18T10:30:03.652645+03:00",
-      "title": "Twisted laser light can tell mirror-image molecules apart",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm",
-      "image": true
-    },
     {
       "time": "2026-08-18T12:22:34.057497+03:00",
       "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
@@ -454,6 +448,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/2961/viennas-legacy-the-habsburg-empire-on-the-intellec/",
+      "image": true
+    },
+    {
+      "time": "2026-08-23T20:12:34.481900+03:00",
+      "title": "CRM-HL",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/common_research_model/crm-hl/",
       "image": true
     }
   ],
