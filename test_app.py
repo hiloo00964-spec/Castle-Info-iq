@@ -27,15 +27,17 @@ class AppTests(unittest.TestCase):
         text = "جملة طويلة. " * 500
         self.assertLessEqual(len(app.compact_text(text, 3600)), 3600)
 
-    def test_html_escaping_and_source_link(self):
+    def test_html_escaping_and_no_source_block(self):
         result = app.build(
             "<عنوان>\n\nنص & تفاصيل\n\n#علوم",
             "Science & Daily",
             "https://example.com/?a=1&b=2",
         )
         self.assertIn("&lt;عنوان&gt;", result)
-        self.assertIn("Science &amp; Daily", result)
-        self.assertIn("https://example.com/?a=1&amp;b=2", result)
+        self.assertNotIn("المصدر:", result)
+        self.assertNotIn("الرابط الأصلي:", result)
+        self.assertNotIn("Science &amp; Daily", result)
+        self.assertNotIn("https://example.com/?a=1&amp;b=2", result)
 
     def test_duplicate_prevention_and_local_newest_selection(self):
         old = {

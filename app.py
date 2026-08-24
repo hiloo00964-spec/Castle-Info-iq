@@ -451,12 +451,7 @@ def build(post,source_name="",source_url=""):
     tags=re.findall(r"#\S+"," ".join(hs))
     tags=[x for x in tags if x!="#قلعة_المعلومات_العامة"][:6] or ["#علوم","#معرفة","#معلومات_عامة"]
     body="\n\n".join(body) or "تفاصيل هذه المعلومة تكشف جانباً مثيراً من عالم المعرفة، وتفتح أمام القارئ سؤالاً جديداً."
-    source_tail=""
-    if source_name and isinstance(source_url,str) and source_url.startswith("http"):
-        safe_name=html.escape(source_name)
-        safe_url=html.escape(source_url,quote=True)
-        source_tail=f"\n\nالمصدر: {safe_name}\nالرابط الأصلي: <a href=\"{safe_url}\">{safe_url}</a>"
-    tail=source_tail+"\n\n━━━━━━━━━━━━\n\nلأنك تستحق أن تعرف\n\n"+" ".join(tags)+"\n\n"+SIGNATURE
+    tail="\n\n━━━━━━━━━━━━\n\nلأنك تستحق أن تعرف\n\n"+" ".join(tags)+"\n\n"+SIGNATURE
     room=max(250,940-len(title)-len(tail))
     if len(body)>room: body=body[:room].rstrip()+"..."
     return f"<b>{html.escape(title)}</b>\n\n<b>{html.escape(body)}</b>{tail}"
