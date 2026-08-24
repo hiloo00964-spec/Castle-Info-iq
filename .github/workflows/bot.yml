@@ -26,7 +26,7 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install --require-hashes -r requirements.lock
 
       - name: Run bot
         env:
@@ -44,6 +44,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json data.backup.json 2>/dev/null || true
+          git add data.json data.backup.json
           git diff --cached --quiet || git commit -m "chore: update bot data"
-          git push || true
+          branch="${GITHUB_REF_NAME:-main}"
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:${branch}"; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then sleep 2; fi
+          done
+          echo "git push failed after 3 attempts" >&2
+          exit 1
