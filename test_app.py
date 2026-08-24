@@ -84,6 +84,7 @@ class AppTests(unittest.TestCase):
         fake_client = Mock()
         fake_client.__enter__ = Mock(return_value=fake_client)
         fake_client.__exit__ = Mock(return_value=False)
+        fake_client.get_chat.return_value = SimpleNamespace(id=-100123)
         fake_client.search_messages.return_value = [object()]
         with patch.object(app, "Client", return_value=fake_client), \
              patch.object(app, "TELEGRAM_CHANNEL_ID", "-100123"):

@@ -615,7 +615,18 @@ def telegram_source_exists(source_url):
         return False
     try:
         with Client("castle_info_dedup",api_id=API_ID,api_hash=API_HASH,bot_token=BOT_TOKEN,in_memory=True) as app:
-            duplicate=next(iter(app.search_messages(int(TELEGRAM_CHANNEL_ID),query=source_url,limit=1)),None)
+            try:
+                chat=app.get_chat(TELEGRAM_CHANNEL_USERNAME)
+            except (RPCError, ValueError, TypeError) as username_exc:
+                logging.warning(
+                    "Unable to resolve Telegram channel by username for dedup: %s",
+                    type(username_exc).__name__,
+                )
+                chat=app.get_chat(int(TELEGRAM_CHANNEL_ID))
+            chat_id=getattr(chat,"id",None)
+            if chat_id is None:
+                raise ValueError("Telegram channel did not resolve to an ID")
+            duplicate=next(iter(app.search_messages(chat_id,query=source_url,limit=1)),None)
             return duplicate is not None
     except (RPCError, ValueError, TypeError) as exc:
         raise RuntimeError("Unable to verify Telegram source history") from exc
