@@ -467,7 +467,7 @@
       "image": true
     }
   ],
-  "last_error": "2026-08-24T17:22:44.880844 | Unable to verify Telegram source history",
+  "last_error": "2026-08-24T17:24:54.496247 | Unable to verify Telegram source history",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [],
   "gemini_model_preference": ""
