@@ -66,7 +66,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
     "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
     "https://www.worldhistory.org/article/2961/viennas-legacy-the-habsburg-empire-on-the-intellec/",
-    "https://www.nasa.gov/common_research_model/crm-hl/"
+    "https://www.nasa.gov/common_research_model/crm-hl/",
+    "https://www.worldhistory.org/article/2956/friedrich-gentzs-stance-on-the-french-revolution/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -135,17 +136,10 @@
     "A strange quantum effect dramatically boosts energy transfer",
     "Dying Sun-like stars may kick themselves through space",
     "Vienna’s Legacy: The Habsburg Empire on the Intellectual Map",
-    "CRM-HL"
+    "CRM-HL",
+    "Friedrich Gentz's Stance on the French Revolution: The Fusion of Berlin Enlightenment and British Conservatism"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-18T12:22:34.057497+03:00",
-      "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm",
-      "image": true
-    },
     {
       "time": "2026-08-18T14:16:08.719199+03:00",
       "title": "Black holes older than the Big Bang could explain dark matter",
@@ -456,6 +450,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/common_research_model/crm-hl/",
+      "image": true
+    },
+    {
+      "time": "2026-08-23T22:15:51.714371+03:00",
+      "title": "Friedrich Gentz's Stance on the French Revolution: The Fusion of Berlin Enlightenment and British Conservatism",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/2956/friedrich-gentzs-stance-on-the-french-revolution/",
       "image": true
     }
   ],
