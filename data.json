@@ -70,9 +70,7 @@
     "https://www.worldhistory.org/article/2956/friedrich-gentzs-stance-on-the-french-revolution/",
     "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
     "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
-    "https://www.worldhistory.org/review/570/the-army-of-alexander-the-great/",
-    "https://www.worldhistory.org/macedon/",
-    "https://www.sciencedaily.com/releases/2026/08/260820202833.htm"
+    "https://www.worldhistory.org/review/570/the-army-of-alexander-the-great/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -145,11 +143,25 @@
     "Friedrich Gentz's Stance on the French Revolution: The Fusion of Berlin Enlightenment and British Conservatism",
     "A black hole shredded a “super sun” — but something strange may have survived",
     "Scientists left water inside a battery and nearly doubled its power",
-    "The Army of Alexander the Great",
-    "Macedon: Birthplace of Alexander the Great",
-    "A simple at-home test could cut colorectal cancer death risk by 43%"
+    "The Army of Alexander the Great"
   ],
   "last_posts": [
+    {
+      "time": "2026-08-18T20:19:14.584382+03:00",
+      "title": "Einstein’s biggest “mistake” came back — and changed cosmology forever",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260816044835.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-18T22:21:21.009945+03:00",
+      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
+      "image": true
+    },
     {
       "time": "2026-08-19T10:30:48.057515+03:00",
       "title": "NASA Selects Companies to Provide Payload Processing Services",
@@ -452,22 +464,6 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/review/570/the-army-of-alexander-the-great/",
-      "image": true
-    },
-    {
-      "time": "2026-08-24T16:42:37.888879+03:00",
-      "title": "Macedon: Birthplace of Alexander the Great",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/macedon/",
-      "image": true
-    },
-    {
-      "time": "2026-08-24T18:30:03.869584+03:00",
-      "title": "A simple at-home test could cut colorectal cancer death risk by 43%",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820202833.htm",
       "image": true
     }
   ],
