@@ -485,7 +485,7 @@ def download(url):
         except OSError as exc:
             logging.warning("raw image cleanup failed: %s",exc)
 
-def telegram(caption,img=None,source_url="",duplicate_checked=False):
+def telegram(caption,img=None):
     p=download(img) if img else None
     try:
         with Client("castle_info_bot",api_id=API_ID,api_hash=API_HASH,bot_token=BOT_TOKEN,in_memory=True) as app:
@@ -562,17 +562,6 @@ def telegram(caption,img=None,source_url="",duplicate_checked=False):
                 )
             logging.info("Telegram posting permission verified")
 
-            if source_url and source_url.startswith("http") and not duplicate_checked:
-                try:
-                    duplicate=next(iter(app.search_messages(chat_id,query=source_url,limit=1)),None)
-                except (RPCError, ValueError, TypeError) as exc:
-                    raise RuntimeError(
-                        "Unable to verify whether the source was already posted."
-                    ) from exc
-                if duplicate is not None:
-                    logging.warning("Source already posted; skipping Telegram send: %s",source_url)
-                    return
-
             if p and p.exists():
                 try:
                     app.send_photo(
@@ -610,38 +599,10 @@ def remember(d,a,caption):
         "source":a.get("source",""),"category":a.get("category",""),"link":a.get("link",""),"image":bool(a.get("image_url"))})
     d["last_posts"]=d["last_posts"][-40:]; d["last_error"]=""; save(d)
 
-def telegram_source_exists(source_url):
-    if not isinstance(source_url,str) or not source_url.startswith("http"):
-        return False
-    try:
-        with Client("castle_info_dedup",api_id=API_ID,api_hash=API_HASH,bot_token=BOT_TOKEN,in_memory=True) as app:
-            try:
-                chat=app.get_chat(TELEGRAM_CHANNEL_USERNAME)
-            except (RPCError, ValueError, TypeError) as username_exc:
-                logging.warning(
-                    "Unable to resolve Telegram channel by username for dedup: %s",
-                    type(username_exc).__name__,
-                )
-                chat=app.get_chat(int(TELEGRAM_CHANNEL_ID))
-            chat_id=getattr(chat,"id",None)
-            if chat_id is None:
-                raise ValueError("Telegram channel did not resolve to an ID")
-            duplicate=next(iter(app.search_messages(chat_id,query=source_url,limit=1)),None)
-            return duplicate is not None
-    except (RPCError, ValueError, TypeError) as exc:
-        raise RuntimeError("Unable to verify Telegram source history") from exc
-
 def run():
     d=load()
     try:
         a=candidate(d)
-        duplicate_checked=False
-        if a and a.get("mode")=="rss" and a.get("link","").startswith("http"):
-            if telegram_source_exists(a["link"]):
-                logging.warning("Source already posted; recording it without Gemini or Telegram send: %s",a["link"])
-                remember(d,a,"")
-                return
-            duplicate_checked=True
         if a:
             text=generate_with_auto_model(article_prompt(a), d)[0]
         else:
@@ -651,7 +612,7 @@ def run():
         if leak(text): raise RuntimeError("Gemini returned instruction/prompt text")
         validate_generated_post(text,a)
         caption=build(text,a.get("source",""),a.get("link",""))
-        telegram(caption,a.get("image_url"),a.get("link",""),duplicate_checked); remember(d,a,caption)
+        telegram(caption,a.get("image_url")); remember(d,a,caption)
         logging.info("SUCCESS")
     except Exception as e:
         d["last_error"]=f"{datetime.now().isoformat()} | {e}"; save(d); raise

@@ -80,46 +80,17 @@ class AppTests(unittest.TestCase):
         self.assertEqual(result["posted_links"], ["saved"])
         self.assertIn("active_gemini_model", result)
 
-    def test_telegram_source_history_guard_is_bounded(self):
-        fake_client = Mock()
-        fake_client.__enter__ = Mock(return_value=fake_client)
-        fake_client.__exit__ = Mock(return_value=False)
-        fake_client.get_chat.return_value = SimpleNamespace(id=-100123)
-        fake_client.search_messages.return_value = [object()]
-        with patch.object(app, "Client", return_value=fake_client), \
-             patch.object(app, "TELEGRAM_CHANNEL_ID", "-100123"):
-            self.assertTrue(app.telegram_source_exists("https://example.com/existing"))
-        fake_client.search_messages.assert_called_once_with(
-            -100123, query="https://example.com/existing", limit=1
-        )
-
-    def test_telegram_success_then_next_run_skips_duplicate(self):
+    def test_telegram_failure_is_attempted_once(self):
         state = {"posted_links": [], "posted_titles": []}
-        article = {
-            "mode": "rss",
-            "source": "NASA",
-            "category": "فضاء",
-            "hashtags": "#فضاء #علوم #معرفة",
-            "title": "Existing news",
-            "link": "https://example.com/existing",
-            "text": "مادة كافية " * 50,
-            "image_url": None,
-        }
-        posted_in_telegram = []
         generated = Mock(return_value=("عنوان صالح\nنص عربي كافٍ للنشر دون أرقام أو أسماء جديدة، وهذه جملة إضافية لضمان تجاوز الحد الأدنى للنص الناتج.\n#علوم #فضاء #معرفة", "model"))
         with patch.object(app, "load", return_value=state), \
-             patch.object(app, "candidate", return_value=article), \
-             patch.object(app, "telegram_source_exists", side_effect=lambda _: bool(posted_in_telegram)), \
-             patch.object(app, "generate_with_auto_model", generated) as generate, \
-             patch.object(app, "telegram", side_effect=lambda *args: posted_in_telegram.append(article["link"])) as telegram, \
-             patch.object(app, "remember") as remember:
-            app.run()
-            app.run()
-        self.assertEqual(posted_in_telegram, [article["link"]])
-        self.assertEqual(generate.call_count, 1)
+             patch.object(app, "candidate", return_value=None), \
+             patch.object(app, "generate_with_auto_model", generated), \
+             patch.object(app, "telegram", side_effect=RuntimeError("telegram unavailable")) as telegram, \
+             patch.object(app, "save"):
+            with self.assertRaises(RuntimeError):
+                app.run()
         self.assertEqual(telegram.call_count, 1)
-        self.assertEqual(remember.call_count, 2)
-        remember.assert_any_call(state, article, "")
 
     def test_git_retry_is_explicitly_bounded(self):
         workflow = (Path(__file__).parent / ".github" / "workflows" / "bot.yml").read_text(encoding="utf8")
