@@ -71,7 +71,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
     "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
     "https://www.worldhistory.org/review/570/the-army-of-alexander-the-great/",
-    "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/"
+    "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+    "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -145,17 +146,10 @@
     "A black hole shredded a “super sun” — but something strange may have survived",
     "Scientists left water inside a battery and nearly doubled its power",
     "The Army of Alexander the Great",
-    "MAIA Air Sensor at Work in Addis Ababa"
+    "MAIA Air Sensor at Work in Addis Ababa",
+    "Mapping Air Pollution With MAIA Sensors in Addis Ababa"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-18T22:21:21.009945+03:00",
-      "title": "Community Science (Ad ASTRA) Workshop, Sept 2026",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ad-astra/",
-      "image": true
-    },
     {
       "time": "2026-08-19T10:30:48.057515+03:00",
       "title": "NASA Selects Companies to Provide Payload Processing Services",
@@ -466,6 +460,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
+      "image": true
+    },
+    {
+      "time": "2026-08-24T20:40:20.165287+03:00",
+      "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
       "image": true
     }
   ],
