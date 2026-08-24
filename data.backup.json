@@ -67,7 +67,8 @@
     "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
     "https://www.worldhistory.org/article/2961/viennas-legacy-the-habsburg-empire-on-the-intellec/",
     "https://www.nasa.gov/common_research_model/crm-hl/",
-    "https://www.worldhistory.org/article/2956/friedrich-gentzs-stance-on-the-french-revolution/"
+    "https://www.worldhistory.org/article/2956/friedrich-gentzs-stance-on-the-french-revolution/",
+    "https://www.sciencedaily.com/releases/2026/08/260814235849.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -137,17 +138,10 @@
     "Dying Sun-like stars may kick themselves through space",
     "Vienna’s Legacy: The Habsburg Empire on the Intellectual Map",
     "CRM-HL",
-    "Friedrich Gentz's Stance on the French Revolution: The Fusion of Berlin Enlightenment and British Conservatism"
+    "Friedrich Gentz's Stance on the French Revolution: The Fusion of Berlin Enlightenment and British Conservatism",
+    "A black hole shredded a “super sun” — but something strange may have survived"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-18T14:16:08.719199+03:00",
-      "title": "Black holes older than the Big Bang could explain dark matter",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811011146.htm",
-      "image": true
-    },
     {
       "time": "2026-08-18T16:35:33.929489+03:00",
       "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
@@ -458,6 +452,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/2956/friedrich-gentzs-stance-on-the-french-revolution/",
+      "image": true
+    },
+    {
+      "time": "2026-08-24T10:50:19.009872+03:00",
+      "title": "A black hole shredded a “super sun” — but something strange may have survived",
+      "source": "ScienceDaily Space",
+      "category": "فضاء",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
       "image": true
     }
   ],
