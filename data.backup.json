@@ -75,7 +75,8 @@
     "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
     "https://science.nasa.gov/blogs/roman/2026/08/24/nasas-roman-telescope-enclosed-in-spacex-falcon-heavy-rocket-fairing/",
     "https://science.nasa.gov/image-article/apod-2026-august-25-earths-shadow-visualized-with-lunar-eclipses/",
-    "https://www.worldhistory.org/Bronze_Age_Collapse/"
+    "https://www.worldhistory.org/Bronze_Age_Collapse/",
+    "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -153,17 +154,10 @@
     "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
     "NASA’s Roman Telescope Enclosed in SpaceX Falcon Heavy Rocket Fairing",
     "APOD: 2026 August 25 – Earth’s Shadow Visualized with Lunar Eclipses",
-    "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization"
+    "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization",
+    "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-19T16:37:00.306251+03:00",
-      "title": "NASA IRTF Semester 2027A Call for Proposals",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/nasa-irtf-semester-2027a-call-for-proposals/",
-      "image": true
-    },
     {
       "time": "2026-08-19T18:21:44.243170+03:00",
       "title": "Career Spotlight: Mechanic (Ages 14-18)",
@@ -475,6 +469,14 @@
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Bronze_Age_Collapse/",
       "image": true
+    },
+    {
+      "time": "2026-08-25T14:18:11.577572+03:00",
+      "title": "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
+      "image": false
     }
   ],
   "last_error": "",
