@@ -74,7 +74,8 @@
     "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
     "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
     "https://science.nasa.gov/blogs/roman/2026/08/24/nasas-roman-telescope-enclosed-in-spacex-falcon-heavy-rocket-fairing/",
-    "https://science.nasa.gov/image-article/apod-2026-august-25-earths-shadow-visualized-with-lunar-eclipses/"
+    "https://science.nasa.gov/image-article/apod-2026-august-25-earths-shadow-visualized-with-lunar-eclipses/",
+    "https://www.worldhistory.org/Bronze_Age_Collapse/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -151,17 +152,10 @@
     "MAIA Air Sensor at Work in Addis Ababa",
     "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
     "NASA’s Roman Telescope Enclosed in SpaceX Falcon Heavy Rocket Fairing",
-    "APOD: 2026 August 25 – Earth’s Shadow Visualized with Lunar Eclipses"
+    "APOD: 2026 August 25 – Earth’s Shadow Visualized with Lunar Eclipses",
+    "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-19T14:17:02.660302+03:00",
-      "title": "APOD: 2026 August 19 – The Case of the Mysterious Maybe Meteor",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-19-the-case-of-the-mysterious-maybe-meteor/",
-      "image": true
-    },
     {
       "time": "2026-08-19T16:37:00.306251+03:00",
       "title": "NASA IRTF Semester 2027A Call for Proposals",
@@ -472,6 +466,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-august-25-earths-shadow-visualized-with-lunar-eclipses/",
+      "image": true
+    },
+    {
+      "time": "2026-08-25T12:25:32.684979+03:00",
+      "title": "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Bronze_Age_Collapse/",
       "image": true
     }
   ],
