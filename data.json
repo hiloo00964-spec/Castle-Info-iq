@@ -77,7 +77,8 @@
     "https://science.nasa.gov/image-article/apod-2026-august-25-earths-shadow-visualized-with-lunar-eclipses/",
     "https://www.worldhistory.org/Bronze_Age_Collapse/",
     "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
-    "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
+    "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-69-new-opportunity-d-9-habitable-worlds-observatory-instrument-concept-assessments/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -157,17 +158,10 @@
     "APOD: 2026 August 25 – Earth’s Shadow Visualized with Lunar Eclipses",
     "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization",
     "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk",
-    "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions"
+    "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+    "Amendment 69: New Opportunity: D.9 Habitable Worlds Observatory Instrument Concept Assessments"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-19T20:18:36.879273+03:00",
-      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
-      "image": true
-    },
     {
       "time": "2026-08-19T22:18:43.288261+03:00",
       "title": "Giant waves are sweeping Mars’ atmosphere into space",
@@ -478,6 +472,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+      "image": true
+    },
+    {
+      "time": "2026-08-25T18:34:06.483149+03:00",
+      "title": "Amendment 69: New Opportunity: D.9 Habitable Worlds Observatory Instrument Concept Assessments",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-69-new-opportunity-d-9-habitable-worlds-observatory-instrument-concept-assessments/",
       "image": true
     }
   ],

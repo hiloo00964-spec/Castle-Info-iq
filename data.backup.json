@@ -76,7 +76,8 @@
     "https://science.nasa.gov/blogs/roman/2026/08/24/nasas-roman-telescope-enclosed-in-spacex-falcon-heavy-rocket-fairing/",
     "https://science.nasa.gov/image-article/apod-2026-august-25-earths-shadow-visualized-with-lunar-eclipses/",
     "https://www.worldhistory.org/Bronze_Age_Collapse/",
-    "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/"
+    "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
+    "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -155,17 +156,10 @@
     "NASA’s Roman Telescope Enclosed in SpaceX Falcon Heavy Rocket Fairing",
     "APOD: 2026 August 25 – Earth’s Shadow Visualized with Lunar Eclipses",
     "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization",
-    "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk"
+    "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk",
+    "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-19T18:21:44.243170+03:00",
-      "title": "Career Spotlight: Mechanic (Ages 14-18)",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/learning-resources/career-spotlight-mechanic-ages-14-18/",
-      "image": true
-    },
     {
       "time": "2026-08-19T20:18:36.879273+03:00",
       "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
@@ -477,6 +471,14 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
       "image": false
+    },
+    {
+      "time": "2026-08-25T16:41:01.427363+03:00",
+      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+      "image": true
     }
   ],
   "last_error": "",
