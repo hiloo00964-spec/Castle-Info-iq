@@ -78,7 +78,8 @@
     "https://www.worldhistory.org/Bronze_Age_Collapse/",
     "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
     "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-69-new-opportunity-d-9-habitable-worlds-observatory-instrument-concept-assessments/"
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-69-new-opportunity-d-9-habitable-worlds-observatory-instrument-concept-assessments/",
+    "https://www.nasa.gov/people/grace-ray/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -159,17 +160,10 @@
     "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization",
     "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk",
     "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-    "Amendment 69: New Opportunity: D.9 Habitable Worlds Observatory Instrument Concept Assessments"
+    "Amendment 69: New Opportunity: D.9 Habitable Worlds Observatory Instrument Concept Assessments",
+    "Grace Ray"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-19T22:18:43.288261+03:00",
-      "title": "Giant waves are sweeping Mars’ atmosphere into space",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
-      "image": true
-    },
     {
       "time": "2026-08-20T10:33:19.974649+03:00",
       "title": "Activity: Watercolor Aurora Sky",
@@ -480,6 +474,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-69-new-opportunity-d-9-habitable-worlds-observatory-instrument-concept-assessments/",
+      "image": true
+    },
+    {
+      "time": "2026-08-25T20:23:22.187413+03:00",
+      "title": "Grace Ray",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/people/grace-ray/",
       "image": true
     }
   ],
