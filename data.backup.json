@@ -79,7 +79,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
     "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-69-new-opportunity-d-9-habitable-worlds-observatory-instrument-concept-assessments/",
-    "https://www.nasa.gov/people/grace-ray/"
+    "https://www.nasa.gov/people/grace-ray/",
+    "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-spacewalkers-finish-installing-high-speed-antenna/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -161,17 +162,10 @@
     "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk",
     "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
     "Amendment 69: New Opportunity: D.9 Habitable Worlds Observatory Instrument Concept Assessments",
-    "Grace Ray"
+    "Grace Ray",
+    "NASA, ESA Spacewalkers Finish Installing High-Speed Antenna"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-20T10:33:19.974649+03:00",
-      "title": "Activity: Watercolor Aurora Sky",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/learn/heat/resource/activity-watercolor-aurora-sky/",
-      "image": true
-    },
     {
       "time": "2026-08-20T12:24:34.477768+03:00",
       "title": "Why your brain keeps making the same decisions – even when better options exist",
@@ -482,6 +476,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/people/grace-ray/",
+      "image": true
+    },
+    {
+      "time": "2026-08-25T22:23:37.844088+03:00",
+      "title": "NASA, ESA Spacewalkers Finish Installing High-Speed Antenna",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-spacewalkers-finish-installing-high-speed-antenna/",
       "image": true
     }
   ],
