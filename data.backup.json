@@ -82,7 +82,8 @@
     "https://www.nasa.gov/people/grace-ray/",
     "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-spacewalkers-finish-installing-high-speed-antenna/",
     "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/",
-    "https://www.worldhistory.org/Gilbert_and_Marshall_Islands_Campaign/"
+    "https://www.worldhistory.org/Gilbert_and_Marshall_Islands_Campaign/",
+    "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -167,17 +168,10 @@
     "Grace Ray",
     "NASA, ESA Spacewalkers Finish Installing High-Speed Antenna",
     "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
-    "Gilbert and Marshall Islands Campaign: The US Island-Hopping Advance in the Pacific"
+    "Gilbert and Marshall Islands Campaign: The US Island-Hopping Advance in the Pacific",
+    "A Changing World for Emperor Penguins"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-20T16:38:45.116927+03:00",
-      "title": "Weather Climate Poster",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/learn/heat/resource/weather-climate-poster-2/",
-      "image": true
-    },
     {
       "time": "2026-08-20T18:25:03.088172+03:00",
       "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
@@ -488,6 +482,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Gilbert_and_Marshall_Islands_Campaign/",
+      "image": true
+    },
+    {
+      "time": "2026-08-26T14:20:26.214741+03:00",
+      "title": "A Changing World for Emperor Penguins",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
       "image": true
     }
   ],
