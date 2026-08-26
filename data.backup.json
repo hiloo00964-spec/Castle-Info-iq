@@ -83,7 +83,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-spacewalkers-finish-installing-high-speed-antenna/",
     "https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/",
     "https://www.worldhistory.org/Gilbert_and_Marshall_Islands_Campaign/",
-    "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/"
+    "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
+    "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -169,17 +170,10 @@
     "NASA, ESA Spacewalkers Finish Installing High-Speed Antenna",
     "APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula",
     "Gilbert and Marshall Islands Campaign: The US Island-Hopping Advance in the Pacific",
-    "A Changing World for Emperor Penguins"
+    "A Changing World for Emperor Penguins",
+    "Contractor to Civil Servant: NASA Welcomes Jeret Howard"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-20T18:25:03.088172+03:00",
-      "title": "Scientists crushed diamond beyond Neptune-like pressures—and solved a 20-year mystery",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
-      "image": true
-    },
     {
       "time": "2026-08-20T20:20:32.890376+03:00",
       "title": "After 241 days in orbit this NASA astronaut is finally home",
@@ -490,6 +484,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
+      "image": true
+    },
+    {
+      "time": "2026-08-26T16:45:31.999894+03:00",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
       "image": true
     }
   ],
