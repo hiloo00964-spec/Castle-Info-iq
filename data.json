@@ -86,7 +86,8 @@
     "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
     "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
     "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-karel-schrijver/",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xmm-newton-ao-26-is-open/"
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xmm-newton-ao-26-is-open/",
+    "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -175,17 +176,10 @@
     "A Changing World for Emperor Penguins",
     "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
     "Space Weather Living History: Dr. Karel Schrijver",
-    "XMM-Newton AO-26 is Open"
+    "XMM-Newton AO-26 is Open",
+    "SAGE III and INSPYRE Assess PyroCb‑Driven Stratospheric Smoke Injection from 2026 Wildfires"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-21T10:35:19.186281+03:00",
-      "title": "Europe’s Scorching Summer",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/earth/europes-scorching-summer/",
-      "image": true
-    },
     {
       "time": "2026-08-21T12:26:40.938864+03:00",
       "title": "Gettysburg Address: Lincoln's Most Important Speech",
@@ -496,6 +490,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xmm-newton-ao-26-is-open/",
+      "image": true
+    },
+    {
+      "time": "2026-08-27T20:59:07.445422+03:00",
+      "title": "SAGE III and INSPYRE Assess PyroCb‑Driven Stratospheric Smoke Injection from 2026 Wildfires",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/",
       "image": true
     }
   ],

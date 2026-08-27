@@ -85,7 +85,8 @@
     "https://www.worldhistory.org/Gilbert_and_Marshall_Islands_Campaign/",
     "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
     "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
-    "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-karel-schrijver/"
+    "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-karel-schrijver/",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xmm-newton-ao-26-is-open/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -173,17 +174,10 @@
     "Gilbert and Marshall Islands Campaign: The US Island-Hopping Advance in the Pacific",
     "A Changing World for Emperor Penguins",
     "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
-    "Space Weather Living History: Dr. Karel Schrijver"
+    "Space Weather Living History: Dr. Karel Schrijver",
+    "XMM-Newton AO-26 is Open"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-20T22:23:40.426442+03:00",
-      "title": "Evliya Çelebi: The Most Famous Ottoman Traveler",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Evliya_Celebi/",
-      "image": true
-    },
     {
       "time": "2026-08-21T10:35:19.186281+03:00",
       "title": "Europe’s Scorching Summer",
@@ -495,9 +489,17 @@
       "category": "فضاء",
       "link": "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-karel-schrijver/",
       "image": true
+    },
+    {
+      "time": "2026-08-27T00:28:43.486036+03:00",
+      "title": "XMM-Newton AO-26 is Open",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xmm-newton-ao-26-is-open/",
+      "image": true
     }
   ],
-  "last_error": "2026-08-26T18:49:38.373539 | Gemini introduced unsupported numbers: 2012",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
