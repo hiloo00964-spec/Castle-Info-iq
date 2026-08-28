@@ -87,7 +87,8 @@
     "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
     "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-karel-schrijver/",
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xmm-newton-ao-26-is-open/",
-    "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/"
+    "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/",
+    "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -177,17 +178,10 @@
     "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
     "Space Weather Living History: Dr. Karel Schrijver",
     "XMM-Newton AO-26 is Open",
-    "SAGE III and INSPYRE Assess PyroCb‑Driven Stratospheric Smoke Injection from 2026 Wildfires"
+    "SAGE III and INSPYRE Assess PyroCb‑Driven Stratospheric Smoke Injection from 2026 Wildfires",
+    "Sentinel-6B Stories"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-21T12:26:40.938864+03:00",
-      "title": "Gettysburg Address: Lincoln's Most Important Speech",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Gettysburg_Address/",
-      "image": true
-    },
     {
       "time": "2026-08-21T14:17:29.468733+03:00",
       "title": "Space Weather Living History: Dr. Mauricio Peredo",
@@ -498,6 +492,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/",
+      "image": true
+    },
+    {
+      "time": "2026-08-28T05:23:36.863747+03:00",
+      "title": "Sentinel-6B Stories",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/",
       "image": true
     }
   ],
