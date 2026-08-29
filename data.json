@@ -90,7 +90,8 @@
     "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/",
     "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/",
     "https://science.nasa.gov/blogs/swift/2026/08/28/nasas-swift-restarts-science-observations/",
-    "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/"
+    "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/",
+    "https://www.sciencedaily.com/releases/2026/08/260828082327.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -183,17 +184,10 @@
     "SAGE III and INSPYRE Assess PyroCb‑Driven Stratospheric Smoke Injection from 2026 Wildfires",
     "Sentinel-6B Stories",
     "NASA’s Swift Restarts Science Observations",
-    "NASA Roman Arrives at Launch Pad, Mission Briefings Scheduled"
+    "NASA Roman Arrives at Launch Pad, Mission Briefings Scheduled",
+    "Keto diet cut liver fat by 67% in a clinical trial"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-21T18:24:18.252789+03:00",
-      "title": "Panic at Bull Run: Russell's Account of the Union Retreat",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/2959/panic-at-bull-run/",
-      "image": true
-    },
     {
       "time": "2026-08-21T20:20:23.669827+03:00",
       "title": "Voyager 2 was running out of power. NASA just bought it more time",
@@ -504,6 +498,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/",
+      "image": true
+    },
+    {
+      "time": "2026-08-29T19:55:47.101248+03:00",
+      "title": "Keto diet cut liver fat by 67% in a clinical trial",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
       "image": true
     }
   ],
