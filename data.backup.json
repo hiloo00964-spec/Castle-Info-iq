@@ -88,7 +88,8 @@
     "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-karel-schrijver/",
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/xmm-newton-ao-26-is-open/",
     "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/",
-    "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/"
+    "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/",
+    "https://science.nasa.gov/blogs/swift/2026/08/28/nasas-swift-restarts-science-observations/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -179,17 +180,10 @@
     "Space Weather Living History: Dr. Karel Schrijver",
     "XMM-Newton AO-26 is Open",
     "SAGE III and INSPYRE Assess PyroCb‑Driven Stratospheric Smoke Injection from 2026 Wildfires",
-    "Sentinel-6B Stories"
+    "Sentinel-6B Stories",
+    "NASA’s Swift Restarts Science Observations"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-21T14:17:29.468733+03:00",
-      "title": "Space Weather Living History: Dr. Mauricio Peredo",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-dr-mauricio-peredo/",
-      "image": true
-    },
     {
       "time": "2026-08-21T16:37:54.881821+03:00",
       "title": "First Battle of Bull Run (First Manassas): The Wake-Up Call for Both Sides in the American Civil War",
@@ -500,6 +494,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/",
+      "image": true
+    },
+    {
+      "time": "2026-08-28T22:09:20.347423+03:00",
+      "title": "NASA’s Swift Restarts Science Observations",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/blogs/swift/2026/08/28/nasas-swift-restarts-science-observations/",
       "image": true
     }
   ],
