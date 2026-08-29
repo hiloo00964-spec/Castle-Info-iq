@@ -91,7 +91,8 @@
     "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/",
     "https://science.nasa.gov/blogs/swift/2026/08/28/nasas-swift-restarts-science-observations/",
     "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/",
-    "https://www.sciencedaily.com/releases/2026/08/260828082327.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -185,17 +186,10 @@
     "Sentinel-6B Stories",
     "NASA’s Swift Restarts Science Observations",
     "NASA Roman Arrives at Launch Pad, Mission Briefings Scheduled",
-    "Keto diet cut liver fat by 67% in a clinical trial"
+    "Keto diet cut liver fat by 67% in a clinical trial",
+    "Dogs may hold surprising clues to human longevity"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-21T20:20:23.669827+03:00",
-      "title": "Voyager 2 was running out of power. NASA just bought it more time",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260810015703.htm",
-      "image": true
-    },
     {
       "time": "2026-08-21T22:19:20.907561+03:00",
       "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
@@ -506,6 +500,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-29T22:34:28.413800+03:00",
+      "title": "Dogs may hold surprising clues to human longevity",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
       "image": true
     }
   ],
