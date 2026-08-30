@@ -92,7 +92,8 @@
     "https://science.nasa.gov/blogs/swift/2026/08/28/nasas-swift-restarts-science-observations/",
     "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/",
     "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+    "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -187,17 +188,10 @@
     "NASA’s Swift Restarts Science Observations",
     "NASA Roman Arrives at Launch Pad, Mission Briefings Scheduled",
     "Keto diet cut liver fat by 67% in a clinical trial",
-    "Dogs may hold surprising clues to human longevity"
+    "Dogs may hold surprising clues to human longevity",
+    "NASA Concludes Roman Space Telescope Launch Coverage"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-21T22:19:20.907561+03:00",
-      "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
-      "image": true
-    },
     {
       "time": "2026-08-22T10:23:53.986015+03:00",
       "title": "A little movement in midlife could pay off for your brain years later",
@@ -508,6 +502,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-30T15:26:59.871186+03:00",
+      "title": "NASA Concludes Roman Space Telescope Launch Coverage",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
       "image": true
     }
   ],
