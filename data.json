@@ -94,7 +94,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
     "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
     "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
-    "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
+    "https://www.sciencedaily.com/releases/2026/08/260829035225.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -191,17 +192,10 @@
     "Keto diet cut liver fat by 67% in a clinical trial",
     "Dogs may hold surprising clues to human longevity",
     "NASA Concludes Roman Space Telescope Launch Coverage",
-    "1.4-million-year-old footprints reveal a surprisingly large human relative"
+    "1.4-million-year-old footprints reveal a surprisingly large human relative",
+    "This strange “spacetime crystal” can suddenly become a black hole"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-22T12:18:05.793304+03:00",
-      "title": "“Cannot be explained” – New super steel stuns scientists",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
-      "image": true
-    },
     {
       "time": "2026-08-22T14:12:39.530115+03:00",
       "title": "Lunar Orbit and Surface IMM Runs",
@@ -512,6 +506,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-31T00:44:15.804711+03:00",
+      "title": "This strange “spacetime crystal” can suddenly become a black hole",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
       "image": true
     }
   ],

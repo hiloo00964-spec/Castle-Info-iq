@@ -93,7 +93,8 @@
     "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/",
     "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
     "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
-    "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/"
+    "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
+    "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -189,17 +190,10 @@
     "NASA Roman Arrives at Launch Pad, Mission Briefings Scheduled",
     "Keto diet cut liver fat by 67% in a clinical trial",
     "Dogs may hold surprising clues to human longevity",
-    "NASA Concludes Roman Space Telescope Launch Coverage"
+    "NASA Concludes Roman Space Telescope Launch Coverage",
+    "1.4-million-year-old footprints reveal a surprisingly large human relative"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-22T10:23:53.986015+03:00",
-      "title": "A little movement in midlife could pay off for your brain years later",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm",
-      "image": true
-    },
     {
       "time": "2026-08-22T12:18:05.793304+03:00",
       "title": "“Cannot be explained” – New super steel stuns scientists",
@@ -510,6 +504,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
+      "image": true
+    },
+    {
+      "time": "2026-08-30T20:04:54.564593+03:00",
+      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
       "image": true
     }
   ],
