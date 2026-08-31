@@ -95,7 +95,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
     "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
     "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
-    "https://www.sciencedaily.com/releases/2026/08/260829035225.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+    "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -193,17 +194,10 @@
     "Dogs may hold surprising clues to human longevity",
     "NASA Concludes Roman Space Telescope Launch Coverage",
     "1.4-million-year-old footprints reveal a surprisingly large human relative",
-    "This strange “spacetime crystal” can suddenly become a black hole"
+    "This strange “spacetime crystal” can suddenly become a black hole",
+    "Roman Commissioning"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-22T14:12:39.530115+03:00",
-      "title": "Lunar Orbit and Surface IMM Runs",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/lunar-orbit-and-surface-imm-runs/",
-      "image": true
-    },
     {
       "time": "2026-08-22T16:24:28.007301+03:00",
       "title": "APOD: 2026 August 22 – Mostly Perseids",
@@ -514,6 +508,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-31T16:00:47.046655+03:00",
+      "title": "Roman Commissioning",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
       "image": true
     }
   ],
