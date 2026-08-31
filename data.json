@@ -96,7 +96,8 @@
     "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
     "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
     "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-    "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/"
+    "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
+    "https://www.sciencedaily.com/releases/2026/08/260829235947.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -195,17 +196,10 @@
     "NASA Concludes Roman Space Telescope Launch Coverage",
     "1.4-million-year-old footprints reveal a surprisingly large human relative",
     "This strange “spacetime crystal” can suddenly become a black hole",
-    "Roman Commissioning"
+    "Roman Commissioning",
+    "One injection could keep osteoarthritis drugs working for weeks"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-22T16:24:28.007301+03:00",
-      "title": "APOD: 2026 August 22 – Mostly Perseids",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/",
-      "image": true
-    },
     {
       "time": "2026-08-22T18:11:34.125102+03:00",
       "title": "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes",
@@ -516,6 +510,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
+      "image": true
+    },
+    {
+      "time": "2026-08-31T17:36:48.252734+03:00",
+      "title": "One injection could keep osteoarthritis drugs working for weeks",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
       "image": true
     }
   ],
