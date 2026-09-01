@@ -97,7 +97,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
     "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
     "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
-    "https://www.sciencedaily.com/releases/2026/08/260829235947.htm"
+    "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+    "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -197,17 +198,10 @@
     "1.4-million-year-old footprints reveal a surprisingly large human relative",
     "This strange “spacetime crystal” can suddenly become a black hole",
     "Roman Commissioning",
-    "One injection could keep osteoarthritis drugs working for weeks"
+    "One injection could keep osteoarthritis drugs working for weeks",
+    "Space Math at NASA: Image Scale Math"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-22T18:11:34.125102+03:00",
-      "title": "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260816044844.htm",
-      "image": true
-    },
     {
       "time": "2026-08-22T20:12:17.622553+03:00",
       "title": "Scientists just 3D printed one of the hardest metals on Earth",
@@ -518,6 +512,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
+      "image": true
+    },
+    {
+      "time": "2026-08-31T23:29:44.447708+03:00",
+      "title": "Space Math at NASA: Image Scale Math",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/",
       "image": true
     }
   ],
