@@ -99,7 +99,8 @@
     "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
     "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
     "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/",
-    "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/"
+    "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/",
+    "https://www.worldhistory.org/Braxton_Bragg/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -201,17 +202,10 @@
     "Roman Commissioning",
     "One injection could keep osteoarthritis drugs working for weeks",
     "Space Math at NASA: Image Scale Math",
-    "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk"
+    "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk",
+    "Braxton Bragg: The Most Controversial Confederate General"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-22T22:16:17.577743+03:00",
-      "title": "Artemis Mission Patches",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
-      "image": true
-    },
     {
       "time": "2026-08-23T10:26:27.240611+03:00",
       "title": "NASA Launches First Scientific Balloon of Fort Sumner Campaign",
@@ -522,6 +516,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/",
+      "image": true
+    },
+    {
+      "time": "2026-09-01T20:04:00.167813+03:00",
+      "title": "Braxton Bragg: The Most Controversial Confederate General",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Braxton_Bragg/",
       "image": true
     }
   ],

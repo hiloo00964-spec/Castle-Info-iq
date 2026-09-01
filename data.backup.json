@@ -98,7 +98,8 @@
     "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
     "https://science.nasa.gov/missions/roman-space-telescope/roman-commissioning/",
     "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
-    "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/"
+    "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/",
+    "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -199,17 +200,10 @@
     "This strange “spacetime crystal” can suddenly become a black hole",
     "Roman Commissioning",
     "One injection could keep osteoarthritis drugs working for weeks",
-    "Space Math at NASA: Image Scale Math"
+    "Space Math at NASA: Image Scale Math",
+    "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-22T20:12:17.622553+03:00",
-      "title": "Scientists just 3D printed one of the hardest metals on Earth",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801094053.htm",
-      "image": true
-    },
     {
       "time": "2026-08-22T22:16:17.577743+03:00",
       "title": "Artemis Mission Patches",
@@ -520,6 +514,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/",
+      "image": true
+    },
+    {
+      "time": "2026-09-01T15:14:16.715276+03:00",
+      "title": "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/",
       "image": true
     }
   ],
