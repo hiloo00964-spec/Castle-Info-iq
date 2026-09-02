@@ -102,7 +102,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/",
     "https://www.worldhistory.org/Braxton_Bragg/",
     "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-    "https://www.worldhistory.org/Charles_V,_Holy_Roman_Emperor/"
+    "https://www.worldhistory.org/Charles_V,_Holy_Roman_Emperor/",
+    "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -207,17 +208,10 @@
     "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk",
     "Braxton Bragg: The Most Controversial Confederate General",
     "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-    "Charles V, Holy Roman Emperor"
+    "Charles V, Holy Roman Emperor",
+    "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-23T14:12:45.580777+03:00",
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
-      "image": true
-    },
     {
       "time": "2026-08-23T16:25:40.540668+03:00",
       "title": "Dying Sun-like stars may kick themselves through space",
@@ -529,10 +523,21 @@
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Charles_V,_Holy_Roman_Emperor/",
       "image": true
+    },
+    {
+      "time": "2026-09-02T22:33:36.137296+03:00",
+      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
+      "image": true
     }
   ],
-  "last_error": "2026-09-02T16:56:00.723107 | Configured Gemini models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
-  "gemini_model_fallbacks": [],
+  "gemini_model_fallbacks": [
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite"
+  ],
   "gemini_model_preference": ""
 }
