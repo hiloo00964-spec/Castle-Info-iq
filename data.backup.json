@@ -101,7 +101,8 @@
     "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/",
     "https://www.worldhistory.org/Braxton_Bragg/",
-    "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
+    "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
+    "https://www.worldhistory.org/Charles_V,_Holy_Roman_Emperor/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -205,17 +206,10 @@
     "Space Math at NASA: Image Scale Math",
     "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk",
     "Braxton Bragg: The Most Controversial Confederate General",
-    "NASA Selects Blue Origin as Mars Telecommunications Network Provider"
+    "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
+    "Charles V, Holy Roman Emperor"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-23T12:18:40.539907+03:00",
-      "title": "Sun-like star caught after eating one of its own planets",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
-      "image": true
-    },
     {
       "time": "2026-08-23T14:12:45.580777+03:00",
       "title": "A strange quantum effect dramatically boosts energy transfer",
@@ -527,13 +521,18 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
       "image": true
+    },
+    {
+      "time": "2026-09-02T14:52:45.719242+03:00",
+      "title": "Charles V, Holy Roman Emperor",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Charles_V,_Holy_Roman_Emperor/",
+      "image": true
     }
   ],
   "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
-  "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
-  ],
+  "gemini_model_fallbacks": [],
   "gemini_model_preference": ""
 }
