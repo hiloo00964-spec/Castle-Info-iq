@@ -106,7 +106,8 @@
     "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
     "https://www.worldhistory.org/article/2981/sectional-divisions-of-the-civil-war/",
     "https://www.worldhistory.org/article/2984/battle-of-okinawa/",
-    "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/"
+    "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -215,17 +216,10 @@
     "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
     "Sectional Divisions of the Civil War: The Correspondence of A. Nicholas and J.M. McCue",
     "Battle of Okinawa: WWII's Last Major Battle",
-    "Station Crew Works Earth, Human Research and Preps for Cargo Missions"
+    "Station Crew Works Earth, Human Research and Preps for Cargo Missions",
+    "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-23T22:15:51.714371+03:00",
-      "title": "Friedrich Gentz's Stance on the French Revolution: The Fusion of Berlin Enlightenment and British Conservatism",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/2956/friedrich-gentzs-stance-on-the-french-revolution/",
-      "image": true
-    },
     {
       "time": "2026-08-24T10:50:19.009872+03:00",
       "title": "A black hole shredded a “super sun” — but something strange may have survived",
@@ -537,13 +531,21 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/",
       "image": true
+    },
+    {
+      "time": "2026-09-04T14:54:26.936687+03:00",
+      "title": "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.5-flash-lite",
+  "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite"
   ],
   "gemini_model_preference": ""
 }

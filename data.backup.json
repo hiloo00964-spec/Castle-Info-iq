@@ -105,7 +105,8 @@
     "https://www.worldhistory.org/Charles_V,_Holy_Roman_Emperor/",
     "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
     "https://www.worldhistory.org/article/2981/sectional-divisions-of-the-civil-war/",
-    "https://www.worldhistory.org/article/2984/battle-of-okinawa/"
+    "https://www.worldhistory.org/article/2984/battle-of-okinawa/",
+    "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -213,17 +214,10 @@
     "Charles V, Holy Roman Emperor",
     "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
     "Sectional Divisions of the Civil War: The Correspondence of A. Nicholas and J.M. McCue",
-    "Battle of Okinawa: WWII's Last Major Battle"
+    "Battle of Okinawa: WWII's Last Major Battle",
+    "Station Crew Works Earth, Human Research and Preps for Cargo Missions"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-23T20:12:34.481900+03:00",
-      "title": "CRM-HL",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/common_research_model/crm-hl/",
-      "image": true
-    },
     {
       "time": "2026-08-23T22:15:51.714371+03:00",
       "title": "Friedrich Gentz's Stance on the French Revolution: The Fusion of Berlin Enlightenment and British Conservatism",
@@ -535,13 +529,21 @@
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/2984/battle-of-okinawa/",
       "image": true
+    },
+    {
+      "time": "2026-09-03T22:30:15.501020+03:00",
+      "title": "Station Crew Works Earth, Human Research and Preps for Cargo Missions",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.5-flash-lite",
+  "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite"
   ],
   "gemini_model_preference": ""
 }
