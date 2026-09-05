@@ -108,7 +108,8 @@
     "https://www.worldhistory.org/article/2984/battle-of-okinawa/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/",
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
-    "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/"
+    "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/",
+    "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -219,17 +220,10 @@
     "Battle of Okinawa: WWII's Last Major Battle",
     "Station Crew Works Earth, Human Research and Preps for Cargo Missions",
     "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks",
-    "Technology Development Plan"
+    "Technology Development Plan",
+    "Life uses 4 DNA letters. Scientists just made 8 work"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-24T12:37:04.498269+03:00",
-      "title": "Scientists left water inside a battery and nearly doubled its power",
-      "source": "ScienceDaily Matter",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729043937.htm",
-      "image": true
-    },
     {
       "time": "2026-08-24T14:18:43.687868+03:00",
       "title": "The Army of Alexander the Great",
@@ -540,6 +534,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/",
+      "image": true
+    },
+    {
+      "time": "2026-09-05T14:03:13.690508+03:00",
+      "title": "Life uses 4 DNA letters. Scientists just made 8 work",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
       "image": true
     }
   ],
