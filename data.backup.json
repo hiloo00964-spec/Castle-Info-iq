@@ -109,7 +109,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/",
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
     "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/",
-    "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
+    "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -221,17 +222,10 @@
     "Station Crew Works Earth, Human Research and Preps for Cargo Missions",
     "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks",
     "Technology Development Plan",
-    "Life uses 4 DNA letters. Scientists just made 8 work"
+    "Life uses 4 DNA letters. Scientists just made 8 work",
+    "Roman Series: Liftoff!"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-24T14:18:43.687868+03:00",
-      "title": "The Army of Alexander the Great",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/review/570/the-army-of-alexander-the-great/",
-      "image": true
-    },
     {
       "time": "2026-08-24T20:31:23.802377+03:00",
       "title": "MAIA Air Sensor at Work in Addis Ababa",
@@ -543,6 +537,14 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
       "image": true
+    },
+    {
+      "time": "2026-09-05T18:42:33.800812+03:00",
+      "title": "Roman Series: Liftoff!",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/",
+      "image": false
     }
   ],
   "last_error": "",

@@ -110,7 +110,8 @@
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
     "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/",
     "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
-    "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/"
+    "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/",
+    "https://www.sciencedaily.com/releases/2026/09/260901010715.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -223,17 +224,10 @@
     "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks",
     "Technology Development Plan",
     "Life uses 4 DNA letters. Scientists just made 8 work",
-    "Roman Series: Liftoff!"
+    "Roman Series: Liftoff!",
+    "Quantum oscillations defy expectations in this exotic material"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-24T20:31:23.802377+03:00",
-      "title": "MAIA Air Sensor at Work in Addis Ababa",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
-      "image": true
-    },
     {
       "time": "2026-08-24T20:40:20.165287+03:00",
       "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
@@ -545,6 +539,14 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/",
       "image": false
+    },
+    {
+      "time": "2026-09-05T21:40:16.949284+03:00",
+      "title": "Quantum oscillations defy expectations in this exotic material",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
+      "image": true
     }
   ],
   "last_error": "",
