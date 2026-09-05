@@ -107,7 +107,8 @@
     "https://www.worldhistory.org/article/2981/sectional-divisions-of-the-civil-war/",
     "https://www.worldhistory.org/article/2984/battle-of-okinawa/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/"
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
+    "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -217,17 +218,10 @@
     "Sectional Divisions of the Civil War: The Correspondence of A. Nicholas and J.M. McCue",
     "Battle of Okinawa: WWII's Last Major Battle",
     "Station Crew Works Earth, Human Research and Preps for Cargo Missions",
-    "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks"
+    "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks",
+    "Technology Development Plan"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-24T10:50:19.009872+03:00",
-      "title": "A black hole shredded a “super sun” — but something strange may have survived",
-      "source": "ScienceDaily Space",
-      "category": "فضاء",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm",
-      "image": true
-    },
     {
       "time": "2026-08-24T12:37:04.498269+03:00",
       "title": "Scientists left water inside a battery and nearly doubled its power",
@@ -539,9 +533,17 @@
       "category": "فضاء",
       "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
       "image": true
+    },
+    {
+      "time": "2026-09-04T22:13:18.259134+03:00",
+      "title": "Technology Development Plan",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/",
+      "image": true
     }
   ],
-  "last_error": "2026-09-04T16:39:55.044876 | Gemini introduced unsupported numbers: ١٩٤١",
+  "last_error": "",
   "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.1-flash-lite",
