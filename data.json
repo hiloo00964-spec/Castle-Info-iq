@@ -113,7 +113,8 @@
     "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/",
     "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
     "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
-    "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+    "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -229,17 +230,10 @@
     "Roman Series: Liftoff!",
     "Quantum oscillations defy expectations in this exotic material",
     "Indonesia’s most dangerous fires are burning underground",
-    "AI can now control fusion plasma faster than humans can react"
+    "AI can now control fusion plasma faster than humans can react",
+    "APOD: 2026 September 6 – Pluto in Enhanced Color"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-25T10:36:53.228942+03:00",
-      "title": "APOD: 2026 August 25 – Earth’s Shadow Visualized with Lunar Eclipses",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-august-25-earths-shadow-visualized-with-lunar-eclipses/",
-      "image": true
-    },
     {
       "time": "2026-08-25T12:25:32.684979+03:00",
       "title": "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization",
@@ -550,6 +544,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-06T21:44:23.624778+03:00",
+      "title": "APOD: 2026 September 6 – Pluto in Enhanced Color",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/",
       "image": true
     }
   ],
