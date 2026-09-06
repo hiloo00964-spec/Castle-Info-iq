@@ -114,7 +114,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
     "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
     "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-    "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/"
+    "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/",
+    "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -231,17 +232,10 @@
     "Quantum oscillations defy expectations in this exotic material",
     "Indonesia’s most dangerous fires are burning underground",
     "AI can now control fusion plasma faster than humans can react",
-    "APOD: 2026 September 6 – Pluto in Enhanced Color"
+    "APOD: 2026 September 6 – Pluto in Enhanced Color",
+    "A mysterious signal around Earth could be dark matter"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-25T12:25:32.684979+03:00",
-      "title": "Bronze Age Collapse: The Decline and Fall of Mediterranean Civilization",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Bronze_Age_Collapse/",
-      "image": true
-    },
     {
       "time": "2026-08-25T14:18:11.577572+03:00",
       "title": "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk",
@@ -552,6 +546,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/",
+      "image": true
+    },
+    {
+      "time": "2026-09-06T23:57:23.501177+03:00",
+      "title": "A mysterious signal around Earth could be dark matter",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
       "image": true
     }
   ],
