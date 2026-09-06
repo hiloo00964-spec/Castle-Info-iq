@@ -111,7 +111,8 @@
     "https://science.nasa.gov/planetary-science/programs/pesto/tech-dev-plan/",
     "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
     "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/",
-    "https://www.sciencedaily.com/releases/2026/09/260901010715.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
+    "https://www.sciencedaily.com/releases/2026/09/260904000318.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -225,17 +226,10 @@
     "Technology Development Plan",
     "Life uses 4 DNA letters. Scientists just made 8 work",
     "Roman Series: Liftoff!",
-    "Quantum oscillations defy expectations in this exotic material"
+    "Quantum oscillations defy expectations in this exotic material",
+    "Indonesia’s most dangerous fires are burning underground"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-24T20:40:20.165287+03:00",
-      "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
-      "image": true
-    },
     {
       "time": "2026-08-24T22:22:00.284649+03:00",
       "title": "NASA’s Roman Telescope Enclosed in SpaceX Falcon Heavy Rocket Fairing",
@@ -547,9 +541,17 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
       "image": true
+    },
+    {
+      "time": "2026-09-06T14:27:07.327688+03:00",
+      "title": "Indonesia’s most dangerous fires are burning underground",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
+      "image": true
     }
   ],
-  "last_error": "2026-09-05T20:49:35.811274 | Gemini introduced unsupported numbers: 50",
+  "last_error": "",
   "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.1-flash-lite",
