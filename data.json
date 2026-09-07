@@ -115,7 +115,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
     "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
     "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/",
-    "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
+    "https://www.worldhistory.org/Thaddeus_Stevens/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -233,17 +234,10 @@
     "Indonesia’s most dangerous fires are burning underground",
     "AI can now control fusion plasma faster than humans can react",
     "APOD: 2026 September 6 – Pluto in Enhanced Color",
-    "A mysterious signal around Earth could be dark matter"
+    "A mysterious signal around Earth could be dark matter",
+    "Thaddeus Stevens: American Jacobin"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-25T14:18:11.577572+03:00",
-      "title": "NASA, ESA Astronauts Suiting Up for Antenna Installation Spacewalk",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
-      "image": false
-    },
     {
       "time": "2026-08-25T16:41:01.427363+03:00",
       "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
@@ -555,9 +549,17 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
       "image": true
+    },
+    {
+      "time": "2026-09-07T21:55:59.467954+03:00",
+      "title": "Thaddeus Stevens: American Jacobin",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Thaddeus_Stevens/",
+      "image": true
     }
   ],
-  "last_error": "2026-09-07T13:08:58.383368 | Gemini introduced unsupported numbers: 12",
+  "last_error": "",
   "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.1-flash-lite",
