@@ -116,7 +116,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
     "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/",
     "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
-    "https://www.worldhistory.org/Thaddeus_Stevens/"
+    "https://www.worldhistory.org/Thaddeus_Stevens/",
+    "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -235,17 +236,10 @@
     "AI can now control fusion plasma faster than humans can react",
     "APOD: 2026 September 6 – Pluto in Enhanced Color",
     "A mysterious signal around Earth could be dark matter",
-    "Thaddeus Stevens: American Jacobin"
+    "Thaddeus Stevens: American Jacobin",
+    "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-25T16:41:01.427363+03:00",
-      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
-      "image": true
-    },
     {
       "time": "2026-08-25T18:34:06.483149+03:00",
       "title": "Amendment 69: New Opportunity: D.9 Habitable Worlds Observatory Instrument Concept Assessments",
@@ -557,9 +551,17 @@
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Thaddeus_Stevens/",
       "image": true
+    },
+    {
+      "time": "2026-09-08T14:53:46.277517+03:00",
+      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+      "image": true
     }
   ],
-  "last_error": "2026-09-07T21:51:35.929033 | Gemini introduced unsupported numbers: 12",
+  "last_error": "",
   "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.1-flash-lite",
