@@ -117,7 +117,8 @@
     "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/",
     "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
     "https://www.worldhistory.org/Thaddeus_Stevens/",
-    "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/"
+    "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+    "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -237,17 +238,10 @@
     "APOD: 2026 September 6 – Pluto in Enhanced Color",
     "A mysterious signal around Earth could be dark matter",
     "Thaddeus Stevens: American Jacobin",
-    "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole"
+    "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+    "Superbubble in the Large Magellanic Cloud"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-25T18:34:06.483149+03:00",
-      "title": "Amendment 69: New Opportunity: D.9 Habitable Worlds Observatory Instrument Concept Assessments",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-69-new-opportunity-d-9-habitable-worlds-observatory-instrument-concept-assessments/",
-      "image": true
-    },
     {
       "time": "2026-08-25T20:23:22.187413+03:00",
       "title": "Grace Ray",
@@ -558,6 +552,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+      "image": true
+    },
+    {
+      "time": "2026-09-08T19:55:20.315907+03:00",
+      "title": "Superbubble in the Large Magellanic Cloud",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
       "image": true
     }
   ],
