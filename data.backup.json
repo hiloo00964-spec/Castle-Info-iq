@@ -118,7 +118,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
     "https://www.worldhistory.org/Thaddeus_Stevens/",
     "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
-    "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/"
+    "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+    "https://www.nasa.gov/blogs/spacestation/2026/09/08/astronaut-health-lunar-and-earth-photography-fill-crews-research-schedule/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -239,17 +240,10 @@
     "A mysterious signal around Earth could be dark matter",
     "Thaddeus Stevens: American Jacobin",
     "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-    "Superbubble in the Large Magellanic Cloud"
+    "Superbubble in the Large Magellanic Cloud",
+    "Astronaut Health, Lunar and Earth Photography Fill Crew’s Research Schedule"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-25T20:23:22.187413+03:00",
-      "title": "Grace Ray",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/people/grace-ray/",
-      "image": true
-    },
     {
       "time": "2026-08-25T22:23:37.844088+03:00",
       "title": "NASA, ESA Spacewalkers Finish Installing High-Speed Antenna",
@@ -560,6 +554,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+      "image": true
+    },
+    {
+      "time": "2026-09-08T22:40:33.424274+03:00",
+      "title": "Astronaut Health, Lunar and Earth Photography Fill Crew’s Research Schedule",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/08/astronaut-health-lunar-and-earth-photography-fill-crews-research-schedule/",
       "image": true
     }
   ],
