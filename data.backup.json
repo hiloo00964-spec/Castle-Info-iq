@@ -122,7 +122,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/09/08/astronaut-health-lunar-and-earth-photography-fill-crews-research-schedule/",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-14-sept-2026/",
     "https://www.worldhistory.org/Abraham_Lincoln/",
-    "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/"
+    "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-21-sept-2026/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -247,17 +248,10 @@
     "Astronaut Health, Lunar and Earth Photography Fill Crew’s Research Schedule",
     "AI/ML STIG Lecture Series, 14 Sept 2026",
     "Abraham Lincoln: Preserver of the Union",
-    "NASA’s Chandra Unveils Mysterious X-Ray Objects"
+    "NASA’s Chandra Unveils Mysterious X-Ray Objects",
+    "AI/ML STIG Lecture Series, 21 Sept 2026"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-26T14:20:26.214741+03:00",
-      "title": "A Changing World for Emperor Penguins",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-changing-world-for-emperor-penguins/",
-      "image": true
-    },
     {
       "time": "2026-08-26T16:45:31.999894+03:00",
       "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
@@ -568,6 +562,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
+      "image": true
+    },
+    {
+      "time": "2026-09-10T14:58:13.488799+03:00",
+      "title": "AI/ML STIG Lecture Series, 21 Sept 2026",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-21-sept-2026/",
       "image": true
     }
   ],

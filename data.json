@@ -123,7 +123,8 @@
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-14-sept-2026/",
     "https://www.worldhistory.org/Abraham_Lincoln/",
     "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
-    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-21-sept-2026/"
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-21-sept-2026/",
+    "https://science.nasa.gov/researchers/volunteer-review-panels/biosphere-roses/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -249,17 +250,10 @@
     "AI/ML STIG Lecture Series, 14 Sept 2026",
     "Abraham Lincoln: Preserver of the Union",
     "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-    "AI/ML STIG Lecture Series, 21 Sept 2026"
+    "AI/ML STIG Lecture Series, 21 Sept 2026",
+    "Biosphere (ROSES A.15)"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-26T16:45:31.999894+03:00",
-      "title": "Contractor to Civil Servant: NASA Welcomes Jeret Howard",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard/",
-      "image": true
-    },
     {
       "time": "2026-08-26T19:11:06.286936+03:00",
       "title": "Space Weather Living History: Dr. Karel Schrijver",
@@ -570,6 +564,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-21-sept-2026/",
+      "image": true
+    },
+    {
+      "time": "2026-09-10T19:46:11.639695+03:00",
+      "title": "Biosphere (ROSES A.15)",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/researchers/volunteer-review-panels/biosphere-roses/",
       "image": true
     }
   ],
