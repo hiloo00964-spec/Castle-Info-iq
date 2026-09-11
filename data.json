@@ -126,7 +126,8 @@
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-21-sept-2026/",
     "https://science.nasa.gov/researchers/volunteer-review-panels/biosphere-roses/",
     "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
-    "https://www.nasa.gov/blogs/spacestation/2026/09/11/crew-works-exercise-research-and-lab-maintenance-on-light-duty-day/"
+    "https://www.nasa.gov/blogs/spacestation/2026/09/11/crew-works-exercise-research-and-lab-maintenance-on-light-duty-day/",
+    "https://www.nasa.gov/ames-partnerships/space-economy-series/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -255,17 +256,10 @@
     "AI/ML STIG Lecture Series, 21 Sept 2026",
     "Biosphere (ROSES A.15)",
     "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-    "Crew Works Exercise Research and Lab Maintenance on Light Duty Day"
+    "Crew Works Exercise Research and Lab Maintenance on Light Duty Day",
+    "Space Economy Series"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-27T20:59:07.445422+03:00",
-      "title": "SAGE III and INSPYRE Assess PyroCb‑Driven Stratospheric Smoke Injection from 2026 Wildfires",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/blogs/sage/2026/08/27/sage-iii-and-inspyre-assess-pyrocb-driven-stratospheric-smoke-injection-from-2026-wildfires/",
-      "image": true
-    },
     {
       "time": "2026-08-28T05:23:36.863747+03:00",
       "title": "Sentinel-6B Stories",
@@ -576,6 +570,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/spacestation/2026/09/11/crew-works-exercise-research-and-lab-maintenance-on-light-duty-day/",
+      "image": true
+    },
+    {
+      "time": "2026-09-11T22:21:48.628993+03:00",
+      "title": "Space Economy Series",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/ames-partnerships/space-economy-series/",
       "image": true
     }
   ],
