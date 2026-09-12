@@ -127,7 +127,8 @@
     "https://science.nasa.gov/researchers/volunteer-review-panels/biosphere-roses/",
     "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/11/crew-works-exercise-research-and-lab-maintenance-on-light-duty-day/",
-    "https://www.nasa.gov/ames-partnerships/space-economy-series/"
+    "https://www.nasa.gov/ames-partnerships/space-economy-series/",
+    "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -257,17 +258,10 @@
     "Biosphere (ROSES A.15)",
     "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
     "Crew Works Exercise Research and Lab Maintenance on Light Duty Day",
-    "Space Economy Series"
+    "Space Economy Series",
+    "APOD: 2026 September 12 – Apollo 11: Catching Some Sun"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-28T05:23:36.863747+03:00",
-      "title": "Sentinel-6B Stories",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/mission/sentinel-6b/sentinel-6b-stories-2/",
-      "image": true
-    },
     {
       "time": "2026-08-28T22:09:20.347423+03:00",
       "title": "NASA’s Swift Restarts Science Observations",
@@ -578,6 +572,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/ames-partnerships/space-economy-series/",
+      "image": true
+    },
+    {
+      "time": "2026-09-12T14:23:30.993820+03:00",
+      "title": "APOD: 2026 September 12 – Apollo 11: Catching Some Sun",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
       "image": true
     }
   ],
