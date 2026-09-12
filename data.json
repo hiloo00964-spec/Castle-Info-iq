@@ -130,7 +130,8 @@
     "https://www.nasa.gov/ames-partnerships/space-economy-series/",
     "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
     "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
-    "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/"
+    "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/",
+    "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -263,17 +264,10 @@
     "Space Economy Series",
     "APOD: 2026 September 12 – Apollo 11: Catching Some Sun",
     "Who really needs a heart calcium scan?",
-    "KMT-2025-BLG-0026L b"
+    "KMT-2025-BLG-0026L b",
+    "KMT-2025-BLG-0030L b"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-29T19:55:47.101248+03:00",
-      "title": "Keto diet cut liver fat by 67% in a clinical trial",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
-      "image": true
-    },
     {
       "time": "2026-08-29T22:34:28.413800+03:00",
       "title": "Dogs may hold surprising clues to human longevity",
@@ -584,6 +578,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/",
+      "image": true
+    },
+    {
+      "time": "2026-09-13T00:06:55.899971+03:00",
+      "title": "KMT-2025-BLG-0030L b",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/",
       "image": true
     }
   ],
