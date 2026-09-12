@@ -128,7 +128,8 @@
     "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/11/crew-works-exercise-research-and-lab-maintenance-on-light-duty-day/",
     "https://www.nasa.gov/ames-partnerships/space-economy-series/",
-    "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/"
+    "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
+    "https://www.sciencedaily.com/releases/2026/09/260911214254.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -259,17 +260,10 @@
     "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
     "Crew Works Exercise Research and Lab Maintenance on Light Duty Day",
     "Space Economy Series",
-    "APOD: 2026 September 12 – Apollo 11: Catching Some Sun"
+    "APOD: 2026 September 12 – Apollo 11: Catching Some Sun",
+    "Who really needs a heart calcium scan?"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-28T22:09:20.347423+03:00",
-      "title": "NASA’s Swift Restarts Science Observations",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/blogs/swift/2026/08/28/nasas-swift-restarts-science-observations/",
-      "image": true
-    },
     {
       "time": "2026-08-29T15:53:34.117009+03:00",
       "title": "NASA Roman Arrives at Launch Pad, Mission Briefings Scheduled",
@@ -580,6 +574,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
+      "image": true
+    },
+    {
+      "time": "2026-09-12T18:56:17.111291+03:00",
+      "title": "Who really needs a heart calcium scan?",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
       "image": true
     }
   ],

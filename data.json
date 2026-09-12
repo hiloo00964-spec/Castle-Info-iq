@@ -129,7 +129,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/09/11/crew-works-exercise-research-and-lab-maintenance-on-light-duty-day/",
     "https://www.nasa.gov/ames-partnerships/space-economy-series/",
     "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
-    "https://www.sciencedaily.com/releases/2026/09/260911214254.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
+    "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -261,17 +262,10 @@
     "Crew Works Exercise Research and Lab Maintenance on Light Duty Day",
     "Space Economy Series",
     "APOD: 2026 September 12 – Apollo 11: Catching Some Sun",
-    "Who really needs a heart calcium scan?"
+    "Who really needs a heart calcium scan?",
+    "KMT-2025-BLG-0026L b"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-29T15:53:34.117009+03:00",
-      "title": "NASA Roman Arrives at Launch Pad, Mission Briefings Scheduled",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/",
-      "image": true
-    },
     {
       "time": "2026-08-29T19:55:47.101248+03:00",
       "title": "Keto diet cut liver fat by 67% in a clinical trial",
@@ -582,6 +576,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-12T21:52:36.559907+03:00",
+      "title": "KMT-2025-BLG-0026L b",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/",
       "image": true
     }
   ],
