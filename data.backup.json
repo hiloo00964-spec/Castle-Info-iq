@@ -132,7 +132,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
     "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/",
     "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/",
-    "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/"
+    "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+    "https://www.sciencedaily.com/releases/2026/09/260912220041.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -267,17 +268,10 @@
     "Who really needs a heart calcium scan?",
     "KMT-2025-BLG-0026L b",
     "KMT-2025-BLG-0030L b",
-    "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea"
+    "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+    "Physicists can’t agree on how the Universe works"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-30T15:26:59.871186+03:00",
-      "title": "NASA Concludes Roman Space Telescope Launch Coverage",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/blogs/roman/2026/08/30/nasa-concludes-roman-space-telescope-launch-coverage/",
-      "image": true
-    },
     {
       "time": "2026-08-30T20:04:54.564593+03:00",
       "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
@@ -588,6 +582,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
+      "image": true
+    },
+    {
+      "time": "2026-09-13T19:45:24.842836+03:00",
+      "title": "Physicists can’t agree on how the Universe works",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
       "image": true
     }
   ],
