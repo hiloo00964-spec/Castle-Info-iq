@@ -131,7 +131,8 @@
     "https://science.nasa.gov/image-article/apod-2026-september-12-apollo-11-catching-some-sun/",
     "https://www.sciencedaily.com/releases/2026/09/260911214254.htm",
     "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/",
-    "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/"
+    "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/",
+    "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -265,17 +266,10 @@
     "APOD: 2026 September 12 – Apollo 11: Catching Some Sun",
     "Who really needs a heart calcium scan?",
     "KMT-2025-BLG-0026L b",
-    "KMT-2025-BLG-0030L b"
+    "KMT-2025-BLG-0030L b",
+    "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-29T22:34:28.413800+03:00",
-      "title": "Dogs may hold surprising clues to human longevity",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm",
-      "image": true
-    },
     {
       "time": "2026-08-30T15:26:59.871186+03:00",
       "title": "NASA Concludes Roman Space Telescope Launch Coverage",
@@ -586,6 +580,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/",
+      "image": true
+    },
+    {
+      "time": "2026-09-13T15:26:39.370792+03:00",
+      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
       "image": true
     }
   ],
