@@ -133,7 +133,8 @@
     "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/",
     "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/",
     "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-    "https://www.sciencedaily.com/releases/2026/09/260912220041.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+    "https://www.sciencedaily.com/releases/2026/09/260911214259.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -269,17 +270,10 @@
     "KMT-2025-BLG-0026L b",
     "KMT-2025-BLG-0030L b",
     "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-    "Physicists can’t agree on how the Universe works"
+    "Physicists can’t agree on how the Universe works",
+    "Most men don’t know dairy is linked to prostate cancer risk"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-30T20:04:54.564593+03:00",
-      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm",
-      "image": true
-    },
     {
       "time": "2026-08-31T00:44:15.804711+03:00",
       "title": "This strange “spacetime crystal” can suddenly become a black hole",
@@ -590,6 +584,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-13T22:06:37.898642+03:00",
+      "title": "Most men don’t know dairy is linked to prostate cancer risk",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
       "image": true
     }
   ],

@@ -134,7 +134,8 @@
     "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/",
     "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
     "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
-    "https://www.sciencedaily.com/releases/2026/09/260911214259.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
+    "https://science.nasa.gov/earth-science/csda/vendor-wyvern/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -271,17 +272,10 @@
     "KMT-2025-BLG-0030L b",
     "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
     "Physicists can’t agree on how the Universe works",
-    "Most men don’t know dairy is linked to prostate cancer risk"
+    "Most men don’t know dairy is linked to prostate cancer risk",
+    "CSDA Vendor – Wyvern"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-31T00:44:15.804711+03:00",
-      "title": "This strange “spacetime crystal” can suddenly become a black hole",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm",
-      "image": true
-    },
     {
       "time": "2026-08-31T16:00:47.046655+03:00",
       "title": "Roman Commissioning",
@@ -592,6 +586,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-14T16:30:07.877475+03:00",
+      "title": "CSDA Vendor – Wyvern",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/earth-science/csda/vendor-wyvern/",
       "image": true
     }
   ],
