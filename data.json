@@ -137,7 +137,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
     "https://science.nasa.gov/earth-science/csda/vendor-wyvern/",
     "https://science.nasa.gov/mission/polcube/",
-    "https://www.worldhistory.org/Franklin_Pierce/"
+    "https://www.worldhistory.org/Franklin_Pierce/",
+    "https://science.nasa.gov/researchers/planetary-science-researchers/newsletter/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -277,17 +278,10 @@
     "Most men don’t know dairy is linked to prostate cancer risk",
     "CSDA Vendor – Wyvern",
     "NASA Langley Research Center PolCube Mission Information Site",
-    "Franklin Pierce: The Tragic US President"
+    "Franklin Pierce: The Tragic US President",
+    "NASA Planetary Research Programs Community Newsletter"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-31T23:29:44.447708+03:00",
-      "title": "Space Math at NASA: Image Scale Math",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/learn/heat/resource/space-math-at-nasa-image-scale-math/",
-      "image": true
-    },
     {
       "time": "2026-09-01T15:14:16.715276+03:00",
       "title": "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk",
@@ -599,13 +593,21 @@
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Franklin_Pierce/",
       "image": true
+    },
+    {
+      "time": "2026-09-15T20:25:05.816853+03:00",
+      "title": "NASA Planetary Research Programs Community Newsletter",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/researchers/planetary-science-researchers/newsletter/",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.1-flash-lite",
+  "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.1-flash-lite",
-    "gemini-3.5-flash-lite"
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite"
   ],
   "gemini_model_preference": ""
 }
