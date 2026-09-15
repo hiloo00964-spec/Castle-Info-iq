@@ -136,7 +136,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
     "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
     "https://science.nasa.gov/earth-science/csda/vendor-wyvern/",
-    "https://science.nasa.gov/mission/polcube/"
+    "https://science.nasa.gov/mission/polcube/",
+    "https://www.worldhistory.org/Franklin_Pierce/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -275,17 +276,10 @@
     "Physicists can’t agree on how the Universe works",
     "Most men don’t know dairy is linked to prostate cancer risk",
     "CSDA Vendor – Wyvern",
-    "NASA Langley Research Center PolCube Mission Information Site"
+    "NASA Langley Research Center PolCube Mission Information Site",
+    "Franklin Pierce: The Tragic US President"
   ],
   "last_posts": [
-    {
-      "time": "2026-08-31T17:36:48.252734+03:00",
-      "title": "One injection could keep osteoarthritis drugs working for weeks",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm",
-      "image": true
-    },
     {
       "time": "2026-08-31T23:29:44.447708+03:00",
       "title": "Space Math at NASA: Image Scale Math",
@@ -596,6 +590,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/mission/polcube/",
+      "image": true
+    },
+    {
+      "time": "2026-09-15T15:21:41.674689+03:00",
+      "title": "Franklin Pierce: The Tragic US President",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Franklin_Pierce/",
       "image": true
     }
   ],
