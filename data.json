@@ -140,7 +140,8 @@
     "https://www.worldhistory.org/Franklin_Pierce/",
     "https://science.nasa.gov/researchers/planetary-science-researchers/newsletter/",
     "https://science.nasa.gov/blogs/planetary-expeditions/2026/09/15/nasa-field-tests-ai-fleet-capability-for-science-exploration/",
-    "https://www.worldhistory.org/Korean_War/"
+    "https://www.worldhistory.org/Korean_War/",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-22-sept-2026-2/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -283,17 +284,10 @@
     "Franklin Pierce: The Tragic US President",
     "NASA Planetary Research Programs Community Newsletter",
     "NASA Field-Tests AI Fleet Capability for Science, Exploration",
-    "Korean War: How the Cold War Became a Hot War"
+    "Korean War: How the Cold War Became a Hot War",
+    "AGN SIG Spotlight Series, 22 Sept 2026"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-02T00:30:28.011321+03:00",
-      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-      "image": true
-    },
     {
       "time": "2026-09-02T14:52:45.719242+03:00",
       "title": "Charles V, Holy Roman Emperor",
@@ -604,6 +598,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Korean_War/",
+      "image": true
+    },
+    {
+      "time": "2026-09-16T20:23:16.363338+03:00",
+      "title": "AGN SIG Spotlight Series, 22 Sept 2026",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-22-sept-2026-2/",
       "image": true
     }
   ],
