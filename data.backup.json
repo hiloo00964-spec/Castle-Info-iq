@@ -138,7 +138,8 @@
     "https://science.nasa.gov/earth-science/csda/vendor-wyvern/",
     "https://science.nasa.gov/mission/polcube/",
     "https://www.worldhistory.org/Franklin_Pierce/",
-    "https://science.nasa.gov/researchers/planetary-science-researchers/newsletter/"
+    "https://science.nasa.gov/researchers/planetary-science-researchers/newsletter/",
+    "https://science.nasa.gov/blogs/planetary-expeditions/2026/09/15/nasa-field-tests-ai-fleet-capability-for-science-exploration/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -279,17 +280,10 @@
     "CSDA Vendor – Wyvern",
     "NASA Langley Research Center PolCube Mission Information Site",
     "Franklin Pierce: The Tragic US President",
-    "NASA Planetary Research Programs Community Newsletter"
+    "NASA Planetary Research Programs Community Newsletter",
+    "NASA Field-Tests AI Fleet Capability for Science, Exploration"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-01T15:14:16.715276+03:00",
-      "title": "ESA, NASA Astronauts Suit Up for Navigation, Science Maintenance Spacewalk",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-suit-up-for-navigation-science-maintenance-spacewalk/",
-      "image": true
-    },
     {
       "time": "2026-09-01T20:04:00.167813+03:00",
       "title": "Braxton Bragg: The Most Controversial Confederate General",
@@ -600,6 +594,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/researchers/planetary-science-researchers/newsletter/",
+      "image": true
+    },
+    {
+      "time": "2026-09-16T00:49:41.428754+03:00",
+      "title": "NASA Field-Tests AI Fleet Capability for Science, Exploration",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/blogs/planetary-expeditions/2026/09/15/nasa-field-tests-ai-fleet-capability-for-science-exploration/",
       "image": true
     }
   ],
