@@ -143,7 +143,8 @@
     "https://www.worldhistory.org/Korean_War/",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-22-sept-2026-2/",
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-74-a-14-atmosphere-research-program-due-date-delay-and-clarification-regarding-the-use-of-generative-ai/",
-    "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/"
+    "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/",
+    "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -289,17 +290,10 @@
     "Korean War: How the Cold War Became a Hot War",
     "AGN SIG Spotlight Series, 22 Sept 2026",
     "Amendment 74: A.14 Atmosphere Research Program Due Date Delay and Clarification Regarding the use of Generative AI",
-    "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City"
+    "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City",
+    "Space Weather Living History Podcast Series Directory"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-03T14:51:05.797416+03:00",
-      "title": "Sectional Divisions of the Civil War: The Correspondence of A. Nicholas and J.M. McCue",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/2981/sectional-divisions-of-the-civil-war/",
-      "image": true
-    },
     {
       "time": "2026-09-03T19:45:43.334066+03:00",
       "title": "Battle of Okinawa: WWII's Last Major Battle",
@@ -610,6 +604,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/",
+      "image": true
+    },
+    {
+      "time": "2026-09-17T20:22:26.631539+03:00",
+      "title": "Space Weather Living History Podcast Series Directory",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/",
       "image": true
     }
   ],
