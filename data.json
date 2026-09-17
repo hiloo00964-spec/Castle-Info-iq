@@ -142,7 +142,8 @@
     "https://science.nasa.gov/blogs/planetary-expeditions/2026/09/15/nasa-field-tests-ai-fleet-capability-for-science-exploration/",
     "https://www.worldhistory.org/Korean_War/",
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-22-sept-2026-2/",
-    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-74-a-14-atmosphere-research-program-due-date-delay-and-clarification-regarding-the-use-of-generative-ai/"
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-74-a-14-atmosphere-research-program-due-date-delay-and-clarification-regarding-the-use-of-generative-ai/",
+    "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -287,17 +288,10 @@
     "NASA Field-Tests AI Fleet Capability for Science, Exploration",
     "Korean War: How the Cold War Became a Hot War",
     "AGN SIG Spotlight Series, 22 Sept 2026",
-    "Amendment 74: A.14 Atmosphere Research Program Due Date Delay and Clarification Regarding the use of Generative AI"
+    "Amendment 74: A.14 Atmosphere Research Program Due Date Delay and Clarification Regarding the use of Generative AI",
+    "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-02T22:33:36.137296+03:00",
-      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
-      "image": true
-    },
     {
       "time": "2026-09-03T14:51:05.797416+03:00",
       "title": "Sectional Divisions of the Civil War: The Correspondence of A. Nicholas and J.M. McCue",
@@ -608,6 +602,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-74-a-14-atmosphere-research-program-due-date-delay-and-clarification-regarding-the-use-of-generative-ai/",
+      "image": true
+    },
+    {
+      "time": "2026-09-17T15:19:34.942336+03:00",
+      "title": "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/",
       "image": true
     }
   ],
