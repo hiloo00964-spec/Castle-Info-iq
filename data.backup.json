@@ -144,7 +144,8 @@
     "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-22-sept-2026-2/",
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-74-a-14-atmosphere-research-program-due-date-delay-and-clarification-regarding-the-use-of-generative-ai/",
     "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/",
-    "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/"
+    "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/",
+    "https://science.nasa.gov/mission/evs-4/forte/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -291,17 +292,10 @@
     "AGN SIG Spotlight Series, 22 Sept 2026",
     "Amendment 74: A.14 Atmosphere Research Program Due Date Delay and Clarification Regarding the use of Generative AI",
     "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City",
-    "Space Weather Living History Podcast Series Directory"
+    "Space Weather Living History Podcast Series Directory",
+    "FORTE"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-03T19:45:43.334066+03:00",
-      "title": "Battle of Okinawa: WWII's Last Major Battle",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/2984/battle-of-okinawa/",
-      "image": true
-    },
     {
       "time": "2026-09-03T22:30:15.501020+03:00",
       "title": "Station Crew Works Earth, Human Research and Preps for Cargo Missions",
@@ -612,6 +606,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/",
+      "image": true
+    },
+    {
+      "time": "2026-09-18T00:50:29.818169+03:00",
+      "title": "FORTE",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/mission/evs-4/forte/",
       "image": true
     }
   ],
