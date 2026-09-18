@@ -146,7 +146,8 @@
     "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/",
     "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/",
     "https://science.nasa.gov/mission/evs-4/forte/",
-    "https://www.sciencedaily.com/releases/2026/09/260917003715.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
+    "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -295,17 +296,10 @@
     "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City",
     "Space Weather Living History Podcast Series Directory",
     "FORTE",
-    "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before"
+    "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
+    "NASA Awards SpaceX Three Crew Flights to Space Station"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-04T14:54:26.936687+03:00",
-      "title": "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/roses-25-d-4-theoretical-and-computational-astrophysics-networks/",
-      "image": true
-    },
     {
       "time": "2026-09-04T22:13:18.259134+03:00",
       "title": "Technology Development Plan",
@@ -617,6 +611,14 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
       "image": true
+    },
+    {
+      "time": "2026-09-18T19:49:20.796357+03:00",
+      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "image": false
     }
   ],
   "last_error": "",

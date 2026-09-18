@@ -145,7 +145,8 @@
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-74-a-14-atmosphere-research-program-due-date-delay-and-clarification-regarding-the-use-of-generative-ai/",
     "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/",
     "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/",
-    "https://science.nasa.gov/mission/evs-4/forte/"
+    "https://science.nasa.gov/mission/evs-4/forte/",
+    "https://www.sciencedaily.com/releases/2026/09/260917003715.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -293,17 +294,10 @@
     "Amendment 74: A.14 Atmosphere Research Program Due Date Delay and Clarification Regarding the use of Generative AI",
     "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City",
     "Space Weather Living History Podcast Series Directory",
-    "FORTE"
+    "FORTE",
+    "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-03T22:30:15.501020+03:00",
-      "title": "Station Crew Works Earth, Human Research and Preps for Cargo Missions",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/03/station-crew-works-earth-human-research-and-preps-for-cargo-missions/",
-      "image": true
-    },
     {
       "time": "2026-09-04T14:54:26.936687+03:00",
       "title": "ROSES-25 D.4 Theoretical and Computational Astrophysics Networks",
@@ -614,6 +608,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/mission/evs-4/forte/",
+      "image": true
+    },
+    {
+      "time": "2026-09-18T14:59:21.495870+03:00",
+      "title": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
       "image": true
     }
   ],
