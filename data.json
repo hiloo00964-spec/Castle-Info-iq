@@ -148,7 +148,8 @@
     "https://science.nasa.gov/mission/evs-4/forte/",
     "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
     "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-    "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/"
+    "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+    "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -299,17 +300,10 @@
     "FORTE",
     "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
     "NASA Awards SpaceX Three Crew Flights to Space Station",
-    "APOD: 2026 September 19 – A Zodiacal Night"
+    "APOD: 2026 September 19 – A Zodiacal Night",
+    "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-05T14:03:13.690508+03:00",
-      "title": "Life uses 4 DNA letters. Scientists just made 8 work",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm",
-      "image": true
-    },
     {
       "time": "2026-09-05T18:42:33.800812+03:00",
       "title": "Roman Series: Liftoff!",
@@ -620,6 +614,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+      "image": true
+    },
+    {
+      "time": "2026-09-19T19:09:40.277003+03:00",
+      "title": "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
       "image": true
     }
   ],
