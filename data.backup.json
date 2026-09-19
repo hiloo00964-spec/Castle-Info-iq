@@ -621,7 +621,7 @@
       "image": false
     }
   ],
-  "last_error": "",
+  "last_error": "2026-09-18T19:18:28.490941 | Gemini introduced unsupported numbers: 13",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
