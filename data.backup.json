@@ -149,7 +149,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
     "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
     "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
-    "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/"
+    "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
+    "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -301,17 +302,10 @@
     "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
     "NASA Awards SpaceX Three Crew Flights to Space Station",
     "APOD: 2026 September 19 – A Zodiacal Night",
-    "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew"
+    "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew",
+    "Progress 96 Cargo Spacecraft Approaching Station for Docking"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-05T18:42:33.800812+03:00",
-      "title": "Roman Series: Liftoff!",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/podcasts/curious-universe/roman-launch-podcast/",
-      "image": false
-    },
     {
       "time": "2026-09-05T21:40:16.949284+03:00",
       "title": "Quantum oscillations defy expectations in this exotic material",
@@ -623,6 +617,14 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
       "image": true
+    },
+    {
+      "time": "2026-09-19T22:04:52.753569+03:00",
+      "title": "Progress 96 Cargo Spacecraft Approaching Station for Docking",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/",
+      "image": false
     }
   ],
   "last_error": "",
