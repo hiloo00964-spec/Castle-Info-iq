@@ -150,7 +150,8 @@
     "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
     "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
-    "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/"
+    "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/",
+    "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -303,17 +304,10 @@
     "NASA Awards SpaceX Three Crew Flights to Space Station",
     "APOD: 2026 September 19 – A Zodiacal Night",
     "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew",
-    "Progress 96 Cargo Spacecraft Approaching Station for Docking"
+    "Progress 96 Cargo Spacecraft Approaching Station for Docking",
+    "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-05T21:40:16.949284+03:00",
-      "title": "Quantum oscillations defy expectations in this exotic material",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
-      "image": true
-    },
     {
       "time": "2026-09-06T14:27:07.327688+03:00",
       "title": "Indonesia’s most dangerous fires are burning underground",
@@ -625,6 +619,14 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/",
       "image": false
+    },
+    {
+      "time": "2026-09-20T14:55:11.839296+03:00",
+      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+      "image": true
     }
   ],
   "last_error": "",

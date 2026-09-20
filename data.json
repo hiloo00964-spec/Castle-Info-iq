@@ -151,7 +151,8 @@
     "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/",
-    "https://www.sciencedaily.com/releases/2026/09/260919031037.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+    "https://www.sciencedaily.com/releases/2026/09/260920031905.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -305,17 +306,10 @@
     "APOD: 2026 September 19 – A Zodiacal Night",
     "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew",
     "Progress 96 Cargo Spacecraft Approaching Station for Docking",
-    "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen"
+    "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+    "8 common food additives linked to high blood pressure and heart disease"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-06T14:27:07.327688+03:00",
-      "title": "Indonesia’s most dangerous fires are burning underground",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
-      "image": true
-    },
     {
       "time": "2026-09-06T18:54:20.159516+03:00",
       "title": "AI can now control fusion plasma faster than humans can react",
@@ -626,6 +620,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-20T19:38:20.098899+03:00",
+      "title": "8 common food additives linked to high blood pressure and heart disease",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
       "image": true
     }
   ],
