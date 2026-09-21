@@ -152,7 +152,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
     "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/",
     "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
-    "https://www.sciencedaily.com/releases/2026/09/260920031905.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+    "https://www.sciencedaily.com/releases/2026/09/260919031033.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -307,17 +308,10 @@
     "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew",
     "Progress 96 Cargo Spacecraft Approaching Station for Docking",
     "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
-    "8 common food additives linked to high blood pressure and heart disease"
+    "8 common food additives linked to high blood pressure and heart disease",
+    "Scientists discover a hidden “ID card” in cat urine"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-06T18:54:20.159516+03:00",
-      "title": "AI can now control fusion plasma faster than humans can react",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm",
-      "image": true
-    },
     {
       "time": "2026-09-06T21:44:23.624778+03:00",
       "title": "APOD: 2026 September 6 – Pluto in Enhanced Color",
@@ -628,6 +622,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-20T22:11:21.232089+03:00",
+      "title": "Scientists discover a hidden “ID card” in cat urine",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
       "image": true
     }
   ],

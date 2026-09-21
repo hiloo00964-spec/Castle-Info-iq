@@ -153,7 +153,8 @@
     "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/",
     "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
     "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
-    "https://www.sciencedaily.com/releases/2026/09/260919031033.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+    "https://www.sciencedaily.com/releases/2026/09/260920222358.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -309,17 +310,10 @@
     "Progress 96 Cargo Spacecraft Approaching Station for Docking",
     "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
     "8 common food additives linked to high blood pressure and heart disease",
-    "Scientists discover a hidden “ID card” in cat urine"
+    "Scientists discover a hidden “ID card” in cat urine",
+    "Black holes of every size follow the same surprising rule"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-06T21:44:23.624778+03:00",
-      "title": "APOD: 2026 September 6 – Pluto in Enhanced Color",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/",
-      "image": true
-    },
     {
       "time": "2026-09-06T23:57:23.501177+03:00",
       "title": "A mysterious signal around Earth could be dark matter",
@@ -630,6 +624,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-21T16:29:05.856783+03:00",
+      "title": "Black holes of every size follow the same surprising rule",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
       "image": true
     }
   ],
