@@ -154,7 +154,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
     "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
     "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
-    "https://www.sciencedaily.com/releases/2026/09/260920222358.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
+    "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -311,17 +312,10 @@
     "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
     "8 common food additives linked to high blood pressure and heart disease",
     "Scientists discover a hidden “ID card” in cat urine",
-    "Black holes of every size follow the same surprising rule"
+    "Black holes of every size follow the same surprising rule",
+    "Perseverance’s View of ‘Turquoise Bay’"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-06T23:57:23.501177+03:00",
-      "title": "A mysterious signal around Earth could be dark matter",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm",
-      "image": true
-    },
     {
       "time": "2026-09-07T21:55:59.467954+03:00",
       "title": "Thaddeus Stevens: American Jacobin",
@@ -632,6 +626,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-21T22:49:12.873407+03:00",
+      "title": "Perseverance’s View of ‘Turquoise Bay’",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
       "image": true
     }
   ],
