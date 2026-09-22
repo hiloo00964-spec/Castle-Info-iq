@@ -155,7 +155,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
     "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
     "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
-    "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/"
+    "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cmb-sag-meeting-25-sept-2026/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -313,17 +314,10 @@
     "8 common food additives linked to high blood pressure and heart disease",
     "Scientists discover a hidden “ID card” in cat urine",
     "Black holes of every size follow the same surprising rule",
-    "Perseverance’s View of ‘Turquoise Bay’"
+    "Perseverance’s View of ‘Turquoise Bay’",
+    "CMB SAG Meeting, 25 Sept 2026"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-07T21:55:59.467954+03:00",
-      "title": "Thaddeus Stevens: American Jacobin",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Thaddeus_Stevens/",
-      "image": true
-    },
     {
       "time": "2026-09-08T14:53:46.277517+03:00",
       "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
@@ -634,6 +628,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
+      "image": true
+    },
+    {
+      "time": "2026-09-22T15:13:26.930953+03:00",
+      "title": "CMB SAG Meeting, 25 Sept 2026",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cmb-sag-meeting-25-sept-2026/",
       "image": true
     }
   ],

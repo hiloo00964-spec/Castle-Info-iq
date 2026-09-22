@@ -156,7 +156,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
     "https://www.sciencedaily.com/releases/2026/09/260920222358.htm",
     "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
-    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cmb-sag-meeting-25-sept-2026/"
+    "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cmb-sag-meeting-25-sept-2026/",
+    "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-75-corrections-to-several-program-elements-regarding-sciencv-and-other-topics/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -315,17 +316,10 @@
     "Scientists discover a hidden “ID card” in cat urine",
     "Black holes of every size follow the same surprising rule",
     "Perseverance’s View of ‘Turquoise Bay’",
-    "CMB SAG Meeting, 25 Sept 2026"
+    "CMB SAG Meeting, 25 Sept 2026",
+    "Amendment 75: Corrections to several program elements regarding SciENcv and other topics"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-08T14:53:46.277517+03:00",
-      "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
-      "image": true
-    },
     {
       "time": "2026-09-08T19:55:20.315907+03:00",
       "title": "Superbubble in the Large Magellanic Cloud",
@@ -636,6 +630,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cmb-sag-meeting-25-sept-2026/",
+      "image": true
+    },
+    {
+      "time": "2026-09-22T20:27:25.192511+03:00",
+      "title": "Amendment 75: Corrections to several program elements regarding SciENcv and other topics",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-75-corrections-to-several-program-elements-regarding-sciencv-and-other-topics/",
       "image": true
     }
   ],
