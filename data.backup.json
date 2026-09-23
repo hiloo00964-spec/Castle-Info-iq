@@ -159,7 +159,8 @@
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cmb-sag-meeting-25-sept-2026/",
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-75-corrections-to-several-program-elements-regarding-sciencv-and-other-topics/",
     "https://www.nasa.gov/gallery/artemis-i-in-flight/",
-    "https://www.nasa.gov/flight-director-application-faq/"
+    "https://www.nasa.gov/flight-director-application-faq/",
+    "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -321,17 +322,10 @@
     "CMB SAG Meeting, 25 Sept 2026",
     "Amendment 75: Corrections to several program elements regarding SciENcv and other topics",
     "Artemis I In-Flight",
-    "Apply to be a Flight Director: Frequently Asked Questions"
+    "Apply to be a Flight Director: Frequently Asked Questions",
+    "Arctic Sea Ice Reaches 2026 Annual Minimum Extent"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-09T15:03:26.326976+03:00",
-      "title": "AI/ML STIG Lecture Series, 14 Sept 2026",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-14-sept-2026/",
-      "image": true
-    },
     {
       "time": "2026-09-09T19:56:44.161306+03:00",
       "title": "Abraham Lincoln: Preserver of the Union",
@@ -642,6 +636,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/flight-director-application-faq/",
+      "image": true
+    },
+    {
+      "time": "2026-09-23T20:36:32.116991+03:00",
+      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
       "image": true
     }
   ],

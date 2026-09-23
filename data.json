@@ -160,7 +160,8 @@
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-75-corrections-to-several-program-elements-regarding-sciencv-and-other-topics/",
     "https://www.nasa.gov/gallery/artemis-i-in-flight/",
     "https://www.nasa.gov/flight-director-application-faq/",
-    "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/"
+    "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+    "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -323,17 +324,10 @@
     "Amendment 75: Corrections to several program elements regarding SciENcv and other topics",
     "Artemis I In-Flight",
     "Apply to be a Flight Director: Frequently Asked Questions",
-    "Arctic Sea Ice Reaches 2026 Annual Minimum Extent"
+    "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+    "NASA Welcomes Croatia as Newest Artemis Accords Signatory"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-09T19:56:44.161306+03:00",
-      "title": "Abraham Lincoln: Preserver of the Union",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Abraham_Lincoln/",
-      "image": true
-    },
     {
       "time": "2026-09-09T22:35:00.183415+03:00",
       "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
@@ -644,6 +638,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+      "image": true
+    },
+    {
+      "time": "2026-09-24T00:53:48.133403+03:00",
+      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
       "image": true
     }
   ],
