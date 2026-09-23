@@ -158,7 +158,8 @@
     "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
     "https://science.nasa.gov/astrophysics/programs/physics-of-the-cosmos/community/cmb-sag-meeting-25-sept-2026/",
     "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-75-corrections-to-several-program-elements-regarding-sciencv-and-other-topics/",
-    "https://www.nasa.gov/gallery/artemis-i-in-flight/"
+    "https://www.nasa.gov/gallery/artemis-i-in-flight/",
+    "https://www.nasa.gov/flight-director-application-faq/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -319,17 +320,10 @@
     "Perseverance’s View of ‘Turquoise Bay’",
     "CMB SAG Meeting, 25 Sept 2026",
     "Amendment 75: Corrections to several program elements regarding SciENcv and other topics",
-    "Artemis I In-Flight"
+    "Artemis I In-Flight",
+    "Apply to be a Flight Director: Frequently Asked Questions"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-08T22:40:33.424274+03:00",
-      "title": "Astronaut Health, Lunar and Earth Photography Fill Crew’s Research Schedule",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/08/astronaut-health-lunar-and-earth-photography-fill-crews-research-schedule/",
-      "image": true
-    },
     {
       "time": "2026-09-09T15:03:26.326976+03:00",
       "title": "AI/ML STIG Lecture Series, 14 Sept 2026",
@@ -640,6 +634,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/gallery/artemis-i-in-flight/",
+      "image": true
+    },
+    {
+      "time": "2026-09-23T15:26:45.974111+03:00",
+      "title": "Apply to be a Flight Director: Frequently Asked Questions",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/flight-director-application-faq/",
       "image": true
     }
   ],
