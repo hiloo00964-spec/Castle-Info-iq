@@ -163,7 +163,8 @@
     "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
     "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
     "https://www.worldhistory.org/James_Buchanan/",
-    "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/"
+    "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/",
+    "https://www.nasa.gov/osbp/prime-contractor-blue-origin/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -329,17 +330,10 @@
     "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
     "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
     "James Buchanan: The President Who Lost the Union",
-    "Frequently Asked Questions (FAQs) on Black Holes"
+    "Frequently Asked Questions (FAQs) on Black Holes",
+    "NASA Small Business Subcontracting Program – Blue Origin"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-10T19:46:11.639695+03:00",
-      "title": "Biosphere (ROSES A.15)",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/researchers/volunteer-review-panels/biosphere-roses/",
-      "image": true
-    },
     {
       "time": "2026-09-10T22:21:48.027857+03:00",
       "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
@@ -650,6 +644,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/",
+      "image": true
+    },
+    {
+      "time": "2026-09-25T00:54:14.685208+03:00",
+      "title": "NASA Small Business Subcontracting Program – Blue Origin",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/osbp/prime-contractor-blue-origin/",
       "image": true
     }
   ],
