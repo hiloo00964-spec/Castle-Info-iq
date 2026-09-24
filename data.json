@@ -162,7 +162,8 @@
     "https://www.nasa.gov/flight-director-application-faq/",
     "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
     "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
-    "https://www.worldhistory.org/James_Buchanan/"
+    "https://www.worldhistory.org/James_Buchanan/",
+    "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -327,17 +328,10 @@
     "Apply to be a Flight Director: Frequently Asked Questions",
     "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
     "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
-    "James Buchanan: The President Who Lost the Union"
+    "James Buchanan: The President Who Lost the Union",
+    "Frequently Asked Questions (FAQs) on Black Holes"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-10T14:58:13.488799+03:00",
-      "title": "AI/ML STIG Lecture Series, 21 Sept 2026",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-21-sept-2026/",
-      "image": true
-    },
     {
       "time": "2026-09-10T19:46:11.639695+03:00",
       "title": "Biosphere (ROSES A.15)",
@@ -648,6 +642,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/James_Buchanan/",
+      "image": true
+    },
+    {
+      "time": "2026-09-24T20:39:13.300233+03:00",
+      "title": "Frequently Asked Questions (FAQs) on Black Holes",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/",
       "image": true
     }
   ],
