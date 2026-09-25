@@ -164,7 +164,8 @@
     "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
     "https://www.worldhistory.org/James_Buchanan/",
     "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/",
-    "https://www.nasa.gov/osbp/prime-contractor-blue-origin/"
+    "https://www.nasa.gov/osbp/prime-contractor-blue-origin/",
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-28-sept-2026/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -331,17 +332,10 @@
     "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
     "James Buchanan: The President Who Lost the Union",
     "Frequently Asked Questions (FAQs) on Black Holes",
-    "NASA Small Business Subcontracting Program – Blue Origin"
+    "NASA Small Business Subcontracting Program – Blue Origin",
+    "AI/ML STIG Lecture Series, 28 Sept 2026"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-10T22:21:48.027857+03:00",
-      "title": "NASA, NFL Team Up to Showcase Space, Aeronautics Innovation",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation/",
-      "image": true
-    },
     {
       "time": "2026-09-11T19:49:22.700172+03:00",
       "title": "Crew Works Exercise Research and Lab Maintenance on Light Duty Day",
@@ -652,6 +646,14 @@
       "source": "NASA Science",
       "category": "فضاء",
       "link": "https://www.nasa.gov/osbp/prime-contractor-blue-origin/",
+      "image": true
+    },
+    {
+      "time": "2026-09-25T15:25:54.851241+03:00",
+      "title": "AI/ML STIG Lecture Series, 28 Sept 2026",
+      "source": "NASA Science",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-28-sept-2026/",
       "image": true
     }
   ],
