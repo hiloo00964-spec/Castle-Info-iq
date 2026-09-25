@@ -165,7 +165,8 @@
     "https://www.worldhistory.org/James_Buchanan/",
     "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/",
     "https://www.nasa.gov/osbp/prime-contractor-blue-origin/",
-    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-28-sept-2026/"
+    "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-28-sept-2026/",
+    "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -333,17 +334,10 @@
     "James Buchanan: The President Who Lost the Union",
     "Frequently Asked Questions (FAQs) on Black Holes",
     "NASA Small Business Subcontracting Program – Blue Origin",
-    "AI/ML STIG Lecture Series, 28 Sept 2026"
+    "AI/ML STIG Lecture Series, 28 Sept 2026",
+    "2026-2027 DWU: Middle School Design Challenge"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-11T19:49:22.700172+03:00",
-      "title": "Crew Works Exercise Research and Lab Maintenance on Light Duty Day",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/11/crew-works-exercise-research-and-lab-maintenance-on-light-duty-day/",
-      "image": true
-    },
     {
       "time": "2026-09-11T22:21:48.628993+03:00",
       "title": "Space Economy Series",
@@ -655,13 +649,21 @@
       "category": "فضاء",
       "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-28-sept-2026/",
       "image": true
+    },
+    {
+      "time": "2026-09-25T20:38:17.209275+03:00",
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.5-flash-lite",
+  "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite"
   ],
   "gemini_model_preference": ""
 }
