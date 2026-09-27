@@ -170,7 +170,8 @@
     "https://science.nasa.gov/apod/circling-the-black-hole/",
     "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
     "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
-    "https://www.nasa.gov/blogs/commercialcrew/2026/09/26/nasas-spacex-crew-13-lands-at-nasa-kennedy/"
+    "https://www.nasa.gov/blogs/commercialcrew/2026/09/26/nasas-spacex-crew-13-lands-at-nasa-kennedy/",
+    "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -343,17 +344,10 @@
     "Circling the Black Hole",
     "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
     "A major risk of breast cancer screening may have been overestimated for decades",
-    "NASA’s SpaceX Crew-13 Lands at NASA Kennedy"
+    "NASA’s SpaceX Crew-13 Lands at NASA Kennedy",
+    "APOD: 2026 September 27 – Andromeda Before and After Photoshop"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-13T00:06:55.899971+03:00",
-      "title": "KMT-2025-BLG-0030L b",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/",
-      "image": true
-    },
     {
       "time": "2026-09-13T15:26:39.370792+03:00",
       "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
@@ -665,13 +659,21 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/blogs/commercialcrew/2026/09/26/nasas-spacex-crew-13-lands-at-nasa-kennedy/",
       "image": false
+    },
+    {
+      "time": "2026-09-27T15:35:39.641662+03:00",
+      "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.5-flash-lite",
+  "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite"
   ],
   "gemini_model_preference": ""
 }
