@@ -171,7 +171,8 @@
     "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
     "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
     "https://www.nasa.gov/blogs/commercialcrew/2026/09/26/nasas-spacex-crew-13-lands-at-nasa-kennedy/",
-    "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"
+    "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+    "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -345,17 +346,10 @@
     "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
     "A major risk of breast cancer screening may have been overestimated for decades",
     "NASA’s SpaceX Crew-13 Lands at NASA Kennedy",
-    "APOD: 2026 September 27 – Andromeda Before and After Photoshop"
+    "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+    "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-13T15:26:39.370792+03:00",
-      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
-      "image": true
-    },
     {
       "time": "2026-09-13T19:45:24.842836+03:00",
       "title": "Physicists can’t agree on how the Universe works",
@@ -666,6 +660,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+      "image": true
+    },
+    {
+      "time": "2026-09-27T20:21:38.594604+03:00",
+      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
       "image": true
     }
   ],
