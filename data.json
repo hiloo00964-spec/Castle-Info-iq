@@ -173,7 +173,8 @@
     "https://www.nasa.gov/blogs/commercialcrew/2026/09/26/nasas-spacex-crew-13-lands-at-nasa-kennedy/",
     "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
     "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-    "https://www.sciencedaily.com/releases/2026/09/260925005434.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+    "https://www.worldhistory.org/Battle_of_Fort_Henry/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -349,17 +350,10 @@
     "NASA’s SpaceX Crew-13 Lands at NASA Kennedy",
     "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
     "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-    "One CRISPR treatment cut “bad” cholesterol in half for a full year"
+    "One CRISPR treatment cut “bad” cholesterol in half for a full year",
+    "Battle of Fort Henry: The First Ironclad Engagement on a Fortification"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-13T22:06:37.898642+03:00",
-      "title": "Most men don’t know dairy is linked to prostate cancer risk",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
-      "image": true
-    },
     {
       "time": "2026-09-14T16:30:07.877475+03:00",
       "title": "CSDA Vendor – Wyvern",
@@ -671,10 +665,21 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
       "image": true
+    },
+    {
+      "time": "2026-09-28T23:56:37.661330+03:00",
+      "title": "Battle of Fort Henry: The First Ironclad Engagement on a Fortification",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Battle_of_Fort_Henry/",
+      "image": true
     }
   ],
-  "last_error": "2026-09-28T14:43:06.790325 | Configured Gemini models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "active_gemini_model": "gemini-3.1-flash-lite",
-  "gemini_model_fallbacks": [],
+  "last_error": "",
+  "active_gemini_model": "gemini-3.5-flash-lite",
+  "gemini_model_fallbacks": [
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite"
+  ],
   "gemini_model_preference": ""
 }
