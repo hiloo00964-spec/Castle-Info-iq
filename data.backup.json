@@ -172,7 +172,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
     "https://www.nasa.gov/blogs/commercialcrew/2026/09/26/nasas-spacex-crew-13-lands-at-nasa-kennedy/",
     "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
-    "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+    "https://www.sciencedaily.com/releases/2026/09/260925005434.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -347,17 +348,10 @@
     "A major risk of breast cancer screening may have been overestimated for decades",
     "NASA’s SpaceX Crew-13 Lands at NASA Kennedy",
     "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-    "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression"
+    "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+    "One CRISPR treatment cut “bad” cholesterol in half for a full year"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-13T19:45:24.842836+03:00",
-      "title": "Physicists can’t agree on how the Universe works",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260912220041.htm",
-      "image": true
-    },
     {
       "time": "2026-09-13T22:06:37.898642+03:00",
       "title": "Most men don’t know dairy is linked to prostate cancer risk",
@@ -669,13 +663,18 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
       "image": true
+    },
+    {
+      "time": "2026-09-28T00:43:47.053390+03:00",
+      "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+      "image": true
     }
   ],
   "last_error": "",
   "active_gemini_model": "gemini-3.1-flash-lite",
-  "gemini_model_fallbacks": [
-    "gemini-3.1-flash-lite",
-    "gemini-3.5-flash-lite"
-  ],
+  "gemini_model_fallbacks": [],
   "gemini_model_preference": ""
 }
