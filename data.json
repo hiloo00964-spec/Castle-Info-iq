@@ -174,7 +174,8 @@
     "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
     "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
     "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
-    "https://www.worldhistory.org/Battle_of_Fort_Henry/"
+    "https://www.worldhistory.org/Battle_of_Fort_Henry/",
+    "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -351,17 +352,10 @@
     "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
     "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
     "One CRISPR treatment cut “bad” cholesterol in half for a full year",
-    "Battle of Fort Henry: The First Ironclad Engagement on a Fortification"
+    "Battle of Fort Henry: The First Ironclad Engagement on a Fortification",
+    "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-14T16:30:07.877475+03:00",
-      "title": "CSDA Vendor – Wyvern",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/earth-science/csda/vendor-wyvern/",
-      "image": true
-    },
     {
       "time": "2026-09-14T22:41:32.657175+03:00",
       "title": "NASA Langley Research Center PolCube Mission Information Site",
@@ -672,6 +666,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Battle_of_Fort_Henry/",
+      "image": true
+    },
+    {
+      "time": "2026-09-29T16:33:34.493350+03:00",
+      "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
       "image": true
     }
   ],
