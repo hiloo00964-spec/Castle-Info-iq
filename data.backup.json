@@ -175,7 +175,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
     "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
     "https://www.worldhistory.org/Battle_of_Fort_Henry/",
-    "https://www.sciencedaily.com/releases/2026/09/260929053528.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+    "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -353,17 +354,10 @@
     "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
     "One CRISPR treatment cut “bad” cholesterol in half for a full year",
     "Battle of Fort Henry: The First Ironclad Engagement on a Fortification",
-    "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized"
+    "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+    "NASA Sets Crew-13 Launch, Docking Coverage"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-14T22:41:32.657175+03:00",
-      "title": "NASA Langley Research Center PolCube Mission Information Site",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/mission/polcube/",
-      "image": true
-    },
     {
       "time": "2026-09-15T15:21:41.674689+03:00",
       "title": "Franklin Pierce: The Tragic US President",
@@ -674,6 +668,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+      "image": true
+    },
+    {
+      "time": "2026-09-29T22:42:58.228323+03:00",
+      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
       "image": true
     }
   ],
