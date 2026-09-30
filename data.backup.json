@@ -176,7 +176,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
     "https://www.worldhistory.org/Battle_of_Fort_Henry/",
     "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
-    "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+    "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
+    "https://www.worldhistory.org/Taj_Mahal/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -355,17 +356,10 @@
     "One CRISPR treatment cut “bad” cholesterol in half for a full year",
     "Battle of Fort Henry: The First Ironclad Engagement on a Fortification",
     "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
-    "NASA Sets Crew-13 Launch, Docking Coverage"
+    "NASA Sets Crew-13 Launch, Docking Coverage",
+    "Taj Mahal: Symbol of Love, Power, & Mughal Architecture"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-15T15:21:41.674689+03:00",
-      "title": "Franklin Pierce: The Tragic US President",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Franklin_Pierce/",
-      "image": true
-    },
     {
       "time": "2026-09-15T20:25:05.816853+03:00",
       "title": "NASA Planetary Research Programs Community Newsletter",
@@ -676,6 +670,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
+      "image": true
+    },
+    {
+      "time": "2026-09-30T16:11:16.867817+03:00",
+      "title": "Taj Mahal: Symbol of Love, Power, & Mughal Architecture",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Taj_Mahal/",
       "image": true
     }
   ],

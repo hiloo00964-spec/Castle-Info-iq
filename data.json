@@ -177,7 +177,8 @@
     "https://www.worldhistory.org/Battle_of_Fort_Henry/",
     "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
     "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-    "https://www.worldhistory.org/Taj_Mahal/"
+    "https://www.worldhistory.org/Taj_Mahal/",
+    "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -357,17 +358,10 @@
     "Battle of Fort Henry: The First Ironclad Engagement on a Fortification",
     "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
     "NASA Sets Crew-13 Launch, Docking Coverage",
-    "Taj Mahal: Symbol of Love, Power, & Mughal Architecture"
+    "Taj Mahal: Symbol of Love, Power, & Mughal Architecture",
+    "NASA, International Partners Advance Work on Space Crops"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-15T20:25:05.816853+03:00",
-      "title": "NASA Planetary Research Programs Community Newsletter",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/researchers/planetary-science-researchers/newsletter/",
-      "image": true
-    },
     {
       "time": "2026-09-16T00:49:41.428754+03:00",
       "title": "NASA Field-Tests AI Fleet Capability for Science, Exploration",
@@ -678,6 +672,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Taj_Mahal/",
+      "image": true
+    },
+    {
+      "time": "2026-09-30T22:44:16.746198+03:00",
+      "title": "NASA, International Partners Advance Work on Space Crops",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
       "image": true
     }
   ],
