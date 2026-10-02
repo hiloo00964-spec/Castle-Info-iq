@@ -179,7 +179,8 @@
     "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
     "https://www.worldhistory.org/Taj_Mahal/",
     "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
-    "https://www.sciencedaily.com/releases/2026/09/260930020315.htm"
+    "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+    "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -361,17 +362,10 @@
     "NASA Sets Crew-13 Launch, Docking Coverage",
     "Taj Mahal: Symbol of Love, Power, & Mughal Architecture",
     "NASA, International Partners Advance Work on Space Crops",
-    "This giant stick insect fooled scientists for decades"
+    "This giant stick insect fooled scientists for decades",
+    "NASA’s SpaceX Crew-13 Launches"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-16T15:19:01.778451+03:00",
-      "title": "Korean War: How the Cold War Became a Hot War",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Korean_War/",
-      "image": true
-    },
     {
       "time": "2026-09-16T20:23:16.363338+03:00",
       "title": "AGN SIG Spotlight Series, 22 Sept 2026",
@@ -682,6 +676,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-01T22:58:42.403787+03:00",
+      "title": "NASA’s SpaceX Crew-13 Launches",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
       "image": true
     }
   ],
