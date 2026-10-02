@@ -180,7 +180,8 @@
     "https://www.worldhistory.org/Taj_Mahal/",
     "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
     "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-    "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/"
+    "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+    "https://www.worldhistory.org/Cheka/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -363,17 +364,10 @@
     "Taj Mahal: Symbol of Love, Power, & Mughal Architecture",
     "NASA, International Partners Advance Work on Space Crops",
     "This giant stick insect fooled scientists for decades",
-    "NASA’s SpaceX Crew-13 Launches"
+    "NASA’s SpaceX Crew-13 Launches",
+    "Cheka: Lenin's Secret Police"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-16T20:23:16.363338+03:00",
-      "title": "AGN SIG Spotlight Series, 22 Sept 2026",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/agn-sig-spotlight-series-22-sept-2026-2/",
-      "image": true
-    },
     {
       "time": "2026-09-17T00:48:20.744335+03:00",
       "title": "Amendment 74: A.14 Atmosphere Research Program Due Date Delay and Clarification Regarding the use of Generative AI",
@@ -684,6 +678,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+      "image": true
+    },
+    {
+      "time": "2026-10-02T16:21:59.477506+03:00",
+      "title": "Cheka: Lenin's Secret Police",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Cheka/",
       "image": true
     }
   ],

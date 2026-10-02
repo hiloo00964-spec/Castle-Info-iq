@@ -181,7 +181,8 @@
     "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
     "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
     "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
-    "https://www.worldhistory.org/Cheka/"
+    "https://www.worldhistory.org/Cheka/",
+    "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -365,17 +366,10 @@
     "NASA, International Partners Advance Work on Space Crops",
     "This giant stick insect fooled scientists for decades",
     "NASA’s SpaceX Crew-13 Launches",
-    "Cheka: Lenin's Secret Police"
+    "Cheka: Lenin's Secret Police",
+    "England's Peasant Uprising of 1381"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-17T00:48:20.744335+03:00",
-      "title": "Amendment 74: A.14 Atmosphere Research Program Due Date Delay and Clarification Regarding the use of Generative AI",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-74-a-14-atmosphere-research-program-due-date-delay-and-clarification-regarding-the-use-of-generative-ai/",
-      "image": true
-    },
     {
       "time": "2026-09-17T15:19:34.942336+03:00",
       "title": "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City",
@@ -686,6 +680,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Cheka/",
+      "image": true
+    },
+    {
+      "time": "2026-10-02T22:40:04.145784+03:00",
+      "title": "England's Peasant Uprising of 1381",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/",
       "image": true
     }
   ],
