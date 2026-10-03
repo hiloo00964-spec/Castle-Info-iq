@@ -182,7 +182,8 @@
     "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
     "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
     "https://www.worldhistory.org/Cheka/",
-    "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/"
+    "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/",
+    "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -367,17 +368,10 @@
     "This giant stick insect fooled scientists for decades",
     "NASA’s SpaceX Crew-13 Launches",
     "Cheka: Lenin's Secret Police",
-    "England's Peasant Uprising of 1381"
+    "England's Peasant Uprising of 1381",
+    "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-17T15:19:34.942336+03:00",
-      "title": "The Bombing of Tokyo in WWII: How Napalm Firestorms Destroyed a City",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/2990/the-bombing-of-tokyo-in-wwii/",
-      "image": true
-    },
     {
       "time": "2026-09-17T20:22:26.631539+03:00",
       "title": "Space Weather Living History Podcast Series Directory",
@@ -688,6 +682,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/",
+      "image": true
+    },
+    {
+      "time": "2026-10-03T15:08:45.020411+03:00",
+      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
       "image": true
     }
   ],
