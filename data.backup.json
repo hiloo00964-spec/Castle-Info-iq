@@ -183,7 +183,8 @@
     "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
     "https://www.worldhistory.org/Cheka/",
     "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/",
-    "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/"
+    "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+    "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -369,17 +370,10 @@
     "NASA’s SpaceX Crew-13 Launches",
     "Cheka: Lenin's Secret Police",
     "England's Peasant Uprising of 1381",
-    "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge"
+    "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
+    "ESA’s Juice just used Earth as a slingshot to Jupiter"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-17T20:22:26.631539+03:00",
-      "title": "Space Weather Living History Podcast Series Directory",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/learn/heat/resource/space-weather-living-history-series-directory/",
-      "image": true
-    },
     {
       "time": "2026-09-18T00:50:29.818169+03:00",
       "title": "FORTE",
@@ -690,6 +684,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+      "image": true
+    },
+    {
+      "time": "2026-10-03T19:52:52.631091+03:00",
+      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
       "image": true
     }
   ],
