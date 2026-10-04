@@ -699,7 +699,7 @@
       "image": true
     }
   ],
-  "last_error": "",
+  "last_error": "2026-10-04T17:15:09.905366 | Gemini introduced unsupported numbers: 467",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
