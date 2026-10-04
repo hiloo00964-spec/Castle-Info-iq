@@ -184,7 +184,8 @@
     "https://www.worldhistory.org/Cheka/",
     "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/",
     "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-    "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261001214015.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -371,17 +372,10 @@
     "Cheka: Lenin's Secret Police",
     "England's Peasant Uprising of 1381",
     "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-    "ESA’s Juice just used Earth as a slingshot to Jupiter"
+    "ESA’s Juice just used Earth as a slingshot to Jupiter",
+    "Chang’e-6 lunar soil contains a surprising magnetic time capsule"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-18T00:50:29.818169+03:00",
-      "title": "FORTE",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/mission/evs-4/forte/",
-      "image": true
-    },
     {
       "time": "2026-09-18T14:59:21.495870+03:00",
       "title": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
@@ -692,6 +686,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-03T22:36:21.956634+03:00",
+      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
       "image": true
     }
   ],

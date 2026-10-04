@@ -185,7 +185,8 @@
     "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/",
     "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
     "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261001214015.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261001214012.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -373,17 +374,10 @@
     "England's Peasant Uprising of 1381",
     "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
     "ESA’s Juice just used Earth as a slingshot to Jupiter",
-    "Chang’e-6 lunar soil contains a surprising magnetic time capsule"
+    "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+    "Powerful simulations reveal how the first stars changed the universe"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-18T14:59:21.495870+03:00",
-      "title": "NASA’s Moon orbiter finds a 728-foot crater that wasn’t there before",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
-      "image": true
-    },
     {
       "time": "2026-09-18T19:49:20.796357+03:00",
       "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
@@ -694,6 +688,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-04T15:57:11.520287+03:00",
+      "title": "Powerful simulations reveal how the first stars changed the universe",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
       "image": true
     }
   ],
