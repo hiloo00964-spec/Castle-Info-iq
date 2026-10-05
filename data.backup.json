@@ -186,7 +186,8 @@
     "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
     "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
     "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261001214012.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
+    "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -375,17 +376,10 @@
     "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
     "ESA’s Juice just used Earth as a slingshot to Jupiter",
     "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-    "Powerful simulations reveal how the first stars changed the universe"
+    "Powerful simulations reveal how the first stars changed the universe",
+    "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-18T19:49:20.796357+03:00",
-      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "image": false
-    },
     {
       "time": "2026-09-19T14:42:49.200612+03:00",
       "title": "APOD: 2026 September 19 – A Zodiacal Night",
@@ -697,9 +691,17 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
       "image": true
+    },
+    {
+      "time": "2026-10-05T01:06:49.121733+03:00",
+      "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
+      "image": true
     }
   ],
-  "last_error": "2026-10-04T17:15:09.905366 | Gemini introduced unsupported numbers: 467",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
