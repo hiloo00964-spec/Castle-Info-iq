@@ -188,7 +188,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
     "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
     "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
-    "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/"
+    "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/",
+    "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -379,17 +380,10 @@
     "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
     "Powerful simulations reveal how the first stars changed the universe",
     "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-    "Contacting NASA’s Langley Research Center"
+    "Contacting NASA’s Langley Research Center",
+    "NASA to Stream SpaceX Crew-12 Return, Splashdown Live"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-19T19:09:40.277003+03:00",
-      "title": "Progress 96 Cargo Spacecraft Docks to Station to Resupply Crew",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
-      "image": true
-    },
     {
       "time": "2026-09-19T22:04:52.753569+03:00",
       "title": "Progress 96 Cargo Spacecraft Approaching Station for Docking",
@@ -701,13 +695,21 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/",
       "image": true
+    },
+    {
+      "time": "2026-10-06T02:01:40.844002+03:00",
+      "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.5-flash-lite",
+  "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite"
   ],
   "gemini_model_preference": ""
 }
