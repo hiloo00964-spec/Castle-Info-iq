@@ -189,7 +189,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
     "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
     "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/",
-    "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/"
+    "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+    "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -381,17 +382,10 @@
     "Powerful simulations reveal how the first stars changed the universe",
     "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
     "Contacting NASA’s Langley Research Center",
-    "NASA to Stream SpaceX Crew-12 Return, Splashdown Live"
+    "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+    "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-19T22:04:52.753569+03:00",
-      "title": "Progress 96 Cargo Spacecraft Approaching Station for Docking",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-approaching-station-for-docking/",
-      "image": false
-    },
     {
       "time": "2026-09-20T14:55:11.839296+03:00",
       "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
@@ -703,9 +697,17 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
       "image": true
+    },
+    {
+      "time": "2026-10-06T22:54:34.398046+03:00",
+      "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
+      "image": true
     }
   ],
-  "last_error": "2026-10-06T13:47:47.609701 | Gemini introduced unsupported numbers: 80",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",

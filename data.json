@@ -190,7 +190,8 @@
     "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
     "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/",
     "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-    "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/"
+    "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
+    "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -383,17 +384,10 @@
     "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
     "Contacting NASA’s Langley Research Center",
     "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-    "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure"
+    "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
+    "NASA’s Webb finds signs of Mars-sized worlds smashing together"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-20T14:55:11.839296+03:00",
-      "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
-      "image": true
-    },
     {
       "time": "2026-09-20T19:38:20.098899+03:00",
       "title": "8 common food additives linked to high blood pressure and heart disease",
@@ -704,6 +698,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
+      "image": true
+    },
+    {
+      "time": "2026-10-07T17:03:55.984965+03:00",
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
       "image": true
     }
   ],
