@@ -191,7 +191,8 @@
     "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/",
     "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
     "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
-    "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+    "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -385,17 +386,10 @@
     "Contacting NASA’s Langley Research Center",
     "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
     "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-    "NASA’s Webb finds signs of Mars-sized worlds smashing together"
+    "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+    "NASA’s Curiosity Looks Back After Reaching Elevation Milestone"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-20T19:38:20.098899+03:00",
-      "title": "8 common food additives linked to high blood pressure and heart disease",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
-      "image": true
-    },
     {
       "time": "2026-09-20T22:11:21.232089+03:00",
       "title": "Scientists discover a hidden “ID card” in cat urine",
@@ -706,6 +700,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-07T23:19:37.907441+03:00",
+      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
       "image": true
     }
   ],
