@@ -194,7 +194,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
     "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
     "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
-    "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/"
+    "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+    "https://www.sciencedaily.com/releases/2026/10/261007233348.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -391,17 +392,10 @@
     "NASA’s Webb finds signs of Mars-sized worlds smashing together",
     "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
     "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-    "NASA Announces Bold Science Initiatives for America’s Golden Age Summit"
+    "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+    "Only one workout helped older adults lose fat and keep muscle"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-21T22:49:12.873407+03:00",
-      "title": "Perseverance’s View of ‘Turquoise Bay’",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/photojournal/perseverances-view-of-turquoise-bay/",
-      "image": true
-    },
     {
       "time": "2026-09-22T15:13:26.930953+03:00",
       "title": "CMB SAG Meeting, 25 Sept 2026",
@@ -712,6 +706,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "image": true
+    },
+    {
+      "time": "2026-10-09T16:59:58.467049+03:00",
+      "title": "Only one workout helped older adults lose fat and keep muscle",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
       "image": true
     }
   ],
