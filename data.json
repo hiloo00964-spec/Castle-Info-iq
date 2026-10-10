@@ -196,7 +196,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
     "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
     "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-    "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/"
+    "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+    "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -395,17 +396,10 @@
     "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
     "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
     "Only one workout helped older adults lose fat and keep muscle",
-    "NASA Seeks US Industry Plans for Commercial Space Stations"
+    "NASA Seeks US Industry Plans for Commercial Space Stations",
+    "APOD: 2026 October 10 – Lunar Farside"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-22T20:27:25.192511+03:00",
-      "title": "Amendment 75: Corrections to several program elements regarding SciENcv and other topics",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/researchers/solicitations/roses-2025/amendment-75-corrections-to-several-program-elements-regarding-sciencv-and-other-topics/",
-      "image": true
-    },
     {
       "time": "2026-09-23T00:43:49.205323+03:00",
       "title": "Artemis I In-Flight",
@@ -716,6 +710,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+      "image": true
+    },
+    {
+      "time": "2026-10-10T16:09:40.680063+03:00",
+      "title": "APOD: 2026 October 10 – Lunar Farside",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
       "image": true
     }
   ],
