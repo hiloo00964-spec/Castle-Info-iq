@@ -197,7 +197,8 @@
     "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
     "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
     "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
-    "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/"
+    "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+    "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -397,17 +398,10 @@
     "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
     "Only one workout helped older adults lose fat and keep muscle",
     "NASA Seeks US Industry Plans for Commercial Space Stations",
-    "APOD: 2026 October 10 – Lunar Farside"
+    "APOD: 2026 October 10 – Lunar Farside",
+    "Scientists may have found a shortcut to fusion energy"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-23T00:43:49.205323+03:00",
-      "title": "Artemis I In-Flight",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/gallery/artemis-i-in-flight/",
-      "image": true
-    },
     {
       "time": "2026-09-23T15:26:45.974111+03:00",
       "title": "Apply to be a Flight Director: Frequently Asked Questions",
@@ -718,6 +712,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+      "image": true
+    },
+    {
+      "time": "2026-10-10T22:03:38.582394+03:00",
+      "title": "Scientists may have found a shortcut to fusion energy",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
       "image": true
     }
   ],
