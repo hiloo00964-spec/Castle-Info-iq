@@ -198,7 +198,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
     "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
     "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-    "https://www.sciencedaily.com/releases/2026/10/261008005242.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261008005254.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -399,17 +400,10 @@
     "Only one workout helped older adults lose fat and keep muscle",
     "NASA Seeks US Industry Plans for Commercial Space Stations",
     "APOD: 2026 October 10 – Lunar Farside",
-    "Scientists may have found a shortcut to fusion energy"
+    "Scientists may have found a shortcut to fusion energy",
+    "The eye has a hidden cleanup system scientists never knew existed"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-23T15:26:45.974111+03:00",
-      "title": "Apply to be a Flight Director: Frequently Asked Questions",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/flight-director-application-faq/",
-      "image": true
-    },
     {
       "time": "2026-09-23T20:36:32.116991+03:00",
       "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
@@ -720,6 +714,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-11T16:38:54.019564+03:00",
+      "title": "The eye has a hidden cleanup system scientists never knew existed",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
       "image": true
     }
   ],

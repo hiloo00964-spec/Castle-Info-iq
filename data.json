@@ -199,7 +199,8 @@
     "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
     "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
     "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261008005254.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+    "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -401,17 +402,10 @@
     "NASA Seeks US Industry Plans for Commercial Space Stations",
     "APOD: 2026 October 10 – Lunar Farside",
     "Scientists may have found a shortcut to fusion energy",
-    "The eye has a hidden cleanup system scientists never knew existed"
+    "The eye has a hidden cleanup system scientists never knew existed",
+    "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-23T20:36:32.116991+03:00",
-      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
-      "image": true
-    },
     {
       "time": "2026-09-24T00:53:48.133403+03:00",
       "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
@@ -722,6 +716,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-11T22:16:08.511774+03:00",
+      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
       "image": true
     }
   ],
