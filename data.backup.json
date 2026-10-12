@@ -200,7 +200,8 @@
     "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
     "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
     "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
-    "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/"
+    "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+    "https://www.worldhistory.org/article/3003/battle-of-belmont/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -403,17 +404,10 @@
     "APOD: 2026 October 10 – Lunar Farside",
     "Scientists may have found a shortcut to fusion energy",
     "The eye has a hidden cleanup system scientists never knew existed",
-    "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos"
+    "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+    "Battle of Belmont: B. F. Sawyer's Eyewitness Account"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-24T00:53:48.133403+03:00",
-      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
-      "image": true
-    },
     {
       "time": "2026-09-24T15:25:54.832601+03:00",
       "title": "James Buchanan: The President Who Lost the Union",
@@ -724,6 +718,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+      "image": true
+    },
+    {
+      "time": "2026-10-12T19:19:27.211468+03:00",
+      "title": "Battle of Belmont: B. F. Sawyer's Eyewitness Account",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/3003/battle-of-belmont/",
       "image": true
     }
   ],

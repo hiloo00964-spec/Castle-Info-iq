@@ -201,7 +201,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
     "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
     "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-    "https://www.worldhistory.org/article/3003/battle-of-belmont/"
+    "https://www.worldhistory.org/article/3003/battle-of-belmont/",
+    "https://www.sciencedaily.com/releases/2026/10/261011211604.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -405,17 +406,10 @@
     "Scientists may have found a shortcut to fusion energy",
     "The eye has a hidden cleanup system scientists never knew existed",
     "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-    "Battle of Belmont: B. F. Sawyer's Eyewitness Account"
+    "Battle of Belmont: B. F. Sawyer's Eyewitness Account",
+    "Popular weight loss drugs linked to a surprising fingernail problem"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-24T15:25:54.832601+03:00",
-      "title": "James Buchanan: The President Who Lost the Union",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/James_Buchanan/",
-      "image": true
-    },
     {
       "time": "2026-09-24T20:39:13.300233+03:00",
       "title": "Frequently Asked Questions (FAQs) on Black Holes",
@@ -726,6 +720,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/3003/battle-of-belmont/",
+      "image": true
+    },
+    {
+      "time": "2026-10-13T02:22:29.778092+03:00",
+      "title": "Popular weight loss drugs linked to a surprising fingernail problem",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
       "image": true
     }
   ],
