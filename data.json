@@ -204,7 +204,8 @@
     "https://www.worldhistory.org/article/3003/battle-of-belmont/",
     "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
     "https://www.worldhistory.org/article/3007/first-days-in-the-union-army/",
-    "https://www.sciencedaily.com/releases/2026/10/261013015805.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261013015801.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -411,17 +412,10 @@
     "Battle of Belmont: B. F. Sawyer's Eyewitness Account",
     "Popular weight loss drugs linked to a surprising fingernail problem",
     "First Days in the Union Army: Recruitment and Training in the Civil War",
-    "Scientists reveal why some workout recovery tricks can backfire"
+    "Scientists reveal why some workout recovery tricks can backfire",
+    "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-25T15:25:54.851241+03:00",
-      "title": "AI/ML STIG Lecture Series, 28 Sept 2026",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/astrophysics/programs/cosmic-origins/community/ai-ml-stig-lecture-series-28-sept-2026/",
-      "image": true
-    },
     {
       "time": "2026-09-25T20:38:17.209275+03:00",
       "title": "2026-2027 DWU: Middle School Design Challenge",
@@ -732,6 +726,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-14T20:41:36.502654+03:00",
+      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
       "image": true
     }
   ],
