@@ -202,7 +202,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
     "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
     "https://www.worldhistory.org/article/3003/battle-of-belmont/",
-    "https://www.sciencedaily.com/releases/2026/10/261011211604.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
+    "https://www.worldhistory.org/article/3007/first-days-in-the-union-army/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -407,17 +408,10 @@
     "The eye has a hidden cleanup system scientists never knew existed",
     "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
     "Battle of Belmont: B. F. Sawyer's Eyewitness Account",
-    "Popular weight loss drugs linked to a surprising fingernail problem"
+    "Popular weight loss drugs linked to a surprising fingernail problem",
+    "First Days in the Union Army: Recruitment and Training in the Civil War"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-24T20:39:13.300233+03:00",
-      "title": "Frequently Asked Questions (FAQs) on Black Holes",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/apod/frequently-asked-questions-faqs-on-black-holes/",
-      "image": true
-    },
     {
       "time": "2026-09-25T00:54:14.685208+03:00",
       "title": "NASA Small Business Subcontracting Program – Blue Origin",
@@ -729,9 +723,17 @@
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
       "image": true
+    },
+    {
+      "time": "2026-10-13T23:26:33.312791+03:00",
+      "title": "First Days in the Union Army: Recruitment and Training in the Civil War",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/3007/first-days-in-the-union-army/",
+      "image": true
     }
   ],
-  "last_error": "2026-10-13T14:41:31.615869 | Configured Gemini models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
