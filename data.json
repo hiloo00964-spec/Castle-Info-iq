@@ -208,7 +208,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
     "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
     "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/",
-    "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
+    "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+    "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -419,17 +420,10 @@
     "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
     "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
     "75 Images of the Pacific War",
-    "NASA to Conduct Low-Altitude Flights Over Texas Farmland"
+    "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+    "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-26T19:49:24.096516+03:00",
-      "title": "A major risk of breast cancer screening may have been overestimated for decades",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260924020351.htm",
-      "image": true
-    },
     {
       "time": "2026-09-26T22:29:55.966199+03:00",
       "title": "NASA’s SpaceX Crew-13 Lands at NASA Kennedy",
@@ -740,6 +734,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "image": true
+    },
+    {
+      "time": "2026-10-16T00:52:10.883639+03:00",
+      "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
       "image": true
     }
   ],
