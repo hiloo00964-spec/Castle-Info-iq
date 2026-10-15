@@ -205,7 +205,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
     "https://www.worldhistory.org/article/3007/first-days-in-the-union-army/",
     "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261013015801.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
+    "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -413,17 +414,10 @@
     "Popular weight loss drugs linked to a surprising fingernail problem",
     "First Days in the Union Army: Recruitment and Training in the Civil War",
     "Scientists reveal why some workout recovery tricks can backfire",
-    "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats"
+    "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+    "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-25T20:38:17.209275+03:00",
-      "title": "2026-2027 DWU: Middle School Design Challenge",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
-      "image": true
-    },
     {
       "time": "2026-09-26T00:54:26.135638+03:00",
       "title": "Circling the Black Hole",
@@ -734,6 +728,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-15T00:59:11.474257+03:00",
+      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
       "image": true
     }
   ],
