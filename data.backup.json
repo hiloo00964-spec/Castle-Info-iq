@@ -206,7 +206,8 @@
     "https://www.worldhistory.org/article/3007/first-days-in-the-union-army/",
     "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
     "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
-    "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/"
+    "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+    "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -415,17 +416,10 @@
     "First Days in the Union Army: Recruitment and Training in the Civil War",
     "Scientists reveal why some workout recovery tricks can backfire",
     "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
-    "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision"
+    "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+    "75 Images of the Pacific War"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-26T00:54:26.135638+03:00",
-      "title": "Circling the Black Hole",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/apod/circling-the-black-hole/",
-      "image": true
-    },
     {
       "time": "2026-09-26T14:57:41.061416+03:00",
       "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
@@ -736,6 +730,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "image": true
+    },
+    {
+      "time": "2026-10-15T15:18:06.159106+03:00",
+      "title": "75 Images of the Pacific War",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/",
       "image": true
     }
   ],

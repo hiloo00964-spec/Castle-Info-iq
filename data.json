@@ -207,7 +207,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
     "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
     "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-    "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/"
+    "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/",
+    "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -417,17 +418,10 @@
     "Scientists reveal why some workout recovery tricks can backfire",
     "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
     "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
-    "75 Images of the Pacific War"
+    "75 Images of the Pacific War",
+    "NASA to Conduct Low-Altitude Flights Over Texas Farmland"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-26T14:57:41.061416+03:00",
-      "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
-      "image": true
-    },
     {
       "time": "2026-09-26T19:49:24.096516+03:00",
       "title": "A major risk of breast cancer screening may have been overestimated for decades",
@@ -738,6 +732,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/",
+      "image": true
+    },
+    {
+      "time": "2026-10-15T20:30:07.850649+03:00",
+      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
       "image": true
     }
   ],
