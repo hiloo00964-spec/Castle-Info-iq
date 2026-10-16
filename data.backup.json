@@ -210,7 +210,8 @@
     "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/",
     "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
     "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-    "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/"
+    "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/",
+    "https://www.sciencedaily.com/releases/2026/10/261015003803.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -423,17 +424,10 @@
     "75 Images of the Pacific War",
     "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
     "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-    "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey"
+    "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey",
+    "USC scientists discover how to create a never-ending supply of cancer-fighting cells"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-27T15:35:39.641662+03:00",
-      "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
-      "image": true
-    },
     {
       "time": "2026-09-27T20:21:38.594604+03:00",
       "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
@@ -744,6 +738,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/",
+      "image": true
+    },
+    {
+      "time": "2026-10-16T20:05:13.221382+03:00",
+      "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
       "image": true
     }
   ],
