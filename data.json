@@ -209,7 +209,8 @@
     "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
     "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/",
     "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-    "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/"
+    "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+    "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -421,17 +422,10 @@
     "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
     "75 Images of the Pacific War",
     "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-    "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission"
+    "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+    "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-26T22:29:55.966199+03:00",
-      "title": "NASA’s SpaceX Crew-13 Lands at NASA Kennedy",
-      "source": "NASA Science",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/blogs/commercialcrew/2026/09/26/nasas-spacex-crew-13-lands-at-nasa-kennedy/",
-      "image": false
-    },
     {
       "time": "2026-09-27T15:35:39.641662+03:00",
       "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
@@ -742,6 +736,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+      "image": true
+    },
+    {
+      "time": "2026-10-16T15:00:26.377556+03:00",
+      "title": "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/",
       "image": true
     }
   ],
