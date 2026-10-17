@@ -212,7 +212,8 @@
     "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
     "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/",
     "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
-    "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
+    "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+    "https://www.sciencedaily.com/releases/2026/10/261015073218.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -427,17 +428,10 @@
     "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
     "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey",
     "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
-    "NASA Names Stephen Cash Marshall Space Flight Center Director"
+    "NASA Names Stephen Cash Marshall Space Flight Center Director",
+    "The uranium cubes that exposed Nazi Germany’s nuclear failure"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-28T00:43:47.053390+03:00",
-      "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
-      "image": true
-    },
     {
       "time": "2026-09-28T23:56:37.661330+03:00",
       "title": "Battle of Fort Henry: The First Ironclad Engagement on a Fortification",
@@ -748,6 +742,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "image": true
+    },
+    {
+      "time": "2026-10-17T14:16:26.707846+03:00",
+      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
       "image": true
     }
   ],

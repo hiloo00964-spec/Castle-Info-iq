@@ -213,7 +213,8 @@
     "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/",
     "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
     "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-    "https://www.sciencedaily.com/releases/2026/10/261015073218.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261016080912.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -429,17 +430,10 @@
     "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey",
     "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
     "NASA Names Stephen Cash Marshall Space Flight Center Director",
-    "The uranium cubes that exposed Nazi Germany’s nuclear failure"
+    "The uranium cubes that exposed Nazi Germany’s nuclear failure",
+    "New drug reverses severe fatty liver disease by repairing the gut"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-28T23:56:37.661330+03:00",
-      "title": "Battle of Fort Henry: The First Ironclad Engagement on a Fortification",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Battle_of_Fort_Henry/",
-      "image": true
-    },
     {
       "time": "2026-09-29T16:33:34.493350+03:00",
       "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
@@ -750,6 +744,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-17T19:02:33.907456+03:00",
+      "title": "New drug reverses severe fatty liver disease by repairing the gut",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
       "image": true
     }
   ],
