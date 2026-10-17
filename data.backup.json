@@ -211,7 +211,8 @@
     "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
     "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
     "https://www.worldhistory.org/article/2163/lugalbanda-and-the-anzud-bird/",
-    "https://www.sciencedaily.com/releases/2026/10/261015003803.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+    "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -425,17 +426,10 @@
     "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
     "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
     "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey",
-    "USC scientists discover how to create a never-ending supply of cancer-fighting cells"
+    "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+    "NASA Names Stephen Cash Marshall Space Flight Center Director"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-27T20:21:38.594604+03:00",
-      "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
-      "image": true
-    },
     {
       "time": "2026-09-28T00:43:47.053390+03:00",
       "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
@@ -746,6 +740,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-17T00:50:20.838504+03:00",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
       "image": true
     }
   ],
