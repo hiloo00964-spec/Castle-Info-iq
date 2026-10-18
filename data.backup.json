@@ -215,7 +215,8 @@
     "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
     "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
     "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261016070624.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -433,17 +434,10 @@
     "NASA Names Stephen Cash Marshall Space Flight Center Director",
     "The uranium cubes that exposed Nazi Germany’s nuclear failure",
     "New drug reverses severe fatty liver disease by repairing the gut",
-    "NASA’s Roman Space Telescope exceeds expectations by nearly 30%"
+    "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+    "This bird flies thousands of miles, but its wings have a catch"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-29T22:42:58.228323+03:00",
-      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-      "image": true
-    },
     {
       "time": "2026-09-30T16:11:16.867817+03:00",
       "title": "Taj Mahal: Symbol of Love, Power, & Mughal Architecture",
@@ -754,6 +748,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-18T00:11:14.696356+03:00",
+      "title": "This bird flies thousands of miles, but its wings have a catch",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
       "image": true
     }
   ],
