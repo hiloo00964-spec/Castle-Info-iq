@@ -216,7 +216,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
     "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
     "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261016070624.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261015073222.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -435,17 +436,10 @@
     "The uranium cubes that exposed Nazi Germany’s nuclear failure",
     "New drug reverses severe fatty liver disease by repairing the gut",
     "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-    "This bird flies thousands of miles, but its wings have a catch"
+    "This bird flies thousands of miles, but its wings have a catch",
+    "Brain cells meant to protect us may be fueling cognitive decline"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-30T16:11:16.867817+03:00",
-      "title": "Taj Mahal: Symbol of Love, Power, & Mughal Architecture",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Taj_Mahal/",
-      "image": true
-    },
     {
       "time": "2026-09-30T22:44:16.746198+03:00",
       "title": "NASA, International Partners Advance Work on Space Crops",
@@ -756,6 +750,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-18T14:52:50.814736+03:00",
+      "title": "Brain cells meant to protect us may be fueling cognitive decline",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
       "image": true
     }
   ],
