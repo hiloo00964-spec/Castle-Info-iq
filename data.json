@@ -218,7 +218,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
     "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
     "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261017230032.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -439,17 +440,10 @@
     "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
     "This bird flies thousands of miles, but its wings have a catch",
     "Brain cells meant to protect us may be fueling cognitive decline",
-    "Scientists discover a natural compound that could protect the brain from too much salt"
+    "Scientists discover a natural compound that could protect the brain from too much salt",
+    "Physicists create a bizarre new quantum state called a fractional fermi sea"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-01T17:02:07.938831+03:00",
-      "title": "This giant stick insect fooled scientists for decades",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
-      "image": true
-    },
     {
       "time": "2026-10-01T22:58:42.403787+03:00",
       "title": "NASA’s SpaceX Crew-13 Launches",
@@ -760,6 +754,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-18T22:05:25.901579+03:00",
+      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
       "image": true
     }
   ],

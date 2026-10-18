@@ -217,7 +217,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
     "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
     "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261015073222.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261017230032.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -437,17 +438,10 @@
     "New drug reverses severe fatty liver disease by repairing the gut",
     "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
     "This bird flies thousands of miles, but its wings have a catch",
-    "Brain cells meant to protect us may be fueling cognitive decline"
+    "Brain cells meant to protect us may be fueling cognitive decline",
+    "Scientists discover a natural compound that could protect the brain from too much salt"
   ],
   "last_posts": [
-    {
-      "time": "2026-09-30T22:44:16.746198+03:00",
-      "title": "NASA, International Partners Advance Work on Space Crops",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
-      "image": true
-    },
     {
       "time": "2026-10-01T17:02:07.938831+03:00",
       "title": "This giant stick insect fooled scientists for decades",
@@ -758,6 +752,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-18T19:13:53.053749+03:00",
+      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
       "image": true
     }
   ],
