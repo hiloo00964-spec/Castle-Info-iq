@@ -219,7 +219,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
     "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
     "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261018205047.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -441,17 +442,10 @@
     "This bird flies thousands of miles, but its wings have a catch",
     "Brain cells meant to protect us may be fueling cognitive decline",
     "Scientists discover a natural compound that could protect the brain from too much salt",
-    "Physicists create a bizarre new quantum state called a fractional fermi sea"
+    "Physicists create a bizarre new quantum state called a fractional fermi sea",
+    "Alaska’s monster tsunami sent water 1,580 feet up a mountain"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-01T22:58:42.403787+03:00",
-      "title": "NASA’s SpaceX Crew-13 Launches",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
-      "image": true
-    },
     {
       "time": "2026-10-02T16:21:59.477506+03:00",
       "title": "Cheka: Lenin's Secret Police",
@@ -762,6 +756,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-19T17:10:18.738853+03:00",
+      "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
       "image": true
     }
   ],
