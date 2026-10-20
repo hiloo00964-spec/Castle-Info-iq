@@ -220,7 +220,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
     "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
     "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261018205047.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+    "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -443,17 +444,10 @@
     "Brain cells meant to protect us may be fueling cognitive decline",
     "Scientists discover a natural compound that could protect the brain from too much salt",
     "Physicists create a bizarre new quantum state called a fractional fermi sea",
-    "Alaska’s monster tsunami sent water 1,580 feet up a mountain"
+    "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
+    "NASA Improves Shock, Vibration Analysis"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-02T16:21:59.477506+03:00",
-      "title": "Cheka: Lenin's Secret Police",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Cheka/",
-      "image": true
-    },
     {
       "time": "2026-10-02T22:40:04.145784+03:00",
       "title": "England's Peasant Uprising of 1381",
@@ -764,6 +758,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-19T23:18:07.342020+03:00",
+      "title": "NASA Improves Shock, Vibration Analysis",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
       "image": true
     }
   ],
