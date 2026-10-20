@@ -221,7 +221,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
     "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
     "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
-    "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/"
+    "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+    "https://www.worldhistory.org/gilgamesh/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -445,17 +446,10 @@
     "Scientists discover a natural compound that could protect the brain from too much salt",
     "Physicists create a bizarre new quantum state called a fractional fermi sea",
     "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
-    "NASA Improves Shock, Vibration Analysis"
+    "NASA Improves Shock, Vibration Analysis",
+    "Gilgamesh: The Historical and Mythical King"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-02T22:40:04.145784+03:00",
-      "title": "England's Peasant Uprising of 1381",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/collection/333/englands-peasant-uprising-of-1381/",
-      "image": true
-    },
     {
       "time": "2026-10-03T15:08:45.020411+03:00",
       "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
@@ -767,13 +761,18 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
       "image": true
+    },
+    {
+      "time": "2026-10-20T15:24:10.139909+03:00",
+      "title": "Gilgamesh: The Historical and Mythical King",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/gilgamesh/",
+      "image": true
     }
   ],
   "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
-  "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
-  ],
+  "gemini_model_fallbacks": [],
   "gemini_model_preference": ""
 }
