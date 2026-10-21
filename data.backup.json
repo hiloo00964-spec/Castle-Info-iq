@@ -224,7 +224,8 @@
     "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
     "https://www.worldhistory.org/gilgamesh/",
     "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
-    "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/"
+    "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/",
+    "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -451,17 +452,10 @@
     "NASA Improves Shock, Vibration Analysis",
     "Gilgamesh: The Historical and Mythical King",
     "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-    "The Ideal of Christendom in the Middle Ages & Beyond"
+    "The Ideal of Christendom in the Middle Ages & Beyond",
+    "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-03T22:36:21.956634+03:00",
-      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
-      "image": true
-    },
     {
       "time": "2026-10-04T15:57:11.520287+03:00",
       "title": "Powerful simulations reveal how the first stars changed the universe",
@@ -772,6 +766,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/",
+      "image": true
+    },
+    {
+      "time": "2026-10-21T20:47:14.550679+03:00",
+      "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
       "image": true
     }
   ],
