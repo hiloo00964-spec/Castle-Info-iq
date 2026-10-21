@@ -223,7 +223,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
     "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
     "https://www.worldhistory.org/gilgamesh/",
-    "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+    "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+    "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -449,17 +450,10 @@
     "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
     "NASA Improves Shock, Vibration Analysis",
     "Gilgamesh: The Historical and Mythical King",
-    "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights"
+    "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+    "The Ideal of Christendom in the Middle Ages & Beyond"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-03T19:52:52.631091+03:00",
-      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
-      "image": true
-    },
     {
       "time": "2026-10-03T22:36:21.956634+03:00",
       "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
@@ -770,6 +764,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+      "image": true
+    },
+    {
+      "time": "2026-10-21T15:35:15.496967+03:00",
+      "title": "The Ideal of Christendom in the Middle Ages & Beyond",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/",
       "image": true
     }
   ],
