@@ -222,7 +222,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
     "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
     "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-    "https://www.worldhistory.org/gilgamesh/"
+    "https://www.worldhistory.org/gilgamesh/",
+    "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -447,17 +448,10 @@
     "Physicists create a bizarre new quantum state called a fractional fermi sea",
     "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
     "NASA Improves Shock, Vibration Analysis",
-    "Gilgamesh: The Historical and Mythical King"
+    "Gilgamesh: The Historical and Mythical King",
+    "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-03T15:08:45.020411+03:00",
-      "title": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
-      "image": true
-    },
     {
       "time": "2026-10-03T19:52:52.631091+03:00",
       "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
@@ -769,9 +763,17 @@
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/gilgamesh/",
       "image": true
+    },
+    {
+      "time": "2026-10-21T00:59:42.183033+03:00",
+      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+      "image": true
     }
   ],
-  "last_error": "2026-10-20T17:39:26.432979 | Configured Gemini models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
