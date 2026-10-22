@@ -228,7 +228,8 @@
     "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
     "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
     "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -459,17 +460,10 @@
     "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
     "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
     "The Eternal Life of Gilgamesh: Literary Immortality",
-    "NASA’s Hubble Charts Path for Roman with Gravitational Lenses"
+    "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+    "NASA Invites Media to 2026 von Braun Space Exploration Symposium"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-06T02:01:40.844002+03:00",
-      "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "image": true
-    },
     {
       "time": "2026-10-06T22:54:34.398046+03:00",
       "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
@@ -780,6 +774,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+      "image": true
+    },
+    {
+      "time": "2026-10-23T01:00:18.653564+03:00",
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
       "image": true
     }
   ],
