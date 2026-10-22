@@ -225,7 +225,8 @@
     "https://www.worldhistory.org/gilgamesh/",
     "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
     "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/",
-    "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/"
+    "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+    "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -453,17 +454,10 @@
     "Gilgamesh: The Historical and Mythical King",
     "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
     "The Ideal of Christendom in the Middle Ages & Beyond",
-    "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama"
+    "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+    "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-04T15:57:11.520287+03:00",
-      "title": "Powerful simulations reveal how the first stars changed the universe",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm",
-      "image": true
-    },
     {
       "time": "2026-10-05T01:06:49.121733+03:00",
       "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
@@ -774,6 +768,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+      "image": true
+    },
+    {
+      "time": "2026-10-22T01:02:23.372916+03:00",
+      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
       "image": true
     }
   ],

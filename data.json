@@ -226,7 +226,8 @@
     "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
     "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/",
     "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
-    "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/"
+    "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+    "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -455,17 +456,10 @@
     "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
     "The Ideal of Christendom in the Middle Ages & Beyond",
     "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-    "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions"
+    "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+    "The Eternal Life of Gilgamesh: Literary Immortality"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-05T01:06:49.121733+03:00",
-      "title": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
-      "image": true
-    },
     {
       "time": "2026-10-05T18:24:57.669821+03:00",
       "title": "Contacting NASA’s Langley Research Center",
@@ -776,6 +770,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "image": true
+    },
+    {
+      "time": "2026-10-22T15:38:46.137161+03:00",
+      "title": "The Eternal Life of Gilgamesh: Literary Immortality",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
       "image": true
     }
   ],
