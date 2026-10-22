@@ -227,7 +227,8 @@
     "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/",
     "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
     "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-    "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/"
+    "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -457,17 +458,10 @@
     "The Ideal of Christendom in the Middle Ages & Beyond",
     "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
     "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-    "The Eternal Life of Gilgamesh: Literary Immortality"
+    "The Eternal Life of Gilgamesh: Literary Immortality",
+    "NASA’s Hubble Charts Path for Roman with Gravitational Lenses"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-05T18:24:57.669821+03:00",
-      "title": "Contacting NASA’s Langley Research Center",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/centers-and-facilities/langley/contacting-nasas-langley-research-center/",
-      "image": true
-    },
     {
       "time": "2026-10-06T02:01:40.844002+03:00",
       "title": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
@@ -778,6 +772,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
+      "image": true
+    },
+    {
+      "time": "2026-10-22T20:44:24.457748+03:00",
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
       "image": true
     }
   ],
