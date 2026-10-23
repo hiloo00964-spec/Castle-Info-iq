@@ -229,7 +229,8 @@
     "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
     "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-    "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/"
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+    "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -461,17 +462,10 @@
     "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
     "The Eternal Life of Gilgamesh: Literary Immortality",
     "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
-    "NASA Invites Media to 2026 von Braun Space Exploration Symposium"
+    "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+    "One of Earth’s most powerful supervolcanoes is refilling with fresh magma"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-06T22:54:34.398046+03:00",
-      "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
-      "image": true
-    },
     {
       "time": "2026-10-07T17:03:55.984965+03:00",
       "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
@@ -782,6 +776,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "image": true
+    },
+    {
+      "time": "2026-10-23T15:17:30.235156+03:00",
+      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
       "image": true
     }
   ],
