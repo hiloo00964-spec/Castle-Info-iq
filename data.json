@@ -231,7 +231,8 @@
     "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
     "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
     "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-    "https://www.worldhistory.org/Seven_Years'_War/"
+    "https://www.worldhistory.org/Seven_Years'_War/",
+    "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -465,17 +466,10 @@
     "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
     "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
     "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-    "Seven Years' War: The 18th-Century World War"
+    "Seven Years' War: The 18th-Century World War",
+    "RS-25 Engine Tests at NASA Stennis"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-07T23:19:37.907441+03:00",
-      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
-      "image": true
-    },
     {
       "time": "2026-10-08T17:13:02.966171+03:00",
       "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
@@ -786,6 +780,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Seven_Years'_War/",
+      "image": true
+    },
+    {
+      "time": "2026-10-24T00:46:18.323524+03:00",
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
       "image": true
     }
   ],

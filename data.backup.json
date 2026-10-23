@@ -230,7 +230,8 @@
     "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
     "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-    "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+    "https://www.worldhistory.org/Seven_Years'_War/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -463,17 +464,10 @@
     "The Eternal Life of Gilgamesh: Literary Immortality",
     "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
     "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-    "One of Earth’s most powerful supervolcanoes is refilling with fresh magma"
+    "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+    "Seven Years' War: The 18th-Century World War"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-07T17:03:55.984965+03:00",
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
-      "image": true
-    },
     {
       "time": "2026-10-07T23:19:37.907441+03:00",
       "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
@@ -784,6 +778,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-23T20:37:01.716530+03:00",
+      "title": "Seven Years' War: The 18th-Century World War",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Seven_Years'_War/",
       "image": true
     }
   ],
