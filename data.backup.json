@@ -232,7 +232,8 @@
     "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
     "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
     "https://www.worldhistory.org/Seven_Years'_War/",
-    "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
+    "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+    "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -467,17 +468,10 @@
     "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
     "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
     "Seven Years' War: The 18th-Century World War",
-    "RS-25 Engine Tests at NASA Stennis"
+    "RS-25 Engine Tests at NASA Stennis",
+    "Dental implants can hijack your immune system, scientists discover"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-08T17:13:02.966171+03:00",
-      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm",
-      "image": true
-    },
     {
       "time": "2026-10-08T23:21:47.485389+03:00",
       "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
@@ -788,6 +782,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+      "image": true
+    },
+    {
+      "time": "2026-10-24T14:43:28.359115+03:00",
+      "title": "Dental implants can hijack your immune system, scientists discover",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
       "image": true
     }
   ],

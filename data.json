@@ -233,7 +233,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
     "https://www.worldhistory.org/Seven_Years'_War/",
     "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-    "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261023023732.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -469,17 +470,10 @@
     "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
     "Seven Years' War: The 18th-Century World War",
     "RS-25 Engine Tests at NASA Stennis",
-    "Dental implants can hijack your immune system, scientists discover"
+    "Dental implants can hijack your immune system, scientists discover",
+    "Could lowering high blood pressure be as simple as stimulating your ear?"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-08T23:21:47.485389+03:00",
-      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
-      "image": true
-    },
     {
       "time": "2026-10-09T16:59:58.467049+03:00",
       "title": "Only one workout helped older adults lose fat and keep muscle",
@@ -790,6 +784,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-24T19:22:27.799846+03:00",
+      "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
       "image": true
     }
   ],
