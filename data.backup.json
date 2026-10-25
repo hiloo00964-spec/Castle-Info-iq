@@ -234,7 +234,8 @@
     "https://www.worldhistory.org/Seven_Years'_War/",
     "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
     "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261023023732.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -471,17 +472,10 @@
     "Seven Years' War: The 18th-Century World War",
     "RS-25 Engine Tests at NASA Stennis",
     "Dental implants can hijack your immune system, scientists discover",
-    "Could lowering high blood pressure be as simple as stimulating your ear?"
+    "Could lowering high blood pressure be as simple as stimulating your ear?",
+    "A hidden bias in human language challenges 70 years of science"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-09T16:59:58.467049+03:00",
-      "title": "Only one workout helped older adults lose fat and keep muscle",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-      "image": true
-    },
     {
       "time": "2026-10-09T22:54:38.800241+03:00",
       "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
@@ -792,6 +786,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-24T22:10:19.188467+03:00",
+      "title": "A hidden bias in human language challenges 70 years of science",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
       "image": true
     }
   ],

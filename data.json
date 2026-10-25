@@ -235,7 +235,8 @@
     "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
     "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
     "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+    "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -473,17 +474,10 @@
     "RS-25 Engine Tests at NASA Stennis",
     "Dental implants can hijack your immune system, scientists discover",
     "Could lowering high blood pressure be as simple as stimulating your ear?",
-    "A hidden bias in human language challenges 70 years of science"
+    "A hidden bias in human language challenges 70 years of science",
+    "APOD: 2026 October 25 – Dark Matter in a Simulated Universe"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-09T22:54:38.800241+03:00",
-      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
-      "image": true
-    },
     {
       "time": "2026-10-10T16:09:40.680063+03:00",
       "title": "APOD: 2026 October 10 – Lunar Farside",
@@ -794,6 +788,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-25T15:12:54.582648+03:00",
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
       "image": true
     }
   ],
