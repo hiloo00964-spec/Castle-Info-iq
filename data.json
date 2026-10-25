@@ -236,7 +236,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
     "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
     "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-    "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/"
+    "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+    "https://www.sciencedaily.com/releases/2026/10/261024222030.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -475,17 +476,10 @@
     "Dental implants can hijack your immune system, scientists discover",
     "Could lowering high blood pressure be as simple as stimulating your ear?",
     "A hidden bias in human language challenges 70 years of science",
-    "APOD: 2026 October 25 – Dark Matter in a Simulated Universe"
+    "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+    "Just two drinks a day may be far riskier than you think"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-10T16:09:40.680063+03:00",
-      "title": "APOD: 2026 October 10 – Lunar Farside",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-      "image": true
-    },
     {
       "time": "2026-10-10T22:03:38.582394+03:00",
       "title": "Scientists may have found a shortcut to fusion energy",
@@ -796,6 +790,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
+      "image": true
+    },
+    {
+      "time": "2026-10-25T19:54:51.893441+03:00",
+      "title": "Just two drinks a day may be far riskier than you think",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222030.htm",
       "image": true
     }
   ],
