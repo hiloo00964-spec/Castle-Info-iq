@@ -240,7 +240,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261024222030.htm",
     "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
     "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-    "https://www.worldhistory.org/collection/331/first-16-us-presidents/"
+    "https://www.worldhistory.org/collection/331/first-16-us-presidents/",
+    "https://www.sciencedaily.com/releases/2026/10/261026225620.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -483,17 +484,10 @@
     "Just two drinks a day may be far riskier than you think",
     "New evidence suggests spinosaurus spent most of its life underwater",
     "Exercise doesn't just strengthen your heart. It rewires it",
-    "First 16 US Presidents: From Washington to Lincoln"
+    "First 16 US Presidents: From Washington to Lincoln",
+    "The secret to slower aging may be hiding in your gut"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-12T19:19:27.211468+03:00",
-      "title": "Battle of Belmont: B. F. Sawyer's Eyewitness Account",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/3003/battle-of-belmont/",
-      "image": true
-    },
     {
       "time": "2026-10-13T02:22:29.778092+03:00",
       "title": "Popular weight loss drugs linked to a surprising fingernail problem",
@@ -804,6 +798,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/collection/331/first-16-us-presidents/",
+      "image": true
+    },
+    {
+      "time": "2026-10-27T15:52:17.842412+03:00",
+      "title": "The secret to slower aging may be hiding in your gut",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
       "image": true
     }
   ],

@@ -241,7 +241,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
     "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
     "https://www.worldhistory.org/collection/331/first-16-us-presidents/",
-    "https://www.sciencedaily.com/releases/2026/10/261026225620.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+    "https://www.worldhistory.org/James_Longstreet/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -485,17 +486,10 @@
     "New evidence suggests spinosaurus spent most of its life underwater",
     "Exercise doesn't just strengthen your heart. It rewires it",
     "First 16 US Presidents: From Washington to Lincoln",
-    "The secret to slower aging may be hiding in your gut"
+    "The secret to slower aging may be hiding in your gut",
+    "James Longstreet: Civil War Hero and Lost Cause Villain"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-13T02:22:29.778092+03:00",
-      "title": "Popular weight loss drugs linked to a surprising fingernail problem",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
-      "image": true
-    },
     {
       "time": "2026-10-13T23:26:33.312791+03:00",
       "title": "First Days in the Union Army: Recruitment and Training in the Civil War",
@@ -806,6 +800,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-27T21:28:57.368143+03:00",
+      "title": "James Longstreet: Civil War Hero and Lost Cause Villain",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/James_Longstreet/",
       "image": true
     }
   ],
