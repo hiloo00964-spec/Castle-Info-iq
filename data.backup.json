@@ -239,7 +239,8 @@
     "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
     "https://www.sciencedaily.com/releases/2026/10/261024222030.htm",
     "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261025222848.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+    "https://www.worldhistory.org/collection/331/first-16-us-presidents/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -481,17 +482,10 @@
     "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
     "Just two drinks a day may be far riskier than you think",
     "New evidence suggests spinosaurus spent most of its life underwater",
-    "Exercise doesn't just strengthen your heart. It rewires it"
+    "Exercise doesn't just strengthen your heart. It rewires it",
+    "First 16 US Presidents: From Washington to Lincoln"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-11T22:16:08.511774+03:00",
-      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
-      "image": true
-    },
     {
       "time": "2026-10-12T19:19:27.211468+03:00",
       "title": "Battle of Belmont: B. F. Sawyer's Eyewitness Account",
@@ -802,6 +796,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-26T23:13:51.317051+03:00",
+      "title": "First 16 US Presidents: From Washington to Lincoln",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/collection/331/first-16-us-presidents/",
       "image": true
     }
   ],
