@@ -813,7 +813,7 @@
       "image": true
     }
   ],
-  "last_error": "",
+  "last_error": "2026-10-28T13:40:45.562580 | Gemini introduced unsupported numbers: ٣٠",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
