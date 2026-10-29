@@ -243,7 +243,8 @@
     "https://www.worldhistory.org/collection/331/first-16-us-presidents/",
     "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
     "https://www.worldhistory.org/James_Longstreet/",
-    "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
+    "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+    "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -489,17 +490,10 @@
     "First 16 US Presidents: From Washington to Lincoln",
     "The secret to slower aging may be hiding in your gut",
     "James Longstreet: Civil War Hero and Lost Cause Villain",
-    "NASA Invites Media to Crew Completion of Yearlong Mars Simulation"
+    "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+    "Artemis III SLS Core Stage Joins Boosters at Kennedy"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-14T15:34:13.744402+03:00",
-      "title": "Scientists reveal why some workout recovery tricks can backfire",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
-      "image": true
-    },
     {
       "time": "2026-10-14T20:41:36.502654+03:00",
       "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
@@ -811,9 +805,17 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
       "image": true
+    },
+    {
+      "time": "2026-10-28T22:59:14.622762+03:00",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "image": true
     }
   ],
-  "last_error": "2026-10-28T13:40:45.562580 | Gemini introduced unsupported numbers: ٣٠",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",

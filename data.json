@@ -244,7 +244,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
     "https://www.worldhistory.org/James_Longstreet/",
     "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-    "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+    "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+    "https://www.sciencedaily.com/releases/2026/10/261028232659.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -491,17 +492,10 @@
     "The secret to slower aging may be hiding in your gut",
     "James Longstreet: Civil War Hero and Lost Cause Villain",
     "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-    "Artemis III SLS Core Stage Joins Boosters at Kennedy"
+    "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+    "A single brain signal may explain schizophrenia's most puzzling symptoms"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-14T20:41:36.502654+03:00",
-      "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
-      "image": true
-    },
     {
       "time": "2026-10-15T00:59:11.474257+03:00",
       "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
@@ -812,6 +806,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "image": true
+    },
+    {
+      "time": "2026-10-29T16:51:25.572347+03:00",
+      "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
       "image": true
     }
   ],
