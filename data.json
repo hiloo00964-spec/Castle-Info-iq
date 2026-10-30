@@ -246,7 +246,8 @@
     "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
     "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
     "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-    "https://www.worldhistory.org/Army_of_Northern_Virginia/"
+    "https://www.worldhistory.org/Army_of_Northern_Virginia/",
+    "https://www.sciencedaily.com/releases/2026/10/261029072129.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -495,17 +496,10 @@
     "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
     "Artemis III SLS Core Stage Joins Boosters at Kennedy",
     "A single brain signal may explain schizophrenia's most puzzling symptoms",
-    "Army of Northern Virginia: General Lee's Army"
+    "Army of Northern Virginia: General Lee's Army",
+    "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-15T15:18:06.159106+03:00",
-      "title": "75 Images of the Pacific War",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/collection/328/75-images-of-the-pacific-war/",
-      "image": true
-    },
     {
       "time": "2026-10-15T20:30:07.850649+03:00",
       "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
@@ -816,6 +810,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Army_of_Northern_Virginia/",
+      "image": true
+    },
+    {
+      "time": "2026-10-30T16:43:35.958350+03:00",
+      "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
       "image": true
     }
   ],

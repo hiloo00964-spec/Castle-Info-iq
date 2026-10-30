@@ -245,7 +245,8 @@
     "https://www.worldhistory.org/James_Longstreet/",
     "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
     "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-    "https://www.sciencedaily.com/releases/2026/10/261028232659.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+    "https://www.worldhistory.org/Army_of_Northern_Virginia/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -493,17 +494,10 @@
     "James Longstreet: Civil War Hero and Lost Cause Villain",
     "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
     "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-    "A single brain signal may explain schizophrenia's most puzzling symptoms"
+    "A single brain signal may explain schizophrenia's most puzzling symptoms",
+    "Army of Northern Virginia: General Lee's Army"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-15T00:59:11.474257+03:00",
-      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-      "image": true
-    },
     {
       "time": "2026-10-15T15:18:06.159106+03:00",
       "title": "75 Images of the Pacific War",
@@ -814,6 +808,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-29T22:57:45.777885+03:00",
+      "title": "Army of Northern Virginia: General Lee's Army",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Army_of_Northern_Virginia/",
       "image": true
     }
   ],
