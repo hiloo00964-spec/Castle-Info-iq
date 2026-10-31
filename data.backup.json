@@ -247,7 +247,8 @@
     "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
     "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
     "https://www.worldhistory.org/Army_of_Northern_Virginia/",
-    "https://www.sciencedaily.com/releases/2026/10/261029072129.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+    "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -497,17 +498,10 @@
     "Artemis III SLS Core Stage Joins Boosters at Kennedy",
     "A single brain signal may explain schizophrenia's most puzzling symptoms",
     "Army of Northern Virginia: General Lee's Army",
-    "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months"
+    "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
+    "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-15T20:30:07.850649+03:00",
-      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "image": true
-    },
     {
       "time": "2026-10-16T00:52:10.883639+03:00",
       "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
@@ -818,6 +812,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+      "image": true
+    },
+    {
+      "time": "2026-10-30T22:47:09.575986+03:00",
+      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
       "image": true
     }
   ],
