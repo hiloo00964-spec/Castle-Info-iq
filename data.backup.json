@@ -248,7 +248,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
     "https://www.worldhistory.org/Army_of_Northern_Virginia/",
     "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
-    "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+    "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+    "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -499,17 +500,10 @@
     "A single brain signal may explain schizophrenia's most puzzling symptoms",
     "Army of Northern Virginia: General Lee's Army",
     "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
-    "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head"
+    "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+    "APOD: 2026 October 31 – Night on a Spooky Planet"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-16T00:52:10.883639+03:00",
-      "title": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-      "image": true
-    },
     {
       "time": "2026-10-16T15:00:26.377556+03:00",
       "title": "Lugalbanda and the Anzud Bird: A Sumerian Hero's Journey",
@@ -820,6 +814,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "image": true
+    },
+    {
+      "time": "2026-10-31T16:11:56.857910+03:00",
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
       "image": true
     }
   ],
