@@ -251,7 +251,8 @@
     "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
     "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
     "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261030003001.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -505,17 +506,10 @@
     "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
     "APOD: 2026 October 31 – Night on a Spooky Planet",
     "Scientists finally discover how a common gut bacterium can trigger colon cancer",
-    "A mysterious 4,000-year-old wall is rewriting North Africa’s history"
+    "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+    "Scientists discover a surprising brain benefit of eating peanuts every day"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-17T00:50:20.838504+03:00",
-      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
-      "image": true
-    },
     {
       "time": "2026-10-17T14:16:26.707846+03:00",
       "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
@@ -826,6 +820,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-01T16:55:33.610737+03:00",
+      "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
       "image": true
     }
   ],
