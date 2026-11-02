@@ -254,7 +254,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
     "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
     "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+    "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -511,17 +512,10 @@
     "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
     "Scientists discover a surprising brain benefit of eating peanuts every day",
     "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-    "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies"
+    "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+    "Happy 65 Years: NASA’s Johnson Space Center Then and Now"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-17T21:56:54.314014+03:00",
-      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
-      "image": true
-    },
     {
       "time": "2026-10-18T00:11:14.696356+03:00",
       "title": "This bird flies thousands of miles, but its wings have a catch",
@@ -832,6 +826,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "image": true
+    },
+    {
+      "time": "2026-11-03T02:45:04.640459+03:00",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
       "image": true
     }
   ],

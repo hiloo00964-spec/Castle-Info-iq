@@ -253,7 +253,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
     "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
     "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -509,17 +510,10 @@
     "Scientists finally discover how a common gut bacterium can trigger colon cancer",
     "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
     "Scientists discover a surprising brain benefit of eating peanuts every day",
-    "Common pesticide linked to 2.5 times the risk of Parkinson’s disease"
+    "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+    "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-17T19:02:33.907456+03:00",
-      "title": "New drug reverses severe fatty liver disease by repairing the gut",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
-      "image": true
-    },
     {
       "time": "2026-10-17T21:56:54.314014+03:00",
       "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
@@ -830,6 +824,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-02T19:41:30.499687+03:00",
+      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
       "image": true
     }
   ],
