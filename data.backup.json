@@ -252,7 +252,8 @@
     "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
     "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
     "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-    "https://www.sciencedaily.com/releases/2026/10/261030003001.htm"
+    "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+    "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -507,17 +508,10 @@
     "APOD: 2026 October 31 – Night on a Spooky Planet",
     "Scientists finally discover how a common gut bacterium can trigger colon cancer",
     "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-    "Scientists discover a surprising brain benefit of eating peanuts every day"
+    "Scientists discover a surprising brain benefit of eating peanuts every day",
+    "Common pesticide linked to 2.5 times the risk of Parkinson’s disease"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-17T14:16:26.707846+03:00",
-      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
-      "image": true
-    },
     {
       "time": "2026-10-17T19:02:33.907456+03:00",
       "title": "New drug reverses severe fatty liver disease by repairing the gut",
@@ -828,6 +822,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-01T22:17:00.204657+03:00",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
       "image": true
     }
   ],
