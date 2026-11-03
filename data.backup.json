@@ -255,7 +255,8 @@
     "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
     "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-    "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/"
+    "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+    "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -513,17 +514,10 @@
     "Scientists discover a surprising brain benefit of eating peanuts every day",
     "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
     "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-    "Happy 65 Years: NASA’s Johnson Space Center Then and Now"
+    "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+    "A 50-year-old mystery of vanishing frogs reveals a hidden killer"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-18T00:11:14.696356+03:00",
-      "title": "This bird flies thousands of miles, but its wings have a catch",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
-      "image": true
-    },
     {
       "time": "2026-10-18T14:52:50.814736+03:00",
       "title": "Brain cells meant to protect us may be fueling cognitive decline",
@@ -834,6 +828,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "image": true
+    },
+    {
+      "time": "2026-11-03T17:45:52.679623+03:00",
+      "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
       "image": true
     }
   ],
