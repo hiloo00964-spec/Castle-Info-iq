@@ -257,7 +257,8 @@
     "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
     "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
     "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-    "https://www.nasa.gov/image-article/astronaut-and-earth/"
+    "https://www.nasa.gov/image-article/astronaut-and-earth/",
+    "https://www.sciencedaily.com/releases/2026/11/261103003146.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -517,17 +518,10 @@
     "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
     "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
     "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-    "Astronaut and Earth"
+    "Astronaut and Earth",
+    "Scientists may have finally explained why our brains and bodies are cross-wired"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-18T19:13:53.053749+03:00",
-      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-      "image": true
-    },
     {
       "time": "2026-10-18T22:05:25.901579+03:00",
       "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
@@ -838,6 +832,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "image": true
+    },
+    {
+      "time": "2026-11-04T17:58:36.518919+03:00",
+      "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
       "image": true
     }
   ],

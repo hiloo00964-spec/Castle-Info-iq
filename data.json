@@ -258,7 +258,8 @@
     "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
     "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
     "https://www.nasa.gov/image-article/astronaut-and-earth/",
-    "https://www.sciencedaily.com/releases/2026/11/261103003146.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+    "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -519,17 +520,10 @@
     "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
     "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
     "Astronaut and Earth",
-    "Scientists may have finally explained why our brains and bodies are cross-wired"
+    "Scientists may have finally explained why our brains and bodies are cross-wired",
+    "NASA Announces Ka-Band Satellite Relay Awards for Space Communications"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-18T22:05:25.901579+03:00",
-      "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-      "image": true
-    },
     {
       "time": "2026-10-19T17:10:18.738853+03:00",
       "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
@@ -840,6 +834,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-05T00:03:28.746679+03:00",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
       "image": true
     }
   ],
