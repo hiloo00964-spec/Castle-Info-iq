@@ -259,7 +259,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
     "https://www.nasa.gov/image-article/astronaut-and-earth/",
     "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
-    "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+    "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+    "https://www.sciencedaily.com/releases/2026/11/261103003207.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -521,17 +522,10 @@
     "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
     "Astronaut and Earth",
     "Scientists may have finally explained why our brains and bodies are cross-wired",
-    "NASA Announces Ka-Band Satellite Relay Awards for Space Communications"
+    "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+    "Scientists discover that a clogged filter could revolutionize oil refining"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-19T17:10:18.738853+03:00",
-      "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205047.htm",
-      "image": true
-    },
     {
       "time": "2026-10-19T23:18:07.342020+03:00",
       "title": "NASA Improves Shock, Vibration Analysis",
@@ -843,13 +837,21 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
       "image": true
+    },
+    {
+      "time": "2026-11-05T18:02:26.781005+03:00",
+      "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.5-flash-lite",
+  "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite"
   ],
   "gemini_model_preference": ""
 }
