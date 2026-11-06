@@ -260,7 +260,8 @@
     "https://www.nasa.gov/image-article/astronaut-and-earth/",
     "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
     "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-    "https://www.sciencedaily.com/releases/2026/11/261103003207.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+    "https://www.worldhistory.org/article/3023/battle-of-hampton-roads/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -523,17 +524,10 @@
     "Astronaut and Earth",
     "Scientists may have finally explained why our brains and bodies are cross-wired",
     "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-    "Scientists discover that a clogged filter could revolutionize oil refining"
+    "Scientists discover that a clogged filter could revolutionize oil refining",
+    "Battle of Hampton Roads: Clash of the Ironclads"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-19T23:18:07.342020+03:00",
-      "title": "NASA Improves Shock, Vibration Analysis",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
-      "image": true
-    },
     {
       "time": "2026-10-20T15:24:10.139909+03:00",
       "title": "Gilgamesh: The Historical and Mythical King",
@@ -844,6 +838,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-06T01:27:44.169565+03:00",
+      "title": "Battle of Hampton Roads: Clash of the Ironclads",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/3023/battle-of-hampton-roads/",
       "image": true
     }
   ],
