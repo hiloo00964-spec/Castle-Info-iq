@@ -264,7 +264,8 @@
     "https://www.worldhistory.org/article/3023/battle-of-hampton-roads/",
     "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
     "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/",
-    "https://www.sciencedaily.com/releases/2026/11/261105224550.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+    "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -531,17 +532,10 @@
     "Battle of Hampton Roads: Clash of the Ironclads",
     "Scientists just found dinosaur blood that survived 115 million years",
     "F. Buchanan's Account of the Battle of Hampton Roads: Excerpts From the Official Action Report",
-    "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk"
+    "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+    "NASA Seeks Next Generation of Explorers to Join Astronaut Corps"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-21T20:47:14.550679+03:00",
-      "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
-      "image": true
-    },
     {
       "time": "2026-10-22T01:02:23.372916+03:00",
       "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
@@ -852,6 +846,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-07T22:12:22.747059+03:00",
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
       "image": true
     }
   ],
