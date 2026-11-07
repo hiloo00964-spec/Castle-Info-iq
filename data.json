@@ -263,7 +263,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
     "https://www.worldhistory.org/article/3023/battle-of-hampton-roads/",
     "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-    "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/"
+    "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/",
+    "https://www.sciencedaily.com/releases/2026/11/261105224550.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -529,17 +530,10 @@
     "Scientists discover that a clogged filter could revolutionize oil refining",
     "Battle of Hampton Roads: Clash of the Ironclads",
     "Scientists just found dinosaur blood that survived 115 million years",
-    "F. Buchanan's Account of the Battle of Hampton Roads: Excerpts From the Official Action Report"
+    "F. Buchanan's Account of the Battle of Hampton Roads: Excerpts From the Official Action Report",
+    "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-21T15:35:15.496967+03:00",
-      "title": "The Ideal of Christendom in the Middle Ages & Beyond",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/3011/the-ideal-of-christendom-in-the-middle-ages--beyon/",
-      "image": true
-    },
     {
       "time": "2026-10-21T20:47:14.550679+03:00",
       "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
@@ -850,6 +844,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/",
+      "image": true
+    },
+    {
+      "time": "2026-11-07T16:39:41.431808+03:00",
+      "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
       "image": true
     }
   ],

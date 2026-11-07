@@ -262,7 +262,8 @@
     "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
     "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
     "https://www.worldhistory.org/article/3023/battle-of-hampton-roads/",
-    "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+    "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -527,17 +528,10 @@
     "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
     "Scientists discover that a clogged filter could revolutionize oil refining",
     "Battle of Hampton Roads: Clash of the Ironclads",
-    "Scientists just found dinosaur blood that survived 115 million years"
+    "Scientists just found dinosaur blood that survived 115 million years",
+    "F. Buchanan's Account of the Battle of Hampton Roads: Excerpts From the Official Action Report"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-21T00:59:42.183033+03:00",
-      "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
-      "image": true
-    },
     {
       "time": "2026-10-21T15:35:15.496967+03:00",
       "title": "The Ideal of Christendom in the Middle Ages & Beyond",
@@ -848,6 +842,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-06T23:39:39.323915+03:00",
+      "title": "F. Buchanan's Account of the Battle of Hampton Roads: Excerpts From the Official Action Report",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/",
       "image": true
     }
   ],
