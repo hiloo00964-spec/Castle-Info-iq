@@ -266,7 +266,8 @@
     "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/",
     "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
     "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-    "https://www.sciencedaily.com/releases/2026/11/261104084024.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+    "https://www.sciencedaily.com/releases/2026/11/261104084015.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -535,17 +536,10 @@
     "F. Buchanan's Account of the Battle of Hampton Roads: Excerpts From the Official Action Report",
     "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
     "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-    "A 24-hour fast triggers a surprising repair response in the gut"
+    "A 24-hour fast triggers a surprising repair response in the gut",
+    "MIT scientists turn immune cells into cancer killers inside the body"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-22T15:38:46.137161+03:00",
-      "title": "The Eternal Life of Gilgamesh: Literary Immortality",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/article/192/the-eternal-life-of-gilgamesh/",
-      "image": true
-    },
     {
       "time": "2026-10-22T20:44:24.457748+03:00",
       "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
@@ -856,6 +850,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-08T22:14:29.767091+03:00",
+      "title": "MIT scientists turn immune cells into cancer killers inside the body",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
       "image": true
     }
   ],

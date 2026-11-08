@@ -265,7 +265,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
     "https://www.worldhistory.org/article/3019/f-buchanans-account-of-the-battle-of-hampton-roads/",
     "https://www.sciencedaily.com/releases/2026/11/261105224550.htm",
-    "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+    "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+    "https://www.sciencedaily.com/releases/2026/11/261104084024.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -533,17 +534,10 @@
     "Scientists just found dinosaur blood that survived 115 million years",
     "F. Buchanan's Account of the Battle of Hampton Roads: Excerpts From the Official Action Report",
     "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
-    "NASA Seeks Next Generation of Explorers to Join Astronaut Corps"
+    "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+    "A 24-hour fast triggers a surprising repair response in the gut"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-22T01:02:23.372916+03:00",
-      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "image": true
-    },
     {
       "time": "2026-10-22T15:38:46.137161+03:00",
       "title": "The Eternal Life of Gilgamesh: Literary Immortality",
@@ -854,6 +848,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "image": true
+    },
+    {
+      "time": "2026-11-08T16:58:15.570112+03:00",
+      "title": "A 24-hour fast triggers a surprising repair response in the gut",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
       "image": true
     }
   ],
