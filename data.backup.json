@@ -269,7 +269,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
     "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
     "https://www.worldhistory.org/collection/336/ap-world-history-unit-7/",
-    "https://science.nasa.gov/blog/rubies-on-mars/"
+    "https://science.nasa.gov/blog/rubies-on-mars/",
+    "https://www.worldhistory.org/article/3016/a-history-of-modern-time/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -541,17 +542,10 @@
     "A 24-hour fast triggers a surprising repair response in the gut",
     "MIT scientists turn immune cells into cancer killers inside the body",
     "AP World History Unit 7: Global Conflict (c. 1900 to the Present)",
-    "Rubies on Mars?"
+    "Rubies on Mars?",
+    "A History of Modern Time: From Railroad Time to Atomic Clocks"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-23T15:17:30.235156+03:00",
-      "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
-      "image": true
-    },
     {
       "time": "2026-10-23T20:37:01.716530+03:00",
       "title": "Seven Years' War: The 18th-Century World War",
@@ -862,6 +856,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "image": true
+    },
+    {
+      "time": "2026-11-10T18:19:07.831438+03:00",
+      "title": "A History of Modern Time: From Railroad Time to Atomic Clocks",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/3016/a-history-of-modern-time/",
       "image": true
     }
   ],
