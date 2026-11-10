@@ -268,7 +268,8 @@
     "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
     "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
     "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
-    "https://www.worldhistory.org/collection/336/ap-world-history-unit-7/"
+    "https://www.worldhistory.org/collection/336/ap-world-history-unit-7/",
+    "https://science.nasa.gov/blog/rubies-on-mars/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -539,17 +540,10 @@
     "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
     "A 24-hour fast triggers a surprising repair response in the gut",
     "MIT scientists turn immune cells into cancer killers inside the body",
-    "AP World History Unit 7: Global Conflict (c. 1900 to the Present)"
+    "AP World History Unit 7: Global Conflict (c. 1900 to the Present)",
+    "Rubies on Mars?"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-23T01:00:18.653564+03:00",
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "image": true
-    },
     {
       "time": "2026-10-23T15:17:30.235156+03:00",
       "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
@@ -860,6 +854,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/collection/336/ap-world-history-unit-7/",
+      "image": true
+    },
+    {
+      "time": "2026-11-10T03:33:48.418791+03:00",
+      "title": "Rubies on Mars?",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/blog/rubies-on-mars/",
       "image": true
     }
   ],
