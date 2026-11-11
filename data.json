@@ -272,7 +272,8 @@
     "https://science.nasa.gov/blog/rubies-on-mars/",
     "https://www.worldhistory.org/article/3016/a-history-of-modern-time/",
     "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-    "https://www.sciencedaily.com/releases/2026/11/261110042543.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+    "https://www.worldhistory.org/Peninsula_Campaign/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -547,17 +548,10 @@
     "Rubies on Mars?",
     "A History of Modern Time: From Railroad Time to Atomic Clocks",
     "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-    "Energy drinks linked to 11 times more reports of cardiac arrest"
+    "Energy drinks linked to 11 times more reports of cardiac arrest",
+    "Peninsula Campaign: The Invasion Crippled by Fear"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-24T14:43:28.359115+03:00",
-      "title": "Dental implants can hijack your immune system, scientists discover",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
-      "image": true
-    },
     {
       "time": "2026-10-24T19:22:27.799846+03:00",
       "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
@@ -868,6 +862,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-12T00:39:23.886283+03:00",
+      "title": "Peninsula Campaign: The Invasion Crippled by Fear",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Peninsula_Campaign/",
       "image": true
     }
   ],

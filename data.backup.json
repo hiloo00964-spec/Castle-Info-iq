@@ -271,7 +271,8 @@
     "https://www.worldhistory.org/collection/336/ap-world-history-unit-7/",
     "https://science.nasa.gov/blog/rubies-on-mars/",
     "https://www.worldhistory.org/article/3016/a-history-of-modern-time/",
-    "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
+    "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+    "https://www.sciencedaily.com/releases/2026/11/261110042543.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -545,17 +546,10 @@
     "AP World History Unit 7: Global Conflict (c. 1900 to the Present)",
     "Rubies on Mars?",
     "A History of Modern Time: From Railroad Time to Atomic Clocks",
-    "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities"
+    "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+    "Energy drinks linked to 11 times more reports of cardiac arrest"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-24T00:46:18.323524+03:00",
-      "title": "RS-25 Engine Tests at NASA Stennis",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-      "image": true
-    },
     {
       "time": "2026-10-24T14:43:28.359115+03:00",
       "title": "Dental implants can hijack your immune system, scientists discover",
@@ -866,6 +860,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
+      "image": true
+    },
+    {
+      "time": "2026-11-11T17:50:02.325926+03:00",
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
       "image": true
     }
   ],
