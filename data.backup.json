@@ -270,7 +270,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
     "https://www.worldhistory.org/collection/336/ap-world-history-unit-7/",
     "https://science.nasa.gov/blog/rubies-on-mars/",
-    "https://www.worldhistory.org/article/3016/a-history-of-modern-time/"
+    "https://www.worldhistory.org/article/3016/a-history-of-modern-time/",
+    "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -543,17 +544,10 @@
     "MIT scientists turn immune cells into cancer killers inside the body",
     "AP World History Unit 7: Global Conflict (c. 1900 to the Present)",
     "Rubies on Mars?",
-    "A History of Modern Time: From Railroad Time to Atomic Clocks"
+    "A History of Modern Time: From Railroad Time to Atomic Clocks",
+    "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-23T20:37:01.716530+03:00",
-      "title": "Seven Years' War: The 18th-Century World War",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Seven_Years'_War/",
-      "image": true
-    },
     {
       "time": "2026-10-24T00:46:18.323524+03:00",
       "title": "RS-25 Engine Tests at NASA Stennis",
@@ -864,6 +858,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/3016/a-history-of-modern-time/",
+      "image": true
+    },
+    {
+      "time": "2026-11-11T01:03:31.592177+03:00",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
       "image": true
     }
   ],
