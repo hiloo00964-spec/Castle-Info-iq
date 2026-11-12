@@ -274,7 +274,8 @@
     "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
     "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
     "https://www.worldhistory.org/Peninsula_Campaign/",
-    "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+    "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -551,17 +552,10 @@
     "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
     "Energy drinks linked to 11 times more reports of cardiac arrest",
     "Peninsula Campaign: The Invasion Crippled by Fear",
-    "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman"
+    "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+    "I Am Artemis Katie Spicer"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-24T22:10:19.188467+03:00",
-      "title": "A hidden bias in human language challenges 70 years of science",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-      "image": true
-    },
     {
       "time": "2026-10-25T15:12:54.582648+03:00",
       "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
@@ -872,6 +866,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+      "image": true
+    },
+    {
+      "time": "2026-11-13T01:29:46.736964+03:00",
+      "title": "I Am Artemis Katie Spicer",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
       "image": true
     }
   ],
