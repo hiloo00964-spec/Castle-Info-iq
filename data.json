@@ -273,7 +273,8 @@
     "https://www.worldhistory.org/article/3016/a-history-of-modern-time/",
     "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
     "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-    "https://www.worldhistory.org/Peninsula_Campaign/"
+    "https://www.worldhistory.org/Peninsula_Campaign/",
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -549,17 +550,10 @@
     "A History of Modern Time: From Railroad Time to Atomic Clocks",
     "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
     "Energy drinks linked to 11 times more reports of cardiac arrest",
-    "Peninsula Campaign: The Invasion Crippled by Fear"
+    "Peninsula Campaign: The Invasion Crippled by Fear",
+    "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-24T19:22:27.799846+03:00",
-      "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
-      "image": true
-    },
     {
       "time": "2026-10-24T22:10:19.188467+03:00",
       "title": "A hidden bias in human language challenges 70 years of science",
@@ -870,6 +864,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Peninsula_Campaign/",
+      "image": true
+    },
+    {
+      "time": "2026-11-12T18:41:20.251777+03:00",
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
       "image": true
     }
   ],
