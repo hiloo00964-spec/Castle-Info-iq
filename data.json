@@ -275,7 +275,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
     "https://www.worldhistory.org/Peninsula_Campaign/",
     "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
-    "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+    "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+    "https://www.worldhistory.org/Stakhanovite_Movement/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -553,17 +554,10 @@
     "Energy drinks linked to 11 times more reports of cardiac arrest",
     "Peninsula Campaign: The Invasion Crippled by Fear",
     "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
-    "I Am Artemis Katie Spicer"
+    "I Am Artemis Katie Spicer",
+    "Stakhanovite Movement: Labour Productivity in Stalin's USSR"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-25T15:12:54.582648+03:00",
-      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-      "image": true
-    },
     {
       "time": "2026-10-25T19:54:51.893441+03:00",
       "title": "Just two drinks a day may be far riskier than you think",
@@ -875,9 +869,17 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
       "image": true
+    },
+    {
+      "time": "2026-11-14T00:14:34.707832+03:00",
+      "title": "Stakhanovite Movement: Labour Productivity in Stalin's USSR",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Stakhanovite_Movement/",
+      "image": true
     }
   ],
-  "last_error": "2026-11-13T14:59:30.702811 | Gemini introduced unsupported numbers: 750",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
