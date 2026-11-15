@@ -278,7 +278,8 @@
     "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
     "https://www.worldhistory.org/Stakhanovite_Movement/",
     "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-    "https://www.sciencedaily.com/releases/2026/11/261112230450.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+    "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -559,17 +560,10 @@
     "I Am Artemis Katie Spicer",
     "Stakhanovite Movement: Labour Productivity in Stalin's USSR",
     "Scientists find a simple daily routine linked to less pain and depression",
-    "A new fiber supplement could help millions suffering from irritable bowel syndrome"
+    "A new fiber supplement could help millions suffering from irritable bowel syndrome",
+    "Uranus and Neptune’s bizarre magnetic fields may finally be explained"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-26T16:45:01.607225+03:00",
-      "title": "Exercise doesn't just strengthen your heart. It rewires it",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-      "image": true
-    },
     {
       "time": "2026-10-26T23:13:51.317051+03:00",
       "title": "First 16 US Presidents: From Washington to Lincoln",
@@ -880,6 +874,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-15T17:25:50.825758+03:00",
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
       "image": true
     }
   ],
