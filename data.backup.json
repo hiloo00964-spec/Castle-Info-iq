@@ -279,7 +279,8 @@
     "https://www.worldhistory.org/Stakhanovite_Movement/",
     "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
     "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
-    "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -561,17 +562,10 @@
     "Stakhanovite Movement: Labour Productivity in Stalin's USSR",
     "Scientists find a simple daily routine linked to less pain and depression",
     "A new fiber supplement could help millions suffering from irritable bowel syndrome",
-    "Uranus and Neptune’s bizarre magnetic fields may finally be explained"
+    "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+    "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-26T23:13:51.317051+03:00",
-      "title": "First 16 US Presidents: From Washington to Lincoln",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/collection/331/first-16-us-presidents/",
-      "image": true
-    },
     {
       "time": "2026-10-27T15:52:17.842412+03:00",
       "title": "The secret to slower aging may be hiding in your gut",
@@ -882,6 +876,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-15T23:02:08.291329+03:00",
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
       "image": true
     }
   ],

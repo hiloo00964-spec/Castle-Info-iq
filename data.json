@@ -280,7 +280,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
     "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
     "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
-    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+    "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -563,17 +564,10 @@
     "Scientists find a simple daily routine linked to less pain and depression",
     "A new fiber supplement could help millions suffering from irritable bowel syndrome",
     "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-    "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses"
+    "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+    "Contractor to Civil Servant: NASA Welcomes Jim Mirandy"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-27T15:52:17.842412+03:00",
-      "title": "The secret to slower aging may be hiding in your gut",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
-      "image": true
-    },
     {
       "time": "2026-10-27T21:28:57.368143+03:00",
       "title": "James Longstreet: Civil War Hero and Lost Cause Villain",
@@ -884,6 +878,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-16T19:37:34.524092+03:00",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
       "image": true
     }
   ],
