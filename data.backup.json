@@ -281,7 +281,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
     "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
     "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-    "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
+    "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+    "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -565,17 +566,10 @@
     "A new fiber supplement could help millions suffering from irritable bowel syndrome",
     "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
     "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-    "Contractor to Civil Servant: NASA Welcomes Jim Mirandy"
+    "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+    "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-27T21:28:57.368143+03:00",
-      "title": "James Longstreet: Civil War Hero and Lost Cause Villain",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/James_Longstreet/",
-      "image": true
-    },
     {
       "time": "2026-10-28T01:45:17.261530+03:00",
       "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
@@ -886,6 +880,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+      "image": true
+    },
+    {
+      "time": "2026-11-17T03:34:43.988995+03:00",
+      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
       "image": true
     }
   ],
