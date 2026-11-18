@@ -282,7 +282,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
     "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
     "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
-    "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
+    "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+    "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -567,17 +568,10 @@
     "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
     "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
     "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-    "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago"
+    "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+    "NASA Launches Nuclear Power Systems Student Contest"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-28T01:45:17.261530+03:00",
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "image": true
-    },
     {
       "time": "2026-10-28T22:59:14.622762+03:00",
       "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
@@ -889,13 +883,18 @@
       "category": "فضاء",
       "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
       "image": true
+    },
+    {
+      "time": "2026-11-18T02:41:47.749466+03:00",
+      "title": "NASA Launches Nuclear Power Systems Student Contest",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+      "image": true
     }
   ],
-  "last_error": "2026-11-17T16:34:48.748621 | Gemini introduced unsupported numbers: 380",
+  "last_error": "",
   "active_gemini_model": "gemini-3.1-flash-lite",
-  "gemini_model_fallbacks": [
-    "gemini-3.1-flash-lite",
-    "gemini-3.5-flash-lite"
-  ],
+  "gemini_model_fallbacks": [],
   "gemini_model_preference": ""
 }
