@@ -285,7 +285,8 @@
     "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
     "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
     "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
-    "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+    "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -573,17 +574,10 @@
     "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
     "NASA Launches Nuclear Power Systems Student Contest",
     "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-    "Scientists tested 212 plant-based foods. Every single one contained fungal toxins"
+    "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+    "Challenge: Public Input on Life and the World in 2075"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-29T22:57:45.777885+03:00",
-      "title": "Army of Northern Virginia: General Lee's Army",
-      "source": "World History Encyclopedia",
-      "category": "تاريخ",
-      "link": "https://www.worldhistory.org/Army_of_Northern_Virginia/",
-      "image": true
-    },
     {
       "time": "2026-10-30T16:43:35.958350+03:00",
       "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
@@ -894,6 +888,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-20T02:20:35.545129+03:00",
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
       "image": true
     }
   ],
