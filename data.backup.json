@@ -283,7 +283,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
     "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
     "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
-    "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+    "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+    "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -569,17 +570,10 @@
     "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
     "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
     "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-    "NASA Launches Nuclear Power Systems Student Contest"
+    "NASA Launches Nuclear Power Systems Student Contest",
+    "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-28T22:59:14.622762+03:00",
-      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
-      "image": true
-    },
     {
       "time": "2026-10-29T16:51:25.572347+03:00",
       "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
@@ -891,9 +885,17 @@
       "category": "فضاء",
       "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
       "image": true
+    },
+    {
+      "time": "2026-11-19T02:13:08.411510+03:00",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "image": true
     }
   ],
-  "last_error": "2026-11-18T16:03:50.304216 | Configured Gemini models failed. Last error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "last_error": "",
   "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
     "gemini-3.5-flash-lite",
