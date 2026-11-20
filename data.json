@@ -286,7 +286,8 @@
     "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
     "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
     "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-    "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/"
+    "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+    "https://www.sciencedaily.com/releases/2026/11/261120070904.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -575,17 +576,10 @@
     "NASA Launches Nuclear Power Systems Student Contest",
     "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
     "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-    "Challenge: Public Input on Life and the World in 2075"
+    "Challenge: Public Input on Life and the World in 2075",
+    "Keto diet slashes liver fat by 67% in just 4 months"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-30T16:43:35.958350+03:00",
-      "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
-      "image": true
-    },
     {
       "time": "2026-10-30T22:47:09.575986+03:00",
       "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
@@ -897,13 +891,21 @@
       "category": "فضاء",
       "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
       "image": true
+    },
+    {
+      "time": "2026-11-20T18:50:32.909985+03:00",
+      "title": "Keto diet slashes liver fat by 67% in just 4 months",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.5-flash-lite",
+  "active_gemini_model": "gemini-3.1-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite"
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite"
   ],
   "gemini_model_preference": ""
 }
