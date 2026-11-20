@@ -287,7 +287,8 @@
     "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
     "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
-    "https://www.sciencedaily.com/releases/2026/11/261120070904.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
+    "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -577,17 +578,10 @@
     "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
     "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
     "Challenge: Public Input on Life and the World in 2075",
-    "Keto diet slashes liver fat by 67% in just 4 months"
+    "Keto diet slashes liver fat by 67% in just 4 months",
+    "New NASA Seed Funding Primes Small Businesses for Innovation"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-30T22:47:09.575986+03:00",
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "image": true
-    },
     {
       "time": "2026-10-31T16:11:56.857910+03:00",
       "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
@@ -898,6 +892,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-21T01:52:23.667146+03:00",
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
       "image": true
     }
   ],
