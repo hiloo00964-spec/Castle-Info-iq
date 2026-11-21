@@ -289,7 +289,8 @@
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
     "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
     "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-    "https://www.worldhistory.org/philosophy/"
+    "https://www.worldhistory.org/philosophy/",
+    "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -581,17 +582,10 @@
     "Challenge: Public Input on Life and the World in 2075",
     "Keto diet slashes liver fat by 67% in just 4 months",
     "New NASA Seed Funding Primes Small Businesses for Innovation",
-    "Philosophy"
+    "Philosophy",
+    "Time may be far stranger than we realize. Scientists have a way to test it"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-31T21:55:43.480569+03:00",
-      "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
-      "image": true
-    },
     {
       "time": "2026-11-01T01:04:15.577090+03:00",
       "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
@@ -902,6 +896,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/philosophy/",
+      "image": true
+    },
+    {
+      "time": "2026-11-21T23:49:03.278634+03:00",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
       "image": true
     }
   ],

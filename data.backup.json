@@ -288,7 +288,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
     "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
     "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
-    "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
+    "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+    "https://www.worldhistory.org/philosophy/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -579,17 +580,10 @@
     "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
     "Challenge: Public Input on Life and the World in 2075",
     "Keto diet slashes liver fat by 67% in just 4 months",
-    "New NASA Seed Funding Primes Small Businesses for Innovation"
+    "New NASA Seed Funding Primes Small Businesses for Innovation",
+    "Philosophy"
   ],
   "last_posts": [
-    {
-      "time": "2026-10-31T16:11:56.857910+03:00",
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "image": true
-    },
     {
       "time": "2026-10-31T21:55:43.480569+03:00",
       "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
@@ -900,6 +894,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+      "image": true
+    },
+    {
+      "time": "2026-11-21T17:59:59.163347+03:00",
+      "title": "Philosophy",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/philosophy/",
       "image": true
     }
   ],
