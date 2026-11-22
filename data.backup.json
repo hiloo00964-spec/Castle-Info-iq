@@ -290,7 +290,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
     "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
     "https://www.worldhistory.org/philosophy/",
-    "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+    "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -583,17 +584,10 @@
     "Keto diet slashes liver fat by 67% in just 4 months",
     "New NASA Seed Funding Primes Small Businesses for Innovation",
     "Philosophy",
-    "Time may be far stranger than we realize. Scientists have a way to test it"
+    "Time may be far stranger than we realize. Scientists have a way to test it",
+    "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno"
   ],
   "last_posts": [
-    {
-      "time": "2026-11-01T01:04:15.577090+03:00",
-      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm",
-      "image": true
-    },
     {
       "time": "2026-11-01T16:55:33.610737+03:00",
       "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
@@ -904,6 +898,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-22T17:58:27.573479+03:00",
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
       "image": true
     }
   ],

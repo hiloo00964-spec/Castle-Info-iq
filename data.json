@@ -291,7 +291,8 @@
     "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
     "https://www.worldhistory.org/philosophy/",
     "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-    "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
+    "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+    "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -585,17 +586,10 @@
     "New NASA Seed Funding Primes Small Businesses for Innovation",
     "Philosophy",
     "Time may be far stranger than we realize. Scientists have a way to test it",
-    "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno"
+    "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+    "65 Years of Human Spaceflight at NASA Johnson"
   ],
   "last_posts": [
-    {
-      "time": "2026-11-01T16:55:33.610737+03:00",
-      "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
-      "image": true
-    },
     {
       "time": "2026-11-01T22:17:00.204657+03:00",
       "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
@@ -906,6 +900,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+      "image": true
+    },
+    {
+      "time": "2026-11-22T23:55:55.845258+03:00",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
       "image": true
     }
   ],
