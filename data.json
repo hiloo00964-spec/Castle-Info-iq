@@ -292,7 +292,8 @@
     "https://www.worldhistory.org/philosophy/",
     "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
     "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-    "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+    "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+    "https://www.worldhistory.org/article/3026/battles-of-chattanooga/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -587,17 +588,10 @@
     "Philosophy",
     "Time may be far stranger than we realize. Scientists have a way to test it",
     "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-    "65 Years of Human Spaceflight at NASA Johnson"
+    "65 Years of Human Spaceflight at NASA Johnson",
+    "Battles of Chattanooga: The Battle Above the Clouds"
   ],
   "last_posts": [
-    {
-      "time": "2026-11-01T22:17:00.204657+03:00",
-      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
-      "image": true
-    },
     {
       "time": "2026-11-02T19:41:30.499687+03:00",
       "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
@@ -908,6 +902,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "image": true
+    },
+    {
+      "time": "2026-11-23T21:53:26.560389+03:00",
+      "title": "Battles of Chattanooga: The Battle Above the Clouds",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/article/3026/battles-of-chattanooga/",
       "image": true
     }
   ],
