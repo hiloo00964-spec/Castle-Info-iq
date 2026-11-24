@@ -293,7 +293,8 @@
     "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
     "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
     "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
-    "https://www.worldhistory.org/article/3026/battles-of-chattanooga/"
+    "https://www.worldhistory.org/article/3026/battles-of-chattanooga/",
+    "https://www.sciencedaily.com/releases/2026/11/261123005356.htm"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -589,17 +590,10 @@
     "Time may be far stranger than we realize. Scientists have a way to test it",
     "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
     "65 Years of Human Spaceflight at NASA Johnson",
-    "Battles of Chattanooga: The Battle Above the Clouds"
+    "Battles of Chattanooga: The Battle Above the Clouds",
+    "New gum disease treatment kills bad bacteria while sparing the good"
   ],
   "last_posts": [
-    {
-      "time": "2026-11-02T19:41:30.499687+03:00",
-      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-      "image": true
-    },
     {
       "time": "2026-11-03T02:45:04.640459+03:00",
       "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
@@ -911,13 +905,21 @@
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/article/3026/battles-of-chattanooga/",
       "image": true
+    },
+    {
+      "time": "2026-11-24T07:08:05.332216+03:00",
+      "title": "New gum disease treatment kills bad bacteria while sparing the good",
+      "source": "ScienceDaily",
+      "category": "علوم",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
+      "image": true
     }
   ],
   "last_error": "",
-  "active_gemini_model": "gemini-3.1-flash-lite",
+  "active_gemini_model": "gemini-3.5-flash-lite",
   "gemini_model_fallbacks": [
-    "gemini-3.1-flash-lite",
-    "gemini-3.5-flash-lite"
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite"
   ],
   "gemini_model_preference": ""
 }
