@@ -296,7 +296,8 @@
     "https://www.worldhistory.org/article/3026/battles-of-chattanooga/",
     "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
     "https://www.worldhistory.org/Seven_Days_Battles/",
-    "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
+    "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
+    "https://www.worldhistory.org/collection/337/ap-world-history-unit-8/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -595,17 +596,10 @@
     "Battles of Chattanooga: The Battle Above the Clouds",
     "New gum disease treatment kills bad bacteria while sparing the good",
     "Seven Days Battles: How Granny Lee Became Robert E. Lee",
-    "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema"
+    "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+    "AP World History Unit 8: Cold War and Decolonization (c. 1900 to the Present)"
   ],
   "last_posts": [
-    {
-      "time": "2026-11-03T23:42:28.738646+03:00",
-      "title": "Astronaut and Earth",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-      "image": true
-    },
     {
       "time": "2026-11-04T17:58:36.518919+03:00",
       "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
@@ -916,6 +910,14 @@
       "source": "NASA",
       "category": "فضاء",
       "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
+      "image": true
+    },
+    {
+      "time": "2026-11-25T20:42:44.183187+03:00",
+      "title": "AP World History Unit 8: Cold War and Decolonization (c. 1900 to the Present)",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/collection/337/ap-world-history-unit-8/",
       "image": true
     }
   ],

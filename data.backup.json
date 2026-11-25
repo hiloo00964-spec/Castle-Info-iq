@@ -295,7 +295,8 @@
     "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
     "https://www.worldhistory.org/article/3026/battles-of-chattanooga/",
     "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
-    "https://www.worldhistory.org/Seven_Days_Battles/"
+    "https://www.worldhistory.org/Seven_Days_Battles/",
+    "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -593,17 +594,10 @@
     "65 Years of Human Spaceflight at NASA Johnson",
     "Battles of Chattanooga: The Battle Above the Clouds",
     "New gum disease treatment kills bad bacteria while sparing the good",
-    "Seven Days Battles: How Granny Lee Became Robert E. Lee"
+    "Seven Days Battles: How Granny Lee Became Robert E. Lee",
+    "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema"
   ],
   "last_posts": [
-    {
-      "time": "2026-11-03T17:45:52.679623+03:00",
-      "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-      "source": "ScienceDaily",
-      "category": "علوم",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-      "image": true
-    },
     {
       "time": "2026-11-03T23:42:28.738646+03:00",
       "title": "Astronaut and Earth",
@@ -914,6 +908,14 @@
       "source": "World History Encyclopedia",
       "category": "تاريخ",
       "link": "https://www.worldhistory.org/Seven_Days_Battles/",
+      "image": true
+    },
+    {
+      "time": "2026-11-25T05:51:34.538046+03:00",
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "source": "NASA",
+      "category": "فضاء",
+      "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
       "image": true
     }
   ],
