@@ -294,7 +294,8 @@
     "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
     "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
     "https://www.worldhistory.org/article/3026/battles-of-chattanooga/",
-    "https://www.sciencedaily.com/releases/2026/11/261123005356.htm"
+    "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
+    "https://www.worldhistory.org/Seven_Days_Battles/"
   ],
   "posted_titles": [
     "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
@@ -591,17 +592,10 @@
     "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
     "65 Years of Human Spaceflight at NASA Johnson",
     "Battles of Chattanooga: The Battle Above the Clouds",
-    "New gum disease treatment kills bad bacteria while sparing the good"
+    "New gum disease treatment kills bad bacteria while sparing the good",
+    "Seven Days Battles: How Granny Lee Became Robert E. Lee"
   ],
   "last_posts": [
-    {
-      "time": "2026-11-03T02:45:04.640459+03:00",
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "source": "NASA",
-      "category": "فضاء",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "image": true
-    },
     {
       "time": "2026-11-03T17:45:52.679623+03:00",
       "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
@@ -912,6 +906,14 @@
       "source": "ScienceDaily",
       "category": "علوم",
       "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
+      "image": true
+    },
+    {
+      "time": "2026-11-24T21:28:45.182490+03:00",
+      "title": "Seven Days Battles: How Granny Lee Became Robert E. Lee",
+      "source": "World History Encyclopedia",
+      "category": "تاريخ",
+      "link": "https://www.worldhistory.org/Seven_Days_Battles/",
       "image": true
     }
   ],
